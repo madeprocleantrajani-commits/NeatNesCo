@@ -325,6 +325,18 @@ export default function App() {
             <span style={{ display: 'block' }}>ALDI</span>
             <span style={{ display: 'block' }}>RULI</span>
           </h1>
+          <p style={{
+            fontSize: 'clamp(0.75rem, 1.2vw, 1rem)',
+            fontFamily: "'Inter', sans-serif",
+            fontWeight: 300,
+            letterSpacing: '0.15em',
+            textTransform: 'uppercase',
+            color: '#00c3ff',
+            margin: '1rem 0 0',
+            opacity: 0.9,
+          }}>
+            Developer & Designer
+          </p>
         </div>
 
         {/* Top Right - Portfolio Link */}
@@ -338,7 +350,7 @@ export default function App() {
           transform: loaded ? 'translateY(0)' : 'translateY(-20px)',
           transition: 'all 0.8s ease-out 0.2s',
         }}>
-          <button 
+          <button
             onClick={() => setShowProjects(true)}
             style={{
               fontSize: 'clamp(0.7rem, 0.9vw, 0.85rem)',
@@ -347,10 +359,24 @@ export default function App() {
               letterSpacing: '0.2em',
               textTransform: 'uppercase',
               textDecoration: 'none',
-              color: '#fff',
+              color: '#00c3ff',
               cursor: 'pointer',
-              background: 'transparent',
-              border: 'none',
+              background: 'rgba(0, 195, 255, 0.1)',
+              border: '1px solid rgba(0, 195, 255, 0.3)',
+              padding: '10px 20px',
+              borderRadius: '4px',
+              transition: 'all 0.3s ease',
+              boxShadow: '0 0 20px rgba(0, 195, 255, 0.2)',
+            }}
+            onMouseEnter={(e) => {
+              e.target.style.boxShadow = '0 0 30px rgba(0, 195, 255, 0.5)';
+              e.target.style.background = 'rgba(0, 195, 255, 0.2)';
+              e.target.style.borderColor = 'rgba(0, 195, 255, 0.6)';
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.boxShadow = '0 0 20px rgba(0, 195, 255, 0.2)';
+              e.target.style.background = 'rgba(0, 195, 255, 0.1)';
+              e.target.style.borderColor = 'rgba(0, 195, 255, 0.3)';
             }}
           >
             Projects
@@ -358,30 +384,64 @@ export default function App() {
 
         </div>
 
-        {/* Bottom Left - Tagline */}
+        {/* Bottom Left - Tagline & Contact */}
         <div style={{
           position: 'absolute',
           bottom: '8%',
           left: '5%',
           zIndex: 10,
-          mixBlendMode: 'difference',
           opacity: loaded ? 1 : 0,
           transform: loaded ? 'translateY(0)' : 'translateY(20px)',
           transition: 'all 0.8s ease-out 0.4s',
         }}>
           <p style={{
-            fontSize: 'clamp(0.65rem, 0.8vw, 0.75rem)',
-            fontFamily: "'Inter', sans-serif",
-            fontWeight: 300,
-            letterSpacing: '0.02em',
-            lineHeight: 1.6,
+            fontSize: 'clamp(0.8rem, 1vw, 0.95rem)',
+            fontFamily: "'Playfair Display', serif",
+            fontStyle: 'italic',
+            fontWeight: 400,
+            letterSpacing: '0.01em',
+            lineHeight: 1.5,
             color: '#fff',
-            opacity: 0.8,
-            margin: 0
+            opacity: 0.9,
+            margin: '0 0 16px',
+            textShadow: '0 2px 10px rgba(0,0,0,0.5)',
           }}>
-            Developer & Designer<br />
-            Building systems that see what others miss.
+            Building systems that see<br />what others miss.
           </p>
+          <a
+            href="mailto:aldi.ruli@gmail.com"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '8px',
+              fontSize: 'clamp(0.7rem, 0.85vw, 0.8rem)',
+              fontFamily: "'Inter', sans-serif",
+              fontWeight: 400,
+              letterSpacing: '0.1em',
+              textTransform: 'uppercase',
+              textDecoration: 'none',
+              color: '#00c3ff',
+              padding: '10px 18px',
+              background: 'rgba(0, 195, 255, 0.1)',
+              border: '1px solid rgba(0, 195, 255, 0.3)',
+              borderRadius: '4px',
+              transition: 'all 0.3s ease',
+              boxShadow: '0 0 15px rgba(0, 195, 255, 0.15)',
+            }}
+            onMouseEnter={(e) => {
+              e.target.style.boxShadow = '0 0 25px rgba(0, 195, 255, 0.4)';
+              e.target.style.background = 'rgba(0, 195, 255, 0.2)';
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.boxShadow = '0 0 15px rgba(0, 195, 255, 0.15)';
+              e.target.style.background = 'rgba(0, 195, 255, 0.1)';
+            }}
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+            </svg>
+            Get in Touch
+          </a>
         </div>
 
         {/* Bottom Right - Social Icons */}
