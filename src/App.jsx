@@ -174,7 +174,7 @@ export default function App() {
         }}
       >
         <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&family=Gugi&display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&family=Gugi&family=Koulen&display=swap');
           
           @keyframes pulse {
             0%, 100% { opacity: 0.6; transform: scale(1); }
@@ -567,16 +567,16 @@ export default function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: 'linear-gradient(135deg, #0f1419 0%, #1a1a2e 100%)',
+                    background: 'linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%)',
                     padding: '24px',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    border: '1px solid rgba(0, 195, 255, 0.2)',
+                    border: '1px solid rgba(255, 255, 255, 0.1)',
                     transition: 'all 0.3s ease',
                   }}
                 >
                   <h3 style={{
-                    color: '#00c3ff',
+                    color: '#fff',
                     margin: '0 0 8px',
                     fontSize: '1.4rem',
                     fontFamily: "'Gugi', cursive",
@@ -591,21 +591,22 @@ export default function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: 'linear-gradient(135deg, #1a0f19 0%, #2e1a2a 100%)',
+                    background: 'linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%)',
                     padding: '24px',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    border: '1px solid rgba(255, 100, 150, 0.2)',
+                    border: '1px solid rgba(255, 255, 255, 0.1)',
                     transition: 'all 0.3s ease',
                   }}
                 >
                   <h3 style={{
-                    color: '#ff6496',
+                    color: '#fff',
                     margin: '0 0 8px',
                     fontSize: '1.3rem',
-                    fontFamily: "'Playfair Display', serif",
-                    fontWeight: 500,
-                  }}>Swipefolio</h3>
+                    fontFamily: "'Koulen', cursive",
+                    fontWeight: 400,
+                    letterSpacing: '0.05em',
+                  }}>SWIPEFOLIO</h3>
                   <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>Swipe. Match. Invest. — Connect with investors who share your interests</p>
                   <p style={{ color: '#555', margin: '8px 0 0', fontSize: '0.75rem', fontFamily: "'Inter', sans-serif" }}>React • Crypto APIs • Swipe UI</p>
                 </a>
