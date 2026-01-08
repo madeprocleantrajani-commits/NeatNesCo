@@ -163,7 +163,7 @@ export default function App() {
         }}
       >
         <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&family=Gugi&display=swap');
           
           @keyframes pulse {
             0%, 100% { opacity: 0.6; transform: scale(1); }
@@ -483,75 +483,112 @@ export default function App() {
         )}
       </div>
 
+
         {/* Projects Modal */}
         {showProjects && (
-          <div style={{
-            position: 'fixed',
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            background: 'rgba(0, 0, 0, 0.95)',
-            zIndex: 1000,
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            padding: '20px',
-          }}>
-            <button
-              onClick={() => setShowProjects(false)}
-              style={{
-                position: 'absolute',
-                top: '20px',
-                right: '20px',
-                background: 'transparent',
-                border: 'none',
-                color: '#fff',
-                fontSize: '2rem',
-                cursor: 'pointer',
-              }}
-            >
-              ×
-            </button>
-            <h2 style={{
-              color: '#fff',
-              fontFamily: "'Playfair Display', serif",
-              fontSize: 'clamp(1.5rem, 4vw, 2.5rem)',
-              marginBottom: '40px',
-              fontWeight: 400,
-            }}>Selected Work</h2>
-            <div style={{
+          <div 
+            onClick={() => setShowProjects(false)}
+            style={{
+              position: 'fixed',
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              background: 'rgba(10, 10, 10, 0.98)',
+              backdropFilter: 'blur(10px)',
+              zIndex: 1000,
               display: 'flex',
               flexDirection: 'column',
-              gap: '20px',
-              maxWidth: '400px',
-              width: '100%',
-            }}>
-              {[
-                { title: 'Signal Pilot', desc: 'TradingView Indicator Suite', url: 'https://signalpilot.io' },
-                { title: 'Swipefolio', desc: 'Mobile Investment Platform', url: 'https://swipefolio-umber.vercel.app' },
-              ].map((project, i) => (
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px 20px',
+            }}
+          >
+            <div onClick={(e) => e.stopPropagation()} style={{ width: '100%', maxWidth: '500px' }}>
+              <div style={{ textAlign: 'center', marginBottom: '50px' }}>
+                <p style={{
+                  color: '#00c3ff',
+                  fontFamily: "'Inter', sans-serif",
+                  fontSize: '0.7rem',
+                  letterSpacing: '0.3em',
+                  textTransform: 'uppercase',
+                  marginBottom: '10px',
+                }}>Portfolio</p>
+                <h2 style={{
+                  color: '#fff',
+                  fontFamily: "'Playfair Display', serif",
+                  fontSize: 'clamp(2rem, 5vw, 3rem)',
+                  fontWeight: 400,
+                  margin: 0,
+                }}>Selected Work</h2>
+              </div>
+              
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
                 <a
-                  key={i}
-                  href={project.url}
+                  href="https://signalpilot.io"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: '#141414',
-                    padding: '20px',
-                    borderRadius: '8px',
+                    background: 'linear-gradient(135deg, #0f1419 0%, #1a1a2e 100%)',
+                    padding: '24px',
+                    borderRadius: '12px',
                     textDecoration: 'none',
-                    border: '1px solid #333',
-                    transition: 'border-color 0.3s',
+                    border: '1px solid rgba(0, 195, 255, 0.2)',
+                    transition: 'all 0.3s ease',
                   }}
-                  onMouseEnter={(e) => e.target.style.borderColor = '#00c3ff'}
-                  onMouseLeave={(e) => e.target.style.borderColor = '#333'}
                 >
-                  <h3 style={{ color: '#fff', margin: '0 0 8px', fontSize: '1.1rem' }}>{project.title}</h3>
-                  <p style={{ color: '#888', margin: 0, fontSize: '0.85rem' }}>{project.desc}</p>
+                  <h3 style={{
+                    color: '#00c3ff',
+                    margin: '0 0 8px',
+                    fontSize: '1.4rem',
+                    fontFamily: "'Gugi', cursive",
+                    letterSpacing: '0.05em',
+                  }}>SIGNAL PILOT</h3>
+                  <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>TradingView Indicator Suite</p>
                 </a>
-              ))}
+                
+                <a
+                  href="https://swipefolio-umber.vercel.app"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    background: 'linear-gradient(135deg, #1a0f19 0%, #2e1a2a 100%)',
+                    padding: '24px',
+                    borderRadius: '12px',
+                    textDecoration: 'none',
+                    border: '1px solid rgba(255, 100, 150, 0.2)',
+                    transition: 'all 0.3s ease',
+                  }}
+                >
+                  <h3 style={{
+                    color: '#ff6496',
+                    margin: '0 0 8px',
+                    fontSize: '1.3rem',
+                    fontFamily: "'Playfair Display', serif",
+                    fontWeight: 500,
+                  }}>Swipefolio</h3>
+                  <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>Tinder for Crypto &amp; Stocks</p>
+                </a>
+              </div>
+              
+              <button
+                onClick={() => setShowProjects(false)}
+                style={{
+                  marginTop: '40px',
+                  width: '100%',
+                  padding: '14px',
+                  background: 'transparent',
+                  border: '1px solid #333',
+                  borderRadius: '8px',
+                  color: '#666',
+                  fontFamily: "'Inter', sans-serif",
+                  fontSize: '0.85rem',
+                  letterSpacing: '0.1em',
+                  textTransform: 'uppercase',
+                  cursor: 'pointer',
+                  transition: 'all 0.3s ease',
+                }}
+              >Close</button>
             </div>
           </div>
         )}
