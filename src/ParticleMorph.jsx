@@ -219,7 +219,8 @@ function ParticleSystem({ imageUrl, particleCount = 15000 }) {
     if (!pointsRef.current) return;
 
     const material = pointsRef.current.material;
-    material.uniforms.uTime.value = state.clock.elapsedTime;
+    const time = state.clock.elapsedTime;
+    material.uniforms.uTime.value = time;
 
     // Smooth mouse following
     material.uniforms.uMouse.value.lerp(
@@ -227,14 +228,33 @@ function ParticleSystem({ imageUrl, particleCount = 15000 }) {
       0.1
     );
 
-    // Progress animation - form the image over time
-    const targetProgress = 1;
-    progressRef.current.value += (targetProgress - progressRef.current.value) * delta * 0.5;
+    // Automatic form/disperse cycle (like Lando Norris site)
+    // Cycle: disperse -> form -> hold -> disperse -> repeat
+    const cycleDuration = 8; // seconds per full cycle
+    const cycleTime = time % cycleDuration;
+
+    let targetProgress;
+    if (cycleTime < 2) {
+      // 0-2s: Form (disperse to formed)
+      targetProgress = cycleTime / 2;
+    } else if (cycleTime < 5) {
+      // 2-5s: Hold formed
+      targetProgress = 1;
+    } else if (cycleTime < 7) {
+      // 5-7s: Disperse (formed to dispersed)
+      targetProgress = 1 - (cycleTime - 5) / 2;
+    } else {
+      // 7-8s: Hold dispersed
+      targetProgress = 0;
+    }
+
+    // Smooth the transition
+    progressRef.current.value += (targetProgress - progressRef.current.value) * delta * 3;
     material.uniforms.uProgress.value = progressRef.current.value;
 
-    // Mouse influence strength
+    // Mouse influence strength - stronger when mouse moves
     const mouseSpeed = Math.abs(mouse.current.x) + Math.abs(mouse.current.y);
-    material.uniforms.uMouseStrength.value += (mouseSpeed * 0.5 - material.uniforms.uMouseStrength.value) * 0.1;
+    material.uniforms.uMouseStrength.value += (mouseSpeed * 0.8 - material.uniforms.uMouseStrength.value) * 0.1;
   });
 
   if (!positions) return null;
@@ -286,6 +306,7 @@ export default function ParticleMorph({ imageUrl, style }) {
       left: 0,
       width: '100%',
       height: '100%',
+      pointerEvents: 'none',
       ...style
     }}>
       <Canvas
