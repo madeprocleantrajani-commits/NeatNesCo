@@ -579,7 +579,7 @@ export default function App() {
                     fontFamily: "'Playfair Display', serif",
                     fontWeight: 500,
                   }}>Swipefolio</h3>
-                  <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>Tinder for Crypto & Stocks</p>
+                  <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>Swipe. Match. Invest. — Connect with investors who share your interests</p>
                   <p style={{ color: '#555', margin: '8px 0 0', fontSize: '0.75rem', fontFamily: "'Inter', sans-serif" }}>React • Crypto APIs • Swipe UI</p>
                 </a>
               </div>
