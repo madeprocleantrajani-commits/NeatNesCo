@@ -174,7 +174,7 @@ export default function App() {
         }}
       >
         <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&family=Gugi&display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500&family=Gugi&family=Koulen&display=swap');
           
           @keyframes pulse {
             0%, 100% { opacity: 0.6; transform: scale(1); }
@@ -331,9 +331,9 @@ export default function App() {
             fontWeight: 300,
             letterSpacing: '0.15em',
             textTransform: 'uppercase',
-            color: '#00c3ff',
+            color: '#fff',
             margin: '1rem 0 0',
-            opacity: 0.9,
+            opacity: 0.6,
           }}>
             Developer & Designer
           </p>
@@ -359,24 +359,10 @@ export default function App() {
               letterSpacing: '0.2em',
               textTransform: 'uppercase',
               textDecoration: 'none',
-              color: '#00c3ff',
+              color: '#fff',
               cursor: 'pointer',
-              background: 'rgba(0, 195, 255, 0.1)',
-              border: '1px solid rgba(0, 195, 255, 0.3)',
-              padding: '10px 20px',
-              borderRadius: '4px',
-              transition: 'all 0.3s ease',
-              boxShadow: '0 0 20px rgba(0, 195, 255, 0.2)',
-            }}
-            onMouseEnter={(e) => {
-              e.target.style.boxShadow = '0 0 30px rgba(0, 195, 255, 0.5)';
-              e.target.style.background = 'rgba(0, 195, 255, 0.2)';
-              e.target.style.borderColor = 'rgba(0, 195, 255, 0.6)';
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.boxShadow = '0 0 20px rgba(0, 195, 255, 0.2)';
-              e.target.style.background = 'rgba(0, 195, 255, 0.1)';
-              e.target.style.borderColor = 'rgba(0, 195, 255, 0.3)';
+              background: 'transparent',
+              border: 'none',
             }}
           >
             Projects
@@ -390,57 +376,38 @@ export default function App() {
           bottom: '8%',
           left: '5%',
           zIndex: 10,
+          mixBlendMode: 'difference',
           opacity: loaded ? 1 : 0,
           transform: loaded ? 'translateY(0)' : 'translateY(20px)',
           transition: 'all 0.8s ease-out 0.4s',
         }}>
           <p style={{
-            fontSize: 'clamp(0.8rem, 1vw, 0.95rem)',
-            fontFamily: "'Playfair Display', serif",
-            fontStyle: 'italic',
-            fontWeight: 400,
-            letterSpacing: '0.01em',
-            lineHeight: 1.5,
+            fontSize: 'clamp(0.75rem, 0.9vw, 0.85rem)',
+            fontFamily: "'Inter', sans-serif",
+            fontWeight: 300,
+            letterSpacing: '0.02em',
+            lineHeight: 1.6,
             color: '#fff',
-            opacity: 0.9,
-            margin: '0 0 16px',
-            textShadow: '0 2px 10px rgba(0,0,0,0.5)',
+            opacity: 0.8,
+            margin: '0 0 20px',
           }}>
             Building systems that see<br />what others miss.
           </p>
           <a
             href="mailto:aldi.ruli@gmail.com"
             style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '8px',
-              fontSize: 'clamp(0.7rem, 0.85vw, 0.8rem)',
+              fontSize: 'clamp(0.65rem, 0.8vw, 0.75rem)',
               fontFamily: "'Inter', sans-serif",
               fontWeight: 400,
-              letterSpacing: '0.1em',
+              letterSpacing: '0.15em',
               textTransform: 'uppercase',
               textDecoration: 'none',
-              color: '#00c3ff',
-              padding: '10px 18px',
-              background: 'rgba(0, 195, 255, 0.1)',
-              border: '1px solid rgba(0, 195, 255, 0.3)',
-              borderRadius: '4px',
-              transition: 'all 0.3s ease',
-              boxShadow: '0 0 15px rgba(0, 195, 255, 0.15)',
-            }}
-            onMouseEnter={(e) => {
-              e.target.style.boxShadow = '0 0 25px rgba(0, 195, 255, 0.4)';
-              e.target.style.background = 'rgba(0, 195, 255, 0.2)';
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.boxShadow = '0 0 15px rgba(0, 195, 255, 0.15)';
-              e.target.style.background = 'rgba(0, 195, 255, 0.1)';
+              color: '#fff',
+              opacity: 0.85,
+              transition: 'opacity 0.2s ease',
             }}
           >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-            </svg>
-            Get in Touch
+            aldi.ruli@gmail.com
           </a>
         </div>
 
@@ -600,7 +567,7 @@ export default function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: 'linear-gradient(135deg, #0f1419 0%, #1a1a2e 100%)',
+                    background: 'linear-gradient(135deg, #0a0a0a 0%, #0f1419 100%)',
                     padding: '24px',
                     borderRadius: '12px',
                     textDecoration: 'none',
@@ -624,21 +591,22 @@ export default function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: 'linear-gradient(135deg, #1a0f19 0%, #2e1a2a 100%)',
+                    background: 'linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%)',
                     padding: '24px',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    border: '1px solid rgba(255, 100, 150, 0.2)',
+                    border: '1px solid rgba(255, 255, 255, 0.1)',
                     transition: 'all 0.3s ease',
                   }}
                 >
                   <h3 style={{
-                    color: '#ff6496',
+                    color: '#fff',
                     margin: '0 0 8px',
                     fontSize: '1.3rem',
-                    fontFamily: "'Playfair Display', serif",
-                    fontWeight: 500,
-                  }}>Swipefolio</h3>
+                    fontFamily: "'Koulen', cursive",
+                    fontWeight: 400,
+                    letterSpacing: '0.05em',
+                  }}>SWIPEFOLIO</h3>
                   <p style={{ color: '#888', margin: 0, fontSize: '0.9rem', fontFamily: "'Inter', sans-serif" }}>Swipe. Match. Invest. — Connect with investors who share your interests</p>
                   <p style={{ color: '#555', margin: '8px 0 0', fontSize: '0.75rem', fontFamily: "'Inter', sans-serif" }}>React • Crypto APIs • Swipe UI</p>
                 </a>
