@@ -12,6 +12,8 @@ export default function App() {
   const [trail, setTrail] = useState([]);
   const [loaded, setLoaded] = useState(false);
   const [glitch, setGlitch] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
+  const [showTouchHint, setShowTouchHint] = useState(false);
   const [parallax, setParallax] = useState({ x: 0, y: 0 });
   const lastMousePos = useRef({ x: 0, y: 0 });
   const containerRef = useRef(null);
@@ -20,6 +22,23 @@ export default function App() {
   useEffect(() => {
     const timer = setTimeout(() => setLoaded(true), 100);
     return () => clearTimeout(timer);
+  }, []);
+
+  // Detect mobile device and show touch hint
+  useEffect(() => {
+    const checkMobile = () => {
+      const mobile = window.matchMedia('(max-width: 768px)').matches ||
+                     'ontouchstart' in window ||
+                     navigator.maxTouchPoints > 0;
+      setIsMobile(mobile);
+      if (mobile) {
+        const timer = setTimeout(() => setShowTouchHint(true), 1500);
+        return () => clearTimeout(timer);
+      }
+    };
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
   }, []);
 
   // Random glitch effect
@@ -89,6 +108,7 @@ export default function App() {
     const y = touch.clientY - rect.top;
     setMousePos({ x, y });
     setIsHovering(true);
+    setShowTouchHint(false);
   }, []);
 
   const handleTouchEnd = useCallback(() => {
@@ -403,6 +423,42 @@ export default function App() {
             animation: 'fadeInUp 1.5s ease-in-out infinite',
           }} />
         </div>
+
+        {/* Mobile Touch Hint */}
+        {showTouchHint && (
+          <div style={{
+            position: 'absolute',
+            top: '50%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)',
+            zIndex: 100,
+            pointerEvents: 'none',
+            animation: 'pulse 2s ease-in-out infinite',
+          }}>
+            <div style={{
+              background: 'rgba(0, 195, 255, 0.15)',
+              border: '2px solid rgba(0, 195, 255, 0.6)',
+              borderRadius: '50%',
+              padding: '30px',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              gap: '10px',
+            }}>
+              <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00c3ff" strokeWidth="1.5">
+                <path d="M12 18V12M12 12V6M12 12H6M12 12H18" strokeLinecap="round"/>
+                <circle cx="12" cy="12" r="10" strokeDasharray="4 4"/>
+              </svg>
+              <span style={{
+                color: '#00c3ff',
+                fontSize: '0.85rem',
+                fontFamily: "'Inter', sans-serif",
+                textTransform: 'uppercase',
+                letterSpacing: '0.1em',
+              }}>Tap to reveal</span>
+            </div>
+          </div>
+        )}
 
         {/* Custom Cursor */}
         {isHovering && (
