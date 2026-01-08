@@ -14,6 +14,7 @@ export default function App() {
   const [glitch, setGlitch] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const [showTouchHint, setShowTouchHint] = useState(false);
+  const [showProjects, setShowProjects] = useState(false);
   const [parallax, setParallax] = useState({ x: 0, y: 0 });
   const lastMousePos = useRef({ x: 0, y: 0 });
   const containerRef = useRef(null);
@@ -102,6 +103,7 @@ export default function App() {
   // Mobile touch support
   const handleTouch = useCallback((e) => {
     const rect = containerRef.current?.getBoundingClientRect();
+    e.preventDefault();
     if (!rect) return;
     const touch = e.touches[0];
     const x = touch.clientX - rect.left;
@@ -127,15 +129,15 @@ export default function App() {
   };
 
   const baseImageStyle = {
-    height: '80vh',
-    maxHeight: '700px',
+    height: isMobile ? '60vh' : '80vh',
+    maxHeight: isMobile ? '450px' : '700px',
     width: 'auto',
     objectFit: 'contain',
     transition: 'transform 0.3s ease-out',
   };
 
   return (
-    <div style={{ background: '#0a0a0a' }}>
+    <div style={{ background: '#0a0a0a', height: '100vh', overflow: 'hidden', position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}>
       {/* Hero Section */}
       <div
         ref={containerRef}
@@ -155,6 +157,7 @@ export default function App() {
           height: '100vh',
           overflow: 'hidden',
           cursor: 'none',
+          touchAction: 'none',
           fontFamily: "'Playfair Display', Georgia, serif",
           background: '#f8f8f8'
         }}
@@ -324,8 +327,8 @@ export default function App() {
           transform: loaded ? 'translateY(0)' : 'translateY(-20px)',
           transition: 'all 0.8s ease-out 0.2s',
         }}>
-          <a 
-            href="#portfolio"
+          <button 
+            onClick={() => setShowProjects(true)}
             style={{
               fontSize: 'clamp(0.7rem, 0.9vw, 0.85rem)',
               fontFamily: "'Inter', sans-serif",
@@ -334,11 +337,14 @@ export default function App() {
               textTransform: 'uppercase',
               textDecoration: 'none',
               color: '#fff',
-              cursor: 'pointer'
+              cursor: 'pointer',
+              background: 'transparent',
+              border: 'none',
             }}
           >
-            Portfolio
-          </a>
+            Projects
+          </button>
+
         </div>
 
         {/* Bottom Left - Tagline */}
@@ -477,51 +483,78 @@ export default function App() {
         )}
       </div>
 
-      {/* Portfolio Section */}
-      <div id="portfolio" style={{
-        minHeight: '100vh',
-        background: '#0a0a0a',
-        padding: '100px 5%',
-        fontFamily: "'Inter', sans-serif",
-      }}>
-        <h2 style={{
-          fontSize: 'clamp(2rem, 5vw, 4rem)',
-          fontFamily: "'Playfair Display', serif",
-          color: '#fff',
-          marginBottom: '60px',
-          fontWeight: 400,
-        }}>
-          Selected Work
-        </h2>
-        
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
-          gap: '40px',
-        }}>
-          {[
-            { title: 'Project One', desc: 'Web Development' },
-            { title: 'Project Two', desc: 'UI/UX Design' },
-            { title: 'Project Three', desc: 'Brand Identity' },
-          ].map((project, i) => (
-            <div key={i} style={{
-              background: '#141414',
-              borderRadius: '8px',
-              overflow: 'hidden',
-              transition: 'transform 0.3s ease',
+        {/* Projects Modal */}
+        {showProjects && (
+          <div style={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            background: 'rgba(0, 0, 0, 0.95)',
+            zIndex: 1000,
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '20px',
+          }}>
+            <button
+              onClick={() => setShowProjects(false)}
+              style={{
+                position: 'absolute',
+                top: '20px',
+                right: '20px',
+                background: 'transparent',
+                border: 'none',
+                color: '#fff',
+                fontSize: '2rem',
+                cursor: 'pointer',
+              }}
+            >
+              ×
+            </button>
+            <h2 style={{
+              color: '#fff',
+              fontFamily: "'Playfair Display', serif",
+              fontSize: 'clamp(1.5rem, 4vw, 2.5rem)',
+              marginBottom: '40px',
+              fontWeight: 400,
+            }}>Selected Work</h2>
+            <div style={{
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '20px',
+              maxWidth: '400px',
+              width: '100%',
             }}>
-              <div style={{
-                height: '250px',
-                background: `linear-gradient(135deg, #1a1a2e ${i * 20}%, #0f1419)`,
-              }} />
-              <div style={{ padding: '24px' }}>
-                <h3 style={{ color: '#fff', margin: '0 0 8px', fontSize: '1.25rem' }}>{project.title}</h3>
-                <p style={{ color: '#888', margin: 0, fontSize: '0.9rem' }}>{project.desc}</p>
-              </div>
+              {[
+                { title: 'Signal Pilot', desc: 'TradingView Indicator Suite', url: 'https://signalpilot.io' },
+                { title: 'Swipefolio', desc: 'Mobile Investment Platform', url: 'https://swipefolio-umber.vercel.app' },
+              ].map((project, i) => (
+                <a
+                  key={i}
+                  href={project.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    background: '#141414',
+                    padding: '20px',
+                    borderRadius: '8px',
+                    textDecoration: 'none',
+                    border: '1px solid #333',
+                    transition: 'border-color 0.3s',
+                  }}
+                  onMouseEnter={(e) => e.target.style.borderColor = '#00c3ff'}
+                  onMouseLeave={(e) => e.target.style.borderColor = '#333'}
+                >
+                  <h3 style={{ color: '#fff', margin: '0 0 8px', fontSize: '1.1rem' }}>{project.title}</h3>
+                  <p style={{ color: '#888', margin: 0, fontSize: '0.85rem' }}>{project.desc}</p>
+                </a>
+              ))}
             </div>
-          ))}
-        </div>
-      </div>
+          </div>
+        )}
     </div>
   );
 }
