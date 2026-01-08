@@ -212,32 +212,22 @@ export default function App() {
             100% { text-shadow: 2px 0 #ff0000, -2px 0 #00ffff; }
           }
         `}</style>
+        {/* BASE LAYER - Dark background */}
+        <div style={{...imageContainerStyle, background: '#0a0a0a', zIndex: 0}} />
+
         {/* PARTICLE MORPH LAYER - Lando Norris style effect */}
-        <ParticleMorph 
+        <ParticleMorph
           imageUrl={HEADSHOT_IMG}
-          style={{ zIndex: 1 }}
+          style={{ zIndex: 2 }}
         />
 
-
-        {/* BASE LAYER - Clean headshot with parallax */}
-        <div style={{...imageContainerStyle, background: '#0a0a0a'}}>
-          <img 
-            src={HEADSHOT_IMG}
-            alt="Aldi Ruli"
-            style={{
-              ...baseImageStyle,
-              transform: `translate(${parallax.x * 0.5}px, ${parallax.y * 0.5}px)`,
-              opacity: 0.85,
-            }}
-          />
-        </div>
-
         {/* REVEAL LAYER - Iron Man version */}
-        <div 
+        <div
           style={{
             ...imageContainerStyle,
             background: '#0f1419',
-            clipPath: isHovering 
+            zIndex: 5,
+            clipPath: isHovering
               ? `circle(${blobSize}px at ${smoothPos.x}px ${smoothPos.y}px)`
               : 'circle(0px at -100px -100px)',
             transition: isHovering ? 'none' : 'clip-path 0.5s ease-out'
