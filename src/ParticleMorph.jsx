@@ -311,14 +311,15 @@ export default function ParticleMorph({ imageUrl, style }) {
     }}>
       <Canvas
         camera={{ position: [0, 0, 2.5], fov: 50 }}
+        dpr={1}
         gl={{
-          antialias: true,
+          antialias: false,
           alpha: true,
           powerPreference: 'high-performance'
         }}
         style={{ background: 'transparent' }}
       >
-        <ParticleSystem imageUrl={imageUrl} particleCount={20000} />
+        <ParticleSystem imageUrl={imageUrl} particleCount={5000} />
       </Canvas>
     </div>
   );
