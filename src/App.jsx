@@ -215,18 +215,19 @@ export default function App() {
         {/* PARTICLE MORPH LAYER - Lando Norris style effect */}
         <ParticleMorph 
           imageUrl={HEADSHOT_IMG}
-          style={{ opacity: 0.9 }}
+          style={{ zIndex: 1 }}
         />
 
 
         {/* BASE LAYER - Clean headshot with parallax */}
-        <div style={{...imageContainerStyle, background: '#f5f5f5'}}>
+        <div style={{...imageContainerStyle, background: '#0a0a0a'}}>
           <img 
             src={HEADSHOT_IMG}
             alt="Aldi Ruli"
             style={{
               ...baseImageStyle,
               transform: `translate(${parallax.x * 0.5}px, ${parallax.y * 0.5}px)`,
+              opacity: 0.85,
             }}
           />
         </div>
@@ -268,6 +269,7 @@ export default function App() {
             style={{
               ...baseImageStyle,
               transform: `translate(${parallax.x * 0.5}px, ${parallax.y * 0.5}px)`,
+              opacity: 0.85,
             }}
           />
           
@@ -470,7 +472,7 @@ export default function App() {
           <div style={{
             width: '1px',
             height: '40px',
-            background: 'linear-gradient(to bottom, #fff, transparent)',
+            background: 'linear-gradient(to bottom, rgba(0,195,255,0.6), transparent)',
             animation: 'fadeInUp 1.5s ease-in-out infinite',
           }} />
         </div>
