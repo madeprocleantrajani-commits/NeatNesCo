@@ -567,16 +567,16 @@ export default function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
-                    background: 'linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%)',
+                    background: 'linear-gradient(135deg, #0a0a0a 0%, #0f1419 100%)',
                     padding: '24px',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    border: '1px solid rgba(255, 255, 255, 0.1)',
+                    border: '1px solid rgba(0, 195, 255, 0.2)',
                     transition: 'all 0.3s ease',
                   }}
                 >
                   <h3 style={{
-                    color: '#fff',
+                    color: '#00c3ff',
                     margin: '0 0 8px',
                     fontSize: '1.4rem',
                     fontFamily: "'Gugi', cursive",
