@@ -67,15 +67,19 @@ const fragmentShader = `
     // Soft edge
     float alpha = 1.0 - smoothstep(0.3, 0.5, dist);
 
-    // Add glow effect
-    float glow = exp(-dist * 3.0) * 0.5;
+    // Add stronger glow effect for techy look
+    float glow = exp(-dist * 2.5) * 0.8;
     alpha = max(alpha, glow);
 
     // Fade based on progress and original alpha
-    alpha *= vAlpha * (0.3 + vProgress * 0.7);
+    alpha *= vAlpha * (0.5 + vProgress * 0.5);
 
-    // Color with slight variation
-    vec3 finalColor = uColor + vec3(0.1, 0.2, 0.3) * (1.0 - vProgress);
+    // Techy cyan color with variation
+    vec3 cyanBase = vec3(0.0, 0.76, 1.0); // #00c3ff
+    vec3 finalColor = mix(cyanBase, uColor, vProgress * 0.6);
+
+    // Add subtle color variation based on position
+    finalColor += vec3(0.05, 0.1, 0.15) * (1.0 - vProgress);
 
     gl_FragColor = vec4(finalColor, alpha);
   }
