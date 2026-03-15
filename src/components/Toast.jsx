@@ -7,32 +7,33 @@ export default function Toast({ toasts }) {
     }}>
       {toasts.map(toast => (
         <div key={toast.id} style={{
-          background: 'var(--bg-card)',
-          border: '1px solid var(--border-subtle)',
-          borderRadius: '16px',
-          padding: '0.8rem 1.2rem',
-          display: 'flex', alignItems: 'center', gap: '0.8rem',
-          boxShadow: '0 8px 32px rgba(0,0,0,0.15)',
-          backdropFilter: 'blur(20px)',
+          background: '#ffffff',
+          border: '1px solid rgba(0,0,0,0.06)',
+          borderRadius: '14px',
+          padding: '0.7rem 1rem',
+          display: 'flex', alignItems: 'center', gap: '0.7rem',
+          boxShadow: '0 8px 30px rgba(0,0,0,0.1)',
           animation: toast.removing
             ? 'toastSlideOut 0.3s ease-in forwards'
             : 'toastSlideIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1)',
           pointerEvents: 'auto',
-          maxWidth: '320px',
+          maxWidth: '300px',
         }}>
           <div style={{
-            width: '40px', height: '40px', borderRadius: '12px',
-            background: toast.product?.gradient || 'linear-gradient(135deg, #2d6a4f, #52b788)',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            fontSize: '1.3rem', flexShrink: 0,
+            width: '36px', height: '36px', borderRadius: '10px',
+            background: '#f5f5f7', flexShrink: 0, overflow: 'hidden',
           }}>
-            {toast.product?.emoji || '✓'}
+            {toast.product?.image && (
+              <img src={toast.product.image} alt="" style={{
+                width: '100%', height: '100%', objectFit: 'cover',
+              }} />
+            )}
           </div>
           <div>
-            <div style={{ fontSize: '0.82rem', fontWeight: 700, color: 'var(--text-primary)' }}>
+            <div style={{ fontSize: '0.78rem', fontWeight: 600, color: '#1d1d1f' }}>
               {toast.title || 'Added to cart'}
             </div>
-            <div style={{ fontSize: '0.75rem', color: 'var(--text-tertiary)' }}>
+            <div style={{ fontSize: '0.72rem', color: '#86868b' }}>
               {toast.message}
             </div>
           </div>

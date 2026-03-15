@@ -1,53 +1,51 @@
 import { useInView } from '../hooks'
 import { REVIEWS } from '../data'
 
-export default function Reviews({ darkMode }) {
+export default function Reviews() {
   const [ref, visible] = useInView()
 
   const ReviewCard = ({ review }) => (
-    <div className="glass-card" style={{
-      minWidth: '360px', maxWidth: '360px', borderRadius: '24px',
-      padding: '2rem', flexShrink: 0, position: 'relative', overflow: 'hidden',
+    <div style={{
+      minWidth: '340px', maxWidth: '340px', borderRadius: '18px',
+      padding: '1.8rem', flexShrink: 0,
+      background: '#ffffff',
+      border: '1px solid rgba(0,0,0,0.06)',
+      boxShadow: '0 1px 3px rgba(0,0,0,0.04)',
     }}>
-      {/* Subtle quote mark */}
-      <div style={{
-        position: 'absolute', top: '0.5rem', right: '1.5rem',
-        fontSize: '5rem', fontFamily: "'Playfair Display', serif",
-        color: darkMode ? 'rgba(45,106,79,0.06)' : 'rgba(45,106,79,0.05)',
-        lineHeight: 1, pointerEvents: 'none',
-      }}>"</div>
-
-      <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', marginBottom: '1rem', position: 'relative' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '0.7rem', marginBottom: '0.8rem' }}>
         <div style={{
-          width: '44px', height: '44px', borderRadius: '14px',
-          background: 'linear-gradient(135deg, #2d6a4f, #52b788)',
+          width: '36px', height: '36px', borderRadius: '50%',
+          background: '#f5f5f7',
           display: 'flex', alignItems: 'center', justifyContent: 'center',
-          color: '#fff', fontWeight: 700, fontSize: '0.95rem',
-          boxShadow: '0 4px 12px rgba(45,106,79,0.25)',
+          color: '#1d1d1f', fontWeight: 600, fontSize: '0.82rem',
+          fontFamily: "'Inter', sans-serif",
         }}>{review.avatar}</div>
         <div>
-          <div style={{ fontWeight: 700, fontSize: '0.9rem', color: 'var(--text-primary)' }}>{review.name}</div>
-          <div style={{ fontSize: '0.72rem', color: 'var(--text-muted)' }}>{review.location}</div>
+          <div style={{ fontWeight: 600, fontSize: '0.85rem', color: '#1d1d1f' }}>{review.name}</div>
+          <div style={{ fontSize: '0.7rem', color: '#86868b' }}>{review.location}</div>
         </div>
       </div>
-      <div className="star-rating" style={{ marginBottom: '0.75rem', fontSize: '0.88rem', letterSpacing: '2px' }}>
+      <div style={{ marginBottom: '0.6rem', fontSize: '0.82rem', color: '#ff9500', letterSpacing: '1px' }}>
         {'★'.repeat(review.rating)}{'☆'.repeat(5 - review.rating)}
       </div>
       <p style={{
-        fontSize: '0.92rem', color: 'var(--text-secondary)', lineHeight: 1.65,
-        fontStyle: 'italic',
+        fontSize: '0.92rem', color: '#6e6e73', lineHeight: 1.65,
       }}>
         "{review.text}"
       </p>
       {review.product && (
         <div style={{
-          marginTop: '1rem', paddingTop: '0.8rem',
-          borderTop: '1px solid var(--border-subtle)',
-          fontSize: '0.75rem', color: 'var(--text-muted)', fontWeight: 500,
-          display: 'flex', alignItems: 'center', gap: '0.4rem',
+          marginTop: '0.8rem', paddingTop: '0.7rem',
+          borderTop: '1px solid rgba(0,0,0,0.06)',
+          fontSize: '0.72rem', color: '#86868b', fontWeight: 500,
+          display: 'flex', alignItems: 'center', justifyContent: 'space-between',
         }}>
-          <span style={{ opacity: 0.6 }}>📦</span>
-          Purchased: {review.product}
+          <span>Purchased: {review.product}</span>
+          <span style={{
+            background: '#f5f5f7', color: '#86868b',
+            padding: '0.15rem 0.5rem', borderRadius: '980px',
+            fontSize: '0.6rem', fontWeight: 600, letterSpacing: '0.02em',
+          }}>Verified</span>
         </div>
       )}
     </div>
@@ -55,55 +53,33 @@ export default function Reviews({ darkMode }) {
 
   return (
     <section id="reviews" style={{
-      padding: '6rem 0', overflow: 'hidden', position: 'relative', zIndex: 1,
+      padding: '6rem 0', overflow: 'hidden',
+      background: '#f5f5f7',
     }}>
       <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 2rem' }}>
         <div ref={ref} style={{
           textAlign: 'center', marginBottom: '3rem',
-          opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(20px)',
+          opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(15px)',
           transition: 'all 0.6s',
         }}>
-          <span className="section-tag">Social Proof</span>
+          <p style={{
+            fontSize: '0.8rem', fontWeight: 500, color: '#86868b',
+            letterSpacing: '0.06em', textTransform: 'uppercase', marginBottom: '0.6rem',
+          }}>Customer Reviews</p>
           <h2 style={{
-            fontFamily: "'Playfair Display', serif", fontSize: 'clamp(2rem, 4vw, 3.5rem)',
-            fontWeight: 700, color: 'var(--text-primary)', letterSpacing: '-0.03em',
+            fontFamily: "'Inter', -apple-system, sans-serif",
+            fontSize: 'clamp(2.4rem, 5vw, 3.5rem)',
+            fontWeight: 700, color: '#1d1d1f', letterSpacing: '-0.03em',
           }}>
             What People Are Saying
           </h2>
-          <p style={{ color: 'var(--text-tertiary)', fontSize: '1.05rem', maxWidth: '480px', margin: '0.5rem auto 0' }}>
-            Real reviews from real customers. No fluff.
+          <p style={{ color: '#6e6e73', fontSize: '1rem', margin: '0.5rem auto 0' }}>
+            4.8/5 from 12,000+ verified reviews
           </p>
-          <div style={{
-            display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem',
-            marginTop: '1.5rem',
-          }}>
-            <div style={{
-              display: 'flex', gap: '-0.3rem',
-            }}>
-              {['S', 'J', 'P', 'M', 'E'].map((a, i) => (
-                <div key={i} style={{
-                  width: '32px', height: '32px', borderRadius: '50%',
-                  background: 'linear-gradient(135deg, #2d6a4f, #52b788)',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  color: '#fff', fontSize: '0.7rem', fontWeight: 700,
-                  border: `2px solid var(--bg-primary)`,
-                  marginLeft: i > 0 ? '-8px' : '0',
-                  position: 'relative', zIndex: 5 - i,
-                }}>{a}</div>
-              ))}
-            </div>
-            <div>
-              <span className="star-rating" style={{ fontSize: '0.85rem' }}>★★★★★</span>
-              <span style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)', marginLeft: '0.3rem' }}>
-                4.8/5 from 12,000+ reviews
-              </span>
-            </div>
-          </div>
         </div>
       </div>
 
-      {/* Row 1 - scrolling left */}
-      <div className="marquee-container" style={{ marginBottom: '1.5rem' }}>
+      <div className="marquee-container" style={{ marginBottom: '1rem' }}>
         <div className="marquee-track">
           {[...REVIEWS.slice(0, 6), ...REVIEWS.slice(0, 6)].map((review, i) => (
             <ReviewCard key={i} review={review} />
@@ -111,7 +87,6 @@ export default function Reviews({ darkMode }) {
         </div>
       </div>
 
-      {/* Row 2 - scrolling right */}
       <div className="marquee-container">
         <div className="marquee-track-reverse">
           {[...REVIEWS.slice(6), ...REVIEWS.slice(6)].map((review, i) => (

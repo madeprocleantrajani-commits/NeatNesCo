@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-export default function BackToTop({ darkMode }) {
+export default function BackToTop() {
   const [show, setShow] = useState(false)
 
   useEffect(() => {
@@ -13,19 +13,19 @@ export default function BackToTop({ darkMode }) {
     <button
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       style={{
-        position: 'fixed', bottom: '2rem', right: '2rem', zIndex: 6000,
-        width: '48px', height: '48px', borderRadius: '14px',
-        background: 'linear-gradient(135deg, #2d6a4f, #52b788)',
+        position: 'fixed', bottom: '5.5rem', right: '2rem', zIndex: 6000,
+        width: '40px', height: '40px', borderRadius: '50%',
+        background: '#1d1d1f',
         border: 'none', cursor: 'pointer',
         display: 'flex', alignItems: 'center', justifyContent: 'center',
-        boxShadow: '0 4px 20px rgba(45,106,79,0.35)',
         opacity: show ? 1 : 0,
-        transform: show ? 'translateY(0) scale(1)' : 'translateY(20px) scale(0.8)',
-        transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+        transform: show ? 'translateY(0)' : 'translateY(10px)',
+        transition: 'all 0.3s',
         pointerEvents: show ? 'auto' : 'none',
-        animation: show ? 'floatUp 3s ease-in-out infinite' : 'none',
         color: '#fff',
-        fontSize: '1.2rem',
+        fontSize: '0.9rem',
+        fontWeight: 300,
+        boxShadow: '0 2px 10px rgba(0,0,0,0.1)',
       }}
     >
       ↑

@@ -1,15 +1,15 @@
 import { useState, useCallback } from 'react'
 import { getGlobalStyles } from './styles'
 import SplashScreen from './components/SplashScreen'
-import FloatingParticles from './components/FloatingParticles'
 import Navbar from './components/Navbar'
 import FlashSaleBanner from './components/FlashSaleBanner'
 import Hero from './components/Hero'
 import BrandsMarquee from './components/BrandsMarquee'
+import CategoryNav from './components/CategoryNav'
 import Products from './components/Products'
 import Features from './components/Features'
-import StoryTimeline from './components/StoryTimeline'
 import Reviews from './components/Reviews'
+import AsSeenOn from './components/AsSeenOn'
 import FAQ from './components/FAQ'
 import Newsletter from './components/Newsletter'
 import Footer from './components/Footer'
@@ -18,18 +18,17 @@ import QuickViewModal from './components/QuickViewModal'
 import Toast from './components/Toast'
 import SocialProof from './components/SocialProof'
 import BackToTop from './components/BackToTop'
+import ChatBot from './components/ChatBot'
 
 export default function App() {
-  // ─── State ──────────────────────────────────────────────────────────────
   const [splashDone, setSplashDone] = useState(false)
-  const [darkMode, setDarkMode] = useState(false)
   const [cart, setCart] = useState([])
   const [cartOpen, setCartOpen] = useState(false)
   const [quickViewProduct, setQuickViewProduct] = useState(null)
   const [wishlist, setWishlist] = useState([])
   const [toasts, setToasts] = useState([])
+  const [selectedCategory, setSelectedCategory] = useState(null)
 
-  // ─── Handlers ───────────────────────────────────────────────────────────
   const addToast = useCallback((toast) => {
     const id = Date.now() + Math.random()
     setToasts(prev => [...prev, { ...toast, id }])
@@ -74,89 +73,53 @@ export default function App() {
     )
   }, [])
 
-  const handleDarkModeToggle = useCallback(() => {
-    setDarkMode(prev => !prev)
-  }, [])
-
-  // ─── Render ─────────────────────────────────────────────────────────────
   return (
     <>
-      <style>{getGlobalStyles(darkMode)}</style>
+      <style>{getGlobalStyles()}</style>
 
       {!splashDone && <SplashScreen onComplete={() => setSplashDone(true)} />}
-
-      <FloatingParticles darkMode={darkMode} />
-
-      {/* Cursor glow */}
-      <div
-        ref={el => {
-          if (!el) return
-          const handler = (e) => {
-            el.style.left = e.clientX + 'px'
-            el.style.top = e.clientY + 'px'
-          }
-          window.addEventListener('mousemove', handler)
-          el._cleanup = () => window.removeEventListener('mousemove', handler)
-        }}
-        style={{
-          position: 'fixed', width: '700px', height: '700px',
-          borderRadius: '50%', pointerEvents: 'none', zIndex: 0,
-          background: darkMode
-            ? 'radial-gradient(circle, rgba(45,106,79,0.06) 0%, transparent 70%)'
-            : 'radial-gradient(circle, rgba(45,106,79,0.04) 0%, transparent 70%)',
-          transform: 'translate(-50%, -50%)',
-          transition: 'left 0.15s ease-out, top 0.15s ease-out',
-        }}
-      />
 
       <Navbar
         cartCount={cart.length}
         wishlistCount={wishlist.length}
         onCartClick={() => setCartOpen(true)}
-        onDarkModeToggle={handleDarkModeToggle}
-        darkMode={darkMode}
       />
 
-      <FlashSaleBanner darkMode={darkMode} />
+      <FlashSaleBanner />
 
-      <Hero darkMode={darkMode} />
+      <Hero onQuickView={setQuickViewProduct} />
 
-      <BrandsMarquee darkMode={darkMode} />
+      <BrandsMarquee />
+
+      <CategoryNav onCategorySelect={setSelectedCategory} />
 
       <Products
         onAddToCart={handleAddToCart}
         onQuickView={setQuickViewProduct}
         wishlist={wishlist}
         onToggleWishlist={handleToggleWishlist}
-        darkMode={darkMode}
+        externalCategory={selectedCategory}
       />
 
-      <div className="section-divider" />
+      <Features />
 
-      <Features darkMode={darkMode} />
+      <Reviews />
 
-      <div className="section-divider" />
+      <AsSeenOn />
 
-      <StoryTimeline darkMode={darkMode} />
+      <FAQ />
 
-      <div className="section-divider" />
+      <Newsletter />
 
-      <Reviews darkMode={darkMode} />
+      <Footer />
 
-      <FAQ darkMode={darkMode} />
-
-      <Newsletter darkMode={darkMode} />
-
-      <Footer darkMode={darkMode} />
-
-      {/* Overlays */}
       <CartDrawer
         isOpen={cartOpen}
         onClose={() => setCartOpen(false)}
         cart={cart}
         onUpdateQty={handleUpdateQty}
         onRemove={handleRemoveFromCart}
-        darkMode={darkMode}
+        onAddToCart={handleAddToCart}
       />
 
       {quickViewProduct && (
@@ -164,13 +127,13 @@ export default function App() {
           product={quickViewProduct}
           onClose={() => setQuickViewProduct(null)}
           onAddToCart={handleAddToCart}
-          darkMode={darkMode}
         />
       )}
 
       <Toast toasts={toasts} />
-      <SocialProof darkMode={darkMode} />
-      <BackToTop darkMode={darkMode} />
+      <SocialProof />
+      <BackToTop />
+      <ChatBot />
     </>
   )
 }
