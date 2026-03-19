@@ -1,4 +1,4 @@
-# aldiruli.com
+# 
 
 Personal portfolio website with interactive Iron Man reveal effect.
 
