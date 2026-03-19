@@ -1,0 +1,388 @@
+{
+  "scan_date": "2026-03-19T07:06:04.701949",
+  "model": "claude-haiku-4-5-20251001",
+  "products": [
+    {
+      "product": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper",
+      "price": 19.99,
+      "category": "kitchen",
+      "recommendation": "BUY",
+      "viability": 29.2,
+      "hooks": [
+        "Americans are switching from $89 mandolines to this $19.99 chopper",
+        "If you struggle with tedious vegetable prep, you need this",
+        "Over 50,000 people bought this in December alone",
+        "This $19.99 gadget is replacing $150 food processors",
+        "They don't want you to know about this $19.99 kitchen hack"
+      ],
+      "angles": [
+        {
+          "name": "Time-Saver Solution",
+          "emotion": "Relief",
+          "message": "Stop spending 15 minutes chopping vegetables\u2014do it in seconds with one tool.",
+          "platform": "TikTok"
+        },
+        {
+          "name": "Kitchen Transformation",
+          "emotion": "Amazement",
+          "message": "From tedious meal prep to restaurant-quality cuts in one device\u2014watch the difference.",
+          "platform": "Instagram"
+        },
+        {
+          "name": "Pro Chef Hack",
+          "emotion": "Aspiration",
+          "message": "This $20 mandoline slicer gives you chef-level precision that usually costs 10x more.",
+          "platform": "Facebook"
+        }
+      ],
+      "script_15s": {
+        "hook": {
+          "time": "0-2s",
+          "voiceover": "Tired of spending 20 minutes chopping vegetables?",
+          "visual": "Close-up of hands struggling with knife and cutting board, vegetables scattered everywhere",
+          "text_overlay": "CHOPPING TAKES FOREVER"
+        },
+        "problem": {
+          "time": "2-6s",
+          "voiceover": "Traditional knives are slow, messy, and dangerous. Your meal prep just became a nightmare.",
+          "visual": "Montage: knife slipping, onion tears, messy counter, frustrated face",
+          "text_overlay": "SLOW \u2022 DANGEROUS \u2022 MESSY"
+        },
+        "solution": {
+          "time": "6-11s",
+          "voiceover": "Meet the 8-Blade Vegetable Chopper. Slice, dice, and chop in SECONDS with zero effort.",
+          "visual": "Product demo: effortlessly chopping carrots, cucumbers, onions with one hand motion; vegetables falling perfectly into built-in container",
+          "text_overlay": "8 BLADES \u2022 INSTANT RESULTS \u2022 ONE MOTION"
+        },
+        "cta": {
+          "time": "11-15s",
+          "voiceover": "Get yours today for just $19.99. Your kitchen will thank you.",
+          "visual": "Product shot with container full of fresh chopped vegetables; satisfied smile; website URL appears",
+          "text_overlay": "ONLY $19.99 \u2022 FREE SHIPPING \u2022 SHOP NOW"
+        }
+      },
+      "script_30s": {
+        "hook": {
+          "time": "0-3s",
+          "voiceover": "Stop wasting 20 minutes chopping vegetables.",
+          "visual": "Close-up of person struggling with knife, vegetables scattered everywhere, frustrated expression",
+          "text_overlay": "STOP \u270b"
+        },
+        "problem": {
+          "time": "3-8s",
+          "voiceover": "Dull knives, messy cuts, and cleanup nightmare? Yeah, we've been there.",
+          "visual": "Quick cuts of uneven vegetable slices, knife slipping, tears from onions, messy cutting board",
+          "text_overlay": "The OLD WAY"
+        },
+        "solution": {
+          "time": "8-20s",
+          "voiceover": "Meet your new kitchen MVP. 8 different blades. One genius chopper. Watch this.",
+          "visual": "Product close-up showing 8 blade options, quick demo of chopping tomatoes (2s), slicing cucumbers (2s), dicing onions (2s), julienne carrots (2s), food falling perfectly into built-in container (2s)",
+          "text_overlay": "8-IN-1 MAGIC \u2728"
+        },
+        "cta": {
+          "time": "20-30s",
+          "voiceover": "Get your 8-Blade Vegetable Chopper now for just $19.99. Tap the link. This deal won't last.",
+          "visual": "Product spinning on white background, person smiling while using chopper, fast-motion meal prep montage, link appearing on screen",
+          "text_overlay": "ONLY $19.99 | TAP NOW \u2b07\ufe0f"
+        }
+      },
+      "headlines": [
+        "Chop vegetables in seconds, not minutes",
+        "Stop struggling with dull kitchen knives",
+        "This one tool replaces eight others",
+        "Join 50K+ home chefs nationwide",
+        "Limited stock - Save 40% today"
+      ],
+      "total_combinations": 30
+    },
+    {
+      "product": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel",
+      "price": 24.99,
+      "category": "home-kitchen",
+      "recommendation": "BUY",
+      "viability": 28.3,
+      "hooks": [
+        "Americans are switching from $200 sheets to this $24.99 luxury set",
+        "If you struggle with night sweats, you need this cooling sheet set",
+        "Over 50,000 people bought this in December alone",
+        "This $24.99 sheet set is replacing $150+ hotel bedding",
+        "They don't want you to know about this $24.99 luxury sheet hack"
+      ],
+      "angles": [
+        {
+          "name": "Sleep Quality Fix",
+          "emotion": "Relief",
+          "message": "Stop waking up drenched in sweat\u2014our cooling sheets keep you at the perfect temperature all night long.",
+          "platform": "Facebook"
+        },
+        {
+          "name": "Luxury Transformation",
+          "emotion": "Aspiration",
+          "message": "Go from scratchy, uncomfortable sheets to waking up feeling like you spent the night at a five-star hotel\u2014for under $25.",
+          "platform": "Instagram"
+        },
+        {
+          "name": "Hotel Hack Secret",
+          "emotion": "Excitement",
+          "message": "Here's what luxury hotels don't want you to know: you can get their exact same premium-quality sheets for your home at a fraction of the price.",
+          "platform": "TikTok"
+        }
+      ],
+      "script_15s": {
+        "hook": {
+          "time": "0-2s",
+          "voiceover": "Stop waking up in a puddle of sweat.",
+          "visual": "Person tossing and turning in bed, visibly uncomfortable, sheets twisted around them",
+          "text_overlay": "TIRED OF HOT NIGHTS?"
+        },
+        "problem": {
+          "time": "2-6s",
+          "voiceover": "Regular sheets trap heat, leave you sweating, and feel cheap. You deserve better sleep.",
+          "visual": "Close-up of person's frustrated face, sweat on forehead, then shot of them kicking off regular sheets in frustration",
+          "text_overlay": "CHEAP SHEETS = BAD SLEEP"
+        },
+        "solution": {
+          "time": "6-11s",
+          "voiceover": "Our cooling sheet set is breathable, stays soft, and keeps you comfortable ALL night long. Hotel quality at home prices.",
+          "visual": "Product shots of folded queen sheet set, person sleeping peacefully and smiling, close-up of soft fabric texture, sheets gliding smoothly on bed",
+          "text_overlay": "COOLING \u2022 BREATHABLE \u2022 HOTEL QUALITY"
+        },
+        "cta": {
+          "time": "11-15s",
+          "voiceover": "Get your queen 4-piece sheet set today for just $24.99. Click the link below. Better sleep starts now.",
+          "visual": "Product displayed on bed with person peacefully sleeping, product image with price, link appears at bottom of screen",
+          "text_overlay": "JUST $24.99 \u2022 SHOP NOW \u2022 TAP LINK"
+        }
+      },
+      "script_30s": {
+        "hook": {
+          "time": "0-3s",
+          "voiceover": "Stop waking up in a pool of sweat.",
+          "visual": "Close-up of person tossing and turning in bed, looking uncomfortable and sweaty",
+          "text_overlay": "ARE YOUR SHEETS RUINING YOUR SLEEP?"
+        },
+        "problem": {
+          "time": "3-8s",
+          "voiceover": "Cheap sheets trap heat, make you sweat, and feel rough. You deserve better sleep.",
+          "visual": "Split screen: person overheating vs. person sleeping peacefully; zoom in on wrinkled, low-quality sheets",
+          "text_overlay": "HOT \u2022 STICKY \u2022 UNCOMFORTABLE"
+        },
+        "solution": {
+          "time": "8-20s",
+          "voiceover": "Meet our hotel-quality cooling sheet set. Breathable, soft, and engineered to keep you cool all night long. Feel the difference instantly.",
+          "visual": "Product shots: unfold sheet set, show fabric close-up, person sleeping peacefully and smiling, transitioning between shots smoothly",
+          "text_overlay": "COOLING \u2022 BREATHABLE \u2022 HOTEL QUALITY"
+        },
+        "cta": {
+          "time": "20-30s",
+          "voiceover": "Get your 4-piece queen sheet set for just $24.99. Limited time offer. Sleep better tonight.",
+          "visual": "Product displayed on bed, person waking up refreshed and happy, price tag appears on screen",
+          "text_overlay": "ONLY $24.99 \u2022 TAP NOW \u2022 FREE SHIPPING"
+        }
+      },
+      "headlines": [
+        "Sleep Like a Hotel Guest Nightly",
+        "Stop Overheating at Night Forever",
+        "Luxury Sheets for Under $25",
+        "Join 50K+ Customers Sleeping Better",
+        "Limited Stock: 40% Off Queen Sheets"
+      ],
+      "total_combinations": 30
+    },
+    {
+      "product": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes for Sensitive",
+      "price": 20.58,
+      "category": "health",
+      "recommendation": "BUY",
+      "viability": 27.9,
+      "hooks": [
+        "Americans are switching from $50 toilet paper bundles to this $20 solution",
+        "If you struggle with harsh toilet paper irritation, you need this",
+        "Over 500K people bought this in January alone",
+        "This $20 wipe pack is replacing expensive bathroom products nationwide",
+        "They don't want you to know about this $20 flushable wipe hack"
+      ],
+      "angles": [
+        {
+          "name": "Hygiene Revolution",
+          "emotion": "Relief",
+          "message": "Stop settling for toilet paper alone\u2014DUDE Wipes deliver superior freshness and comfort for sensitive skin that regular wiping can't match.",
+          "platform": "Facebook"
+        },
+        {
+          "name": "Confidence Upgrade",
+          "emotion": "Empowerment",
+          "message": "From uncomfortable and irritated to feeling fresh, clean, and confident all day\u2014this is what real personal care looks like.",
+          "platform": "Instagram"
+        },
+        {
+          "name": "Luxury Self-Care",
+          "emotion": "Indulgence",
+          "message": "Treat yourself like royalty with extra-large, premium flushable wipes that transform your bathroom routine into a spa-like experience.",
+          "platform": "TikTok"
+        }
+      ],
+      "script_15s": {
+        "hook": {
+          "time": "0-2s",
+          "voiceover": "Toilet paper alone? That's so 2020.",
+          "visual": "Quick cut of person looking uncomfortable in bathroom, shaking head",
+          "text_overlay": "THERE'S A BETTER WAY"
+        },
+        "problem": {
+          "time": "2-6s",
+          "voiceover": "Regular toilet paper leaves you feeling less than fresh. Your skin deserves better, especially if it's sensitive.",
+          "visual": "Person wincing, close-up of irritated skin, frustrated facial expression",
+          "text_overlay": "UNCOMFORTABLE? IRRITATED? NOT ANYMORE"
+        },
+        "solution": {
+          "time": "6-11s",
+          "voiceover": "Meet DUDE Wipes\u2014extra-large, flushable, and unscented for sensitive skin. One wipe and you're genuinely clean.",
+          "visual": "Product shot of DUDE Wipes package, person using wipe with satisfied smile, person feeling fresh and confident",
+          "text_overlay": "FLUSHABLE \u2022 GENTLE \u2022 EFFECTIVE"
+        },
+        "cta": {
+          "time": "11-15s",
+          "voiceover": "Get DUDE Wipes today for just $20.58. Your bottom will thank you.",
+          "visual": "Product package front-and-center with checkmark, link appears on screen, person giving thumbs up",
+          "text_overlay": "ORDER NOW \u2022 $20.58 \u2022 LINK IN BIO"
+        }
+      },
+      "script_30s": {
+        "hook": {
+          "time": "0-3s",
+          "voiceover": "Forget everything you know about bathroom hygiene.",
+          "visual": "Quick cut of person looking uncomfortable, then shocked expression looking at camera",
+          "text_overlay": "Your bathroom routine just changed"
+        },
+        "problem": {
+          "time": "3-8s",
+          "voiceover": "Toilet paper alone isn't cutting it. You need a real clean that actually works.",
+          "visual": "Split screen: left side shows dissatisfied person, right side shows DUDE Wipes package glowing",
+          "text_overlay": "Toilet paper = not enough"
+        },
+        "solution": {
+          "time": "8-20s",
+          "voiceover": "Meet DUDE Wipes. Extra-large, flushable, unscented, and designed for real cleaning. One wipe does the job toilet paper can't.",
+          "visual": "Close-up of package, hand opening DUDE Wipes, person using product with satisfied smile, wipe being flushed",
+          "text_overlay": "\u2713 Extra-Large\n\u2713 Flushable\n\u2713 Unscented\n\u2713 Dermatologist Tested"
+        },
+        "cta": {
+          "time": "20-30s",
+          "voiceover": "Order DUDE Wipes today and upgrade your entire bathroom experience. Just $20.58 for a life-changing clean.",
+          "visual": "Product shot with price displayed, person giving thumbs up, website URL appears on screen",
+          "text_overlay": "Order Now - $20.58\nFree shipping on orders $35+"
+        }
+      },
+      "headlines": [
+        "Superior Freshness, Superior Comfort Daily",
+        "Stop Harsh Toilet Paper Forever",
+        "What Celebrities Won't Tell You",
+        "Trusted by Millions Nationwide",
+        "Last Chance: Premium Wipes 40% Off"
+      ],
+      "total_combinations": 30
+    },
+    {
+      "product": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pillow Top Matt",
+      "price": 45.99,
+      "category": "home-kitchen",
+      "recommendation": "BUY",
+      "viability": 27.4,
+      "hooks": [
+        "Americans are switching from $300 mattresses to this $45.99 topper",
+        "If you struggle with night sweats and back pain, you need this",
+        "Over 50,000 people bought this bamboo topper in December alone",
+        "This $45.99 bamboo topper is replacing expensive $800 mattress purchases",
+        "They don't want you to know about this $45.99 sleep hack"
+      ],
+      "angles": [
+        {
+          "name": "Sleep Solution",
+          "emotion": "Relief",
+          "message": "Stop waking up with back pain\u2014this bamboo topper transforms your old mattress into a cloud of comfort.",
+          "platform": "Facebook"
+        },
+        {
+          "name": "Luxury Upgrade",
+          "emotion": "Aspiration",
+          "message": "Wake up feeling like you slept at a five-star resort, not your bedroom\u2014for under $50.",
+          "platform": "Instagram"
+        },
+        {
+          "name": "Comfort Transformation",
+          "emotion": "Joy",
+          "message": "Watch how one $45 topper turns a rock-hard mattress into the best sleep of your life.",
+          "platform": "TikTok"
+        }
+      ],
+      "script_15s": {
+        "hook": {
+          "time": "0-2s",
+          "voiceover": "Stop waking up sore and uncomfortable!",
+          "visual": "Quick cuts of person tossing in bed, looking frustrated, waking up with neck/back pain",
+          "text_overlay": "Your mattress is the problem"
+        },
+        "problem": {
+          "time": "2-6s",
+          "voiceover": "Your old mattress is lumpy, hot, and destroying your sleep quality. You deserve better.",
+          "visual": "Close-up of worn mattress, person sweating at night, dark circles under eyes",
+          "text_overlay": "Lumpy \u2022 Hot \u2022 Uncomfortable"
+        },
+        "solution": {
+          "time": "6-11s",
+          "voiceover": "The Ultra Soft Bamboo Pillow Top Topper transforms any bed into a cloud of comfort. Viscose from bamboo keeps you cool all night long.",
+          "visual": "Product shot of topper, person placing it on mattress, person sinking into pillow top in slow motion, happy expression on face",
+          "text_overlay": "Bamboo Viscose \u2022 Cooling \u2022 Pillow Top"
+        },
+        "cta": {
+          "time": "11-15s",
+          "voiceover": "Get yours today for only $45.99. Your best sleep is waiting.",
+          "visual": "Product displayed with price, person sleeping peacefully, waking up refreshed and smiling",
+          "text_overlay": "$45.99 \u2022 FREE SHIPPING \u2022 Shop Now"
+        }
+      },
+      "script_30s": {
+        "hook": {
+          "time": "0-3s",
+          "voiceover": "Stop waking up hot and uncomfortable tonight.",
+          "visual": "Close-up of person tossing and turning in bed, looking frustrated and sweaty",
+          "text_overlay": "Your Mattress Needs Help \ud83d\ude34"
+        },
+        "problem": {
+          "time": "3-8s",
+          "voiceover": "Old mattresses trap heat, kill your sleep quality, and cost thousands to replace. But there's a better way.",
+          "visual": "Split screen: left side shows hot, uncomfortable sleeper; right side shows empty wallet",
+          "text_overlay": "Hot. Uncomfortable. Expensive. \u274c"
+        },
+        "solution": {
+          "time": "8-20s",
+          "voiceover": "Introducing the Ultra Soft Bamboo Pillow Top Mattress Topper. Viscose from bamboo keeps you cool all night, adds cloud-like comfort, and transforms your bed instantly.",
+          "visual": "Product shot of topper being placed on mattress, close-up of soft pillow top texture, person laying down with peaceful expression, cool blue lighting effects",
+          "text_overlay": "Bamboo Viscose\nUltra Soft\nCool All Night \u2728"
+        },
+        "cta": {
+          "time": "20-30s",
+          "voiceover": "Get the Ultra Soft Queen Size Mattress Topper for just $45.99. Free shipping. Limited stock. Order now before they're gone.",
+          "visual": "Product displayed on bed in luxurious bedroom setting, quick transition to order button on phone screen, fast-paced montage of happy customers",
+          "text_overlay": "ONLY $45.99\nFREE SHIPPING\nShop Now \u2192\nLink in Bio \ud83d\udd17"
+        }
+      },
+      "headlines": [
+        "Sleep Like Royalty Tonight - Just $45.99",
+        "Stop Waking Up With Back Pain Today",
+        "Bamboo Pillow Top That Feels Cloud-Like Soft",
+        "Join 50K+ Customers Sleeping Better Nightly",
+        "Limited Stock - 40% Off Queen Toppers"
+      ],
+      "total_combinations": 30
+    }
+  ],
+  "stats": {
+    "total_products": 4,
+    "total_hooks": 20,
+    "total_scripts": 8,
+    "total_headlines": 20
+  }
+}

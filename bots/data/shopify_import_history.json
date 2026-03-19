@@ -1,0 +1,667 @@
+{
+  "imported": {
+    "48d8a30a7b39": {
+      "shopify_id": 14972032483700,
+      "title": "YARRAMATE 16oz/470ml Glass Olive Oil Sprayer for Cooking with Stick...",
+      "original_title": "YARRAMATE 16oz/470ml Glass Olive Oil Sprayer for Cooking with Stickers, 2 in 1 O",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 67.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-10T11:00:03.270087"
+    },
+    "6d5e173eb853": {
+      "shopify_id": 14972032516468,
+      "title": "DAYBETTER LED Strip Lights 130ft Lights Strip for Bedroom, Desk, In...",
+      "original_title": "DAYBETTER LED Strip Lights 130ft Lights Strip for Bedroom, Desk, Indoor Room Bed",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 65.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-10T11:00:04.855112"
+    },
+    "23255a61cf74": {
+      "shopify_id": 14972032549236,
+      "title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container,...",
+      "original_title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper",
+      "price": "14.99",
+      "compare_at": "19.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 63.2,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-10T11:00:06.728806"
+    },
+    "1b599152dfe2": {
+      "shopify_id": 14972032582004,
+      "title": "KSIPZE 100ft Led Strip Lights RGB Music Sync Color Changing Led Lig...",
+      "original_title": "KSIPZE 100ft Led Strip Lights RGB Music Sync Color Changing Led Lights with Smar",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 63.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-10T11:00:08.541402"
+    },
+    "7149d4807a5a": {
+      "shopify_id": 14972032614772,
+      "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Mois...",
+      "original_title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer Face ",
+      "price": "21.99",
+      "compare_at": "28.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 59.3,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-10T11:00:10.323716"
+    },
+    "65fd6b32841b": {
+      "shopify_id": 14972661006708,
+      "title": "HydroJug Traveler - 32 oz Water Bottle with Handle & Flip Straw",
+      "original_title": "HydroJug Traveler - 32 oz Water Bottle with Handle & Flip Straw - Fits in Cup Ho",
+      "price": "30.99",
+      "compare_at": "39.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.3,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-11T11:00:03.895061"
+    },
+    "445d5a82f024": {
+      "shopify_id": 14972661039476,
+      "title": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Cur...",
+      "original_title": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner wi",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.9,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-11T11:00:05.614088"
+    },
+    "1cfadd8af933": {
+      "shopify_id": 14972661072244,
+      "title": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with Hi...",
+      "original_title": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Hold",
+      "price": "12.99",
+      "compare_at": "15.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.9,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-11T11:00:07.730137"
+    },
+    "478f211685ef": {
+      "shopify_id": 14972661105012,
+      "title": "INABA Churu Cat Treats",
+      "original_title": "INABA Churu Cat Treats, Grain-Free, Lickable, Squeezable Creamy Pur\u00e9e Cat Treat/",
+      "price": "29.99",
+      "compare_at": "37.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-11T11:00:09.508708"
+    },
+    "1dfa524e131c": {
+      "shopify_id": 14972661137780,
+      "title": "Neutrogena Makeup Remover Wipes Micellar Alcohol-Free Face Towelett...",
+      "original_title": "Neutrogena Makeup Remover Wipes Micellar Alcohol-Free Face Towelettes Remove Wat",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.5,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-11T11:00:11.240695"
+    },
+    "af90a896edba": {
+      "shopify_id": 14975463620980,
+      "title": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bea...",
+      "original_title": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Wom",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 61.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-12T11:00:03.139149"
+    },
+    "0eaac9d67a2b": {
+      "shopify_id": 14975463686516,
+      "title": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Buil...",
+      "original_title": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintai",
+      "price": "59.95",
+      "compare_at": "79.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.7,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-12T11:00:04.914201"
+    },
+    "96d36fc68a42": {
+      "shopify_id": 14975463817588,
+      "title": "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeabl...",
+      "original_title": "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeable Headlight w",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "competitor_sells"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-12T11:00:06.712052"
+    },
+    "1289502f28ef": {
+      "shopify_id": 14975463883124,
+      "title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, ...",
+      "original_title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, Upgrade Stron",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.8,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-12T11:00:08.681456"
+    },
+    "78e749a042e3": {
+      "shopify_id": 14975463981428,
+      "title": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twis...",
+      "original_title": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twist with Brush&",
+      "price": "19.99",
+      "compare_at": "24.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-12T11:00:10.467199"
+    },
+    "c5b1fe15e073": {
+      "shopify_id": 14977660223860,
+      "title": "LEVOIT Air Purifiers for Bedroom Home Dorm, AHAM Verified, 3-in-1 F...",
+      "original_title": "LEVOIT Air Purifiers for Bedroom Home Dorm, AHAM Verified, 3-in-1 Filter Cleaner",
+      "price": "44.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 66.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-13T11:00:04.004213"
+    },
+    "635d579a0147": {
+      "shopify_id": 14977660289396,
+      "title": "0.5 Sec Instant Read Meat Thermometer Digital with \u00b10.5\u2109 Precision,...",
+      "original_title": "0.5 Sec Instant Read Meat Thermometer Digital with \u00b10.5\u2109 Precision, Food Thermom",
+      "price": "11.99",
+      "compare_at": "14.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 56.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-13T11:00:05.782824"
+    },
+    "e2625d77ae79": {
+      "shopify_id": 14977660322164,
+      "title": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy ...",
+      "original_title": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to Use, Razor",
+      "price": "12.99",
+      "compare_at": "16.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.4,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-13T11:00:07.616483"
+    },
+    "dfb14ec047df": {
+      "shopify_id": 14977660387700,
+      "title": "Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Ac...",
+      "original_title": "Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Acid - Formulat",
+      "price": "12.99",
+      "compare_at": "15.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-13T11:00:09.331326"
+    },
+    "dec5c30cdc52": {
+      "shopify_id": 14986847551860,
+      "title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active...",
+      "original_title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancel",
+      "price": "109.99",
+      "compare_at": "139.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 59.6,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "competitor_sells"
+      ],
+      "niche": "electronics",
+      "imported_at": "2026-03-14T11:00:04.065841"
+    },
+    "f359d44fb56d": {
+      "shopify_id": 14986847584628,
+      "title": "Zulay Kitchen Powerful Milk Frother Wand With 2 Duracell Batteries ...",
+      "original_title": "Zulay Kitchen Powerful Milk Frother Wand With 2 Duracell Batteries - Ultra Fast ",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-14T11:00:05.910595"
+    },
+    "ad2421587f25": {
+      "shopify_id": 14986847617396,
+      "title": "High Pressure Rain Shower Head: Upgrade Shower Heads with Handheld ...",
+      "original_title": "High Pressure Rain Shower Head: Upgrade Shower Heads with Handheld Spray Combo w",
+      "price": "42.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-14T11:00:07.570196"
+    },
+    "001a3f291406": {
+      "shopify_id": 14986847650164,
+      "title": "NOCO GENIUS1: 1A 6V/12V Smart Battery Charger \u2013 Automatic Maintaine...",
+      "original_title": "NOCO GENIUS1: 1A 6V/12V Smart Battery Charger \u2013 Automatic Maintainer, Trickle Ch",
+      "price": "26.99",
+      "compare_at": "33.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 56.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "automotive",
+      "imported_at": "2026-03-14T11:00:09.493781"
+    },
+    "f246887e6bf7": {
+      "shopify_id": 14986847682932,
+      "title": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking \u2013 2 in 1 ...",
+      "original_title": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking \u2013 2 in 1 Olive Oil Dis",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 54.8,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-14T11:00:11.162393"
+    },
+    "80189e3b0eb9": {
+      "shopify_id": 14987376886132,
+      "title": "Gaiatop Mini Portable Stroller Fan, Battery Operated Small Clip on,...",
+      "original_title": "Gaiatop Mini Portable Stroller Fan, Battery Operated Small Clip on, Detachable 3",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 54.8,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "google_trending"
+      ],
+      "niche": "baby",
+      "imported_at": "2026-03-15T11:00:02.873184"
+    },
+    "b31924f5bd2a": {
+      "shopify_id": 14987376984436,
+      "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sen...",
+      "original_title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Ind",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-15T11:00:04.574523"
+    },
+    "370ccc0c6c80": {
+      "shopify_id": 14987377017204,
+      "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshie...",
+      "original_title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pa",
+      "price": "37.99",
+      "compare_at": "47.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 51.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "automotive",
+      "imported_at": "2026-03-15T11:00:06.185101"
+    },
+    "29670878b738": {
+      "shopify_id": 14987377049972,
+      "title": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Fr...",
+      "original_title": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Fo",
+      "price": "24.99",
+      "compare_at": "31.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 50.5,
+      "signals": [],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-15T11:00:07.846271"
+    },
+    "cd30b299a46a": {
+      "shopify_id": 14987377082740,
+      "title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin...",
+      "original_title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightw",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 50.3,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-15T11:00:09.700407"
+    },
+    "ffde5f6b2132": {
+      "shopify_id": 14987866407284,
+      "title": "Etekcity Food Kitchen Scale",
+      "original_title": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, C",
+      "price": "9.99",
+      "compare_at": "12.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.5,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-16T11:00:04.321567"
+    },
+    "affa5addd752": {
+      "shopify_id": 14987866505588,
+      "title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Reti...",
+      "original_title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Retinol, Collagen",
+      "price": "10.99",
+      "compare_at": "13.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.0,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-16T11:00:06.122126"
+    },
+    "f6d01f438e7a": {
+      "shopify_id": 14987866571124,
+      "title": "Sheba Perfect Portions Wet Cat Food Cuts in Gravy, Cat Food Wet Rec...",
+      "original_title": "Sheba Perfect Portions Wet Cat Food Cuts in Gravy, Cat Food Wet Recipe, Roasted ",
+      "price": "20.99",
+      "compare_at": "26.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-16T11:00:07.908490"
+    },
+    "1663aa752bdd": {
+      "shopify_id": 14987866636660,
+      "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-...",
+      "original_title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Bu",
+      "price": "30.99",
+      "compare_at": "39.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 52.6,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-16T11:00:09.822551"
+    },
+    "06ce60246a89": {
+      "shopify_id": 14987866702196,
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad fo...",
+      "original_title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation",
+      "price": "16.99",
+      "compare_at": "21.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 52.1,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-16T11:00:11.747897"
+    },
+    "95fbc3fa3b6b": {
+      "shopify_id": 14990699692404,
+      "title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes ...",
+      "original_title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes for Sensitive",
+      "price": "18.99",
+      "compare_at": "23.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 36.1,
+      "signals": [],
+      "niche": "health",
+      "imported_at": "2026-03-19T07:07:26.125122"
+    },
+    "716cc12d22f3": {
+      "shopify_id": 14990699725172,
+      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheet...",
+      "original_title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel",
+      "price": "21.99",
+      "compare_at": "28.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 31.2,
+      "signals": [],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-19T07:07:27.858252"
+    },
+    "57136891677f": {
+      "shopify_id": 14990699757940,
+      "title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pi...",
+      "original_title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pillow Top Matt",
+      "price": "40.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 31.0,
+      "signals": [],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-19T07:07:29.570389"
+    }
+  },
+  "total_imported": 37
+}

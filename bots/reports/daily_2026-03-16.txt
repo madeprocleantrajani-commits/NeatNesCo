@@ -1,0 +1,1086 @@
+
+╔══════════════════════════════════════════════════════════╗
+║               DROPSHIP INTELLIGENCE REPORT               ║
+║                        2026-03-16                        ║
+║                     Signal Pilot v4                      ║
+╚══════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────
+  DATA SOURCES (7/9 active)
+────────────────────────────────────────────────────────────
+
+  ✓ Amazon BSR         258 products, 76 movers              ★ excellent
+  ✓ Amazon Demand      11841 suggestions, 95 discoveries    ★ excellent
+  ✗ eBay Sold          0 sold items, 0 keywords             ✗ offline
+  ✓ Google Trends      3 hot, 150 discoveries               ● good
+  ✓ AliExpress         96 products                          ★ excellent
+  ✓ Competitors        60 stores                            ★ excellent
+  ✗ Price Monitor      0 tracked                            ✗ offline
+
+────────────────────────────────────────────────────────────
+  CROSS-SOURCE MATCHES (83 multi-signal products)
+────────────────────────────────────────────────────────────
+
+  #1  [4 signals ●●●●○○]  Owala FreeSip Insulated Stainless Steel… [BRAND]
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #1 sports  $29.97
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #2  [4 signals ●●●●○○]  Owala FreeSip Insulated Stainless Steel… [BRAND]
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #2 home-kitchen  $29.99
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #3  [4 signals ●●●●○○]  MCGOR 10inch Under Cabinet Lighting, 2 …
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #2 tools  $15.99
+      ⚠ RISK: SATURATED
+
+  #4  [4 signals ●●●●○○]  Owala FreeSip Sway Insulated Stainless … [BRAND]
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #3 sports  $34.99
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #5  [4 signals ●●●●○○]  TrendPlain 16oz/470ml Glass Olive Oil S…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #6 kitchen  $8.99
+      ⚠ RISK: SATURATED
+
+  #6  [4 signals ●●●●○○]  HydroJug Traveler - 32 oz Water Bottle …
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #7 kitchen  $34.99
+      ⚠ RISK: SATURATED
+
+  #7  [4 signals ●●●●○○]  YARRAMATE 16oz/470ml Glass Olive Oil Sp…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #15 kitchen  $8.99
+      ⚠ RISK: SATURATED
+
+  #8  [4 signals ●●●●○○]  Etekcity Food Kitchen Scale, Digital Gr…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #17 home-kitchen  $10.97
+      ⚠ RISK: SATURATED
+
+  #9  [4 signals ●●●●○○]  Jump Rope, Tangle-Free Rapid Speed Jump…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #20 sports  $8.99
+      ⚠ RISK: SATURATED
+
+  #10 [4 signals ●●●●○○]  Gaiatop Mini Portable Stroller Fan, Bat…
+      Signals: amazon_bestseller + seed_keyword + search_demand + google_trending
+      Amazon #24 baby  $15.58
+      Trend: 48/100
+      ⚠ RISK: SATURATED
+
+  #11 [4 signals ●●●●○○]  KSIPZE 100ft Led Strip Lights RGB Music…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #26 tools  $9.99
+      ⚠ RISK: SATURATED
+
+  #12 [4 signals ●●●●○○]  DAYBETTER LED Strip Lights 130ft Lights…
+      Signals: amazon_bestseller + seed_keyword + search_demand + tiktok_viral
+      Amazon #29 tools  $9.99
+      ⚠ RISK: SATURATED
+
+  #13 [3 signals ●●●○○○]  Drift Car Air Freshener - Wood Air Fres…
+      Signals: amazon_bestseller + seed_keyword + search_demand
+      Amazon #1 automotive  $12.95
+      ⚠ RISK: SATURATED
+
+  #14 [3 signals ●●●○○○]  Apple AirPods 4 Wireless Earbuds, Bluet… [BRAND]
+      Signals: amazon_bestseller + seed_keyword + search_demand
+      Amazon #2 electronics  $99.00
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #15 [3 signals ●●●○○○]  Kaistyle for Magsafe Car Mount【20 Stron…
+      Signals: amazon_bestseller + seed_keyword + search_demand
+      Amazon #2 automotive  $9.99
+      ⚠ RISK: SATURATED
+
+────────────────────────────────────────────────────────────
+  AMAZON BEST SELLERS (physical products only)
+────────────────────────────────────────────────────────────
+
+  Price Distribution (256 products, USD):
+    <$10      73  █████░░░░░░░░░░░░░░░  29%
+    $10-25   106  ████████░░░░░░░░░░░░  41%
+    $25-50    50  ███░░░░░░░░░░░░░░░░░  20%
+    $50-100   21  █░░░░░░░░░░░░░░░░░░░  8%
+    >$100      6  ░░░░░░░░░░░░░░░░░░░░  2%
+    Avg: $29.37  |  Median: $16.99
+
+  ┌─ ELECTRONICS (24 products)
+  │  Avg: $98.43  │  Range: $8.99–$697.00  │  Rating: 4.6/5
+  │
+  │  #2   NEW   Apple AirPods 4 Wireless Earbuds, … [B]    $99.00  ★4.5 (43,818)
+  │  #3   NEW   Apple EarPods Headphones with Ligh… [B]    $15.96  ★4.6 (13,958)
+  │  #4   ↑1    Apple AirTag (2nd Generation): Tra… [B]    $29.00  ★4.6 (875)
+  │  #5   ↓1    Apple iPad 11-inch: A16 chip, 11-i… [B]   $299.00  ★4.7 (20,244)
+  │  #6   ↑11   Amazon Fire TV Stick 4K Plus (newe…    $24.99  ★4.7 (105,347)
+  └─
+
+  ┌─ HOME & KITCHEN (30 products)
+  │  Avg: $20.87  │  Range: $2.63–$88.99  │  Rating: 4.5/5
+  │
+  │  #1         Queen Size 4 Piece Sheet Set - Com…    $24.99  ★4.5 (430,157)
+  │  #2         Owala FreeSip Insulated Stainless … [B]    $29.99  ★4.7 (112,956)
+  │  #3         BEDLORE Waterproof Mattress Protec…    $23.97  ★4.6 (16,077)
+  │  #4         TERRO Ant Killer Bait Stations T30…    $11.97  ★4.6 (149,796)
+  │  #5         upsimples 11x14 Picture Frame, Dis…     $7.99  ★4.5 (36,919)
+  └─
+
+  ┌─ SPORTS (30 products)
+  │  Avg: $22.02  │  Range: $7.47–$99.99  │  Rating: 4.6/5
+  │
+  │  #1         Owala FreeSip Insulated Stainless … [B]    $29.97  ★4.7 (112,956)
+  │  #2         Amazon Basics Neoprene Dumbbell Ha… [B]     $9.44  ★4.8 (124,391)
+  │  #3         Owala FreeSip Sway Insulated Stain… [B]    $34.99  ★4.7 (5,444)
+  │  #4         ZELUS Weighted Vest, 6lb/8lb/12lb/…    $36.99  ★4.5 (14,757)
+  │  #5         Amazon Basics High Density Foam Ro… [B]    $12.54  ★4.6 (112,870)
+  └─
+
+  ┌─ BEAUTY (30 products)
+  │  Avg: $16.71  │  Range: $2.96–$88.00  │  Rating: 4.6/5
+  │
+  │  #1         eos Shea Better Body Lotion Vanill… [B]     $9.97  ★4.7 (65,964)
+  │  #2         medicube Toner Pads Zero Pore Pad … [B]    $18.90  ★4.6 (19,572)
+  │  #3         Neutrogena Makeup Remover Wipes Mi… [B]     $9.97  ★4.8 (117,604)
+  │  #4   ↑1    Mighty Patch Original Patch from H…    $12.99  ★4.6 (182,176)
+  │  #5   ↑1    BIODANCE Bio-Collagen Real Deep Ma…    $19.00  ★4.5 (37,901)
+  └─
+
+  ┌─ PET & SUPPLIES (30 products)
+  │  Avg: $20.27  │  Range: $4.98–$67.98  │  Rating: 4.7/5
+  │
+  │  #1         Amazon Basics Leak-Proof Dog and P… [B]    $18.06  ★4.4 (222,044)
+  │  #2         Dr. Elsey's Ultra UnScented Clumpi…    $22.99  ★4.3 (93,935)
+  │  #3         ARM & HAMMER Clump & Seal SLIDE Pl… [B]    $20.03  ★4.6 (39,514)
+  │  #4         Fresh Step Clumping Cat Litter, Mu…     $9.54  ★4.6 (93,129)
+  │  #5   ↑1    Earth Rated Poop Bags for Dogs, Gu…    $13.99  ★4.8 (244,284)
+  └─
+
+  ┌─ TOOLS (28 products)
+  │  Avg: $32.13  │  Range: $6.69–$99.99  │  Rating: 4.6/5
+  │
+  │  #2         MCGOR 10inch Under Cabinet Lightin…    $15.99  ★4.5 (51,910)
+  │  #3         GE XWFE Refrigerator Water Filter,…    $49.98  ★4.5 (39,768)
+  │  #4   ↑2    Filterbuy 20x20x1 Air Filter MERV …    $29.96  ★4.7 (154,217)
+  │  #5   ↓1    everydrop by Whirlpool Ice and Wat… [B]    $57.00  ★4.7 (107,166)
+  │  #6   ↓1    Rust-Oleum 334020 Painter's Touch …     $6.69  ★4.7 (93,526)
+  └─
+
+  ┌─ KITCHEN (26 products)
+  │  Avg: $17.64  │  Range: $3.39–$89.99  │  Rating: 4.6/5
+  │
+  │  #5   ↑24   bella 2 Slice Slim Toaster, Fits-a…    $24.98  ★4.2 (11,115)
+  │  #6   ↑3    TrendPlain 16oz/470ml Glass Olive …     $8.99  ★4.5 (34,450)
+  │  #7   ↓2    HydroJug Traveler - 32 oz Water Bo…    $34.99  ★4.5 (18,342)
+  │  #8   ↓2    Owala SmoothSip Slider Insulated S… [B]    $24.99  ★4.6 (10,897)
+  │  #9   ↓1    Lifewit Medium Lunch Bag Insulated…     $7.99  ★4.6 (56,373)
+  └─
+
+  ┌─ GARDEN (0 products)
+  │  Avg: $0.00  │  Range:   N/A  –  N/A    │  Rating: 0.0/5
+  │
+  └─
+
+  ┌─ BABY (30 products)
+  │  Avg: $27.36  │  Range: $7.59–$63.15  │  Rating: 4.6/5
+  │
+  │  #1         Pampers Swaddlers Diapers, Size 5 … [B]    $59.77  ★4.8 (129,916)
+  │  #2         Huggies Natural Care Sensitive Bab… [B]    $21.99  ★4.8 (121,486)
+  │  #3         Huggies Size Newborn Diapers, Litt… [B]     $9.94  ★4.8 (88,006)
+  │  #4         Pampers Sensitive Baby Wipes, Wate… [B]    $29.94  ★4.8 (238,358)
+  │  #5         The Honest Company Hypoallergenic …    $44.99  ★4.8 (55,421)
+  └─
+
+  ┌─ AUTOMOTIVE (30 products)
+  │  Avg: $20.65  │  Range: $5.39–$99.95  │  Rating: 4.5/5
+  │
+  │  #1         Drift Car Air Freshener - Wood Air…    $12.95  ★3.8 (17,490)
+  │  #2         Kaistyle for Magsafe Car Mount【20 …     $9.99  ★4.5 (25,982)
+  │  #3         Valvoline Advanced Full Synthetic …    $26.97  ★4.8 (9,880)
+  │  #4         Mobil 1 Advanced Fuel Economy Full…    $27.97  ★4.8 (5,687)
+  │  #5         USANOOKS Microfiber Cleaning Cloth…     $7.98  ★4.6 (19,278)
+  └─
+
+  BSR RISING (15 products climbing in rank):
+    ↑ 11 ranks  #17→#6  Amazon Fire TV Stick 4K Plus (newest …  $24.99
+    ↑  3 ranks  #24→#21  Blink Video Doorbell (newest model) –…  $29.99
+    ↑  3 ranks  #26→#23  Utopia Bedding Queen Fitted Sheet - B…  $9.99
+    ↑  3 ranks  #27→#24  LEVOIT Top Fill Humidifiers for Bedro…  $27.94
+    ↑  7 ranks  #21→#14  Rawlings | REMIX Backpack Equipment B…  $19.97
+    ↑  3 ranks  #24→#21  Rainleaf Microfiber Towel Perfect Tra…  $12.99
+    ↑  5 ranks  #29→#24  Rawlings | Remix & COOLFLO Batting He…  $20.99
+    ↑  3 ranks  #18→#15  Aquaphor Healing Ointment Advanced Th…  $12.97
+    ↑  4 ranks  #26→#22  VALITIC Kojic Acid Dark Spot Remover …  $11.99
+    ↑ 24 ranks  #29→#5  bella 2 Slice Slim Toaster, Fits-anyw…  $24.98
+
+  MOVERS & SHAKERS (76 trending):
+    ↑ [electronics ]  Universal-TV-Remote-Control Compatible … [B]    N/A  
+    ↑ [electronics ]  AN-MR24gn-Magic-for-LG-Smart-TV-Voice-R… [B]    N/A  
+    ↑ [electronics ]  Voice Remote Control Replacement for Hi… [B]    N/A  
+    ↑ [electronics ]  Replacement Voice Remote Control for Fi…    N/A  
+    ↑ [electronics ]  (2 Pack) Cover for Samsung Remote Silic… [B]    N/A  
+    ↑ [electronics ]  Replacement for Apple-TV-4K-Remote, Rem… [B]    N/A  
+    ↑ [electronics ]  avedio links HDMI Splitter 1 in 2 Out […    N/A  
+    ↑ [electronics ]  SANSUI Computer Monitor 24 inch Eye Car…    N/A  
+    ↑ [electronics ]  SANSUI 24 Inch Curved 160Hz Gaming Moni…    N/A  
+    ↑ [electronics ]  Magic-Remote Replacement for LG-Smart-T… [B]    N/A  
+    ↑ [electronics ]  Amazon Fire TV Stick 4K (newest model) …    N/A  
+    ↑ [electronics ]  Replacement Remote for Tempurpedic Ergo…    N/A  
+    ↑ [electronics ]  TAGRY Hybrid Active Noise Cancelling Bl…    N/A  
+    ↑ [electronics ]  GNMN Active Noise Cancelling Ear Buds W…    N/A  
+    ↑ [electronics ]  Qecnato Wireless Earbuds Bluetooth 5.4 …    N/A  
+
+  DROPSHIP CANDIDATES (87 found  │  $15-$80 + ★4.0+ + non-brand)
+
+    SCORE      #  PRODUCT                           PRICE     ★  REVIEWS  RISK
+    ────────────────────────────────────────────────────────────────────────────────
+    ██░░░ 48  #7   HydroJug Traveler - 32 oz Wat…   $34.99   4.5   18,342  highly saturated market
+          └ 4 confirming sources
+    ██░░░ 42  #2   MCGOR 10inch Under Cabinet Li…   $15.99   4.5   51,910  highly saturated market, low margin risk
+          └ 4 confirming sources
+    ██░░░ 42  #24  Gaiatop Mini Portable Strolle…   $15.58   4.6   17,483  highly saturated market, low margin risk
+          └ 4 confirming sources
+    █░░░░ 36  #9   EltaMD UV Clear Face Sunscree…   $36.00   4.5   67,318  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 35  #7   Rain-X 810363 Repellency Wate…   $41.76   4.4      341  —
+          └ 2 confirming sources
+    █░░░░ 34  #8   LHKNL Headlamp Flashlight, Lu…   $24.99   4.5   33,660  highly saturated market
+          └ 3 confirming sources
+    █░░░░ 34  #21  NOCO GENIUS1: 1A 6V/12V Smart…   $29.95   4.4   60,340  highly saturated market
+          └ 3 confirming sources
+    █░░░░ 31  #26  TAGRY Bluetooth Headphones Tr…   $24.67   4.4   83,655  highly saturated market
+          └ 4 confirming sources
+    █░░░░ 31  #1   Queen Size 4 Piece Sheet Set …   $24.99   4.5  430,157  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 30  #4   Filterbuy 20x20x1 Air Filter …   $29.96   4.7  154,217  highly saturated market
+    █░░░░ 30  #10  CERAKOTE® Ceramic Headlight R…   $17.95   4.6   65,829  highly saturated market, low margin risk
+          └ 3 confirming sources
+    █░░░░ 29  #6   Amazon Fire TV Stick 4K Plus …   $24.99   4.7  105,347  highly saturated market
+    █░░░░ 29  #16  La Roche-Posay Toleriane Doub…   $24.99   4.6   47,942  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 29  #3   Valvoline Advanced Full Synth…   $26.97   4.8    9,880  highly saturated market
+    █░░░░ 29  #4   Mobil 1 Advanced Fuel Economy…   $27.97   4.8    5,687  highly saturated market
+    █░░░░ 28  #17  High Pressure Rain Shower Hea…   $79.99   4.5    7,506  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 28  #5   bella 2 Slice Slim Toaster, F…   $24.98   4.2   11,115  highly saturated market
+    █░░░░ 27  #11  Ultra Soft Queen Size Mattres…   $45.99   4.4   43,445  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 27  #25  JETO Metal Bed Frame,Queen Si…   $53.99   4.6   27,779  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 27  #4   ZELUS Weighted Vest, 6lb/8lb/…   $36.99   4.5   14,757  highly saturated market
+
+────────────────────────────────────────────────────────────
+  EBAY SOLD LISTINGS (real transaction validation)
+────────────────────────────────────────────────────────────
+
+  Total sold items found: 0  │  Keywords with sales: 0/0
+
+────────────────────────────────────────────────────────────
+  AMAZON DEMAND (what buyers are searching for)
+────────────────────────────────────────────────────────────
+
+  Keywords scanned: 100  │  Suggestions: 11841  │  New ideas: 95
+
+  NEW PRODUCT IDEAS (20 discovered):
+    • pet hair removal kit  (from: pet hair remover)
+    • oil spray bottle bbq  (from: oil sprayer bottle)
+    • oil spray bottle oxo  (from: oil sprayer bottle)
+    • pet nail grinding kit  (from: pet nail grinder)
+    • oil spray bottle auto  (from: oil sprayer bottle)
+    • oil spray bottle blue  (from: oil sprayer bottle)
+    • oil spray bottle body  (from: oil sprayer bottle)
+    • oil spray bottle bulk  (from: oil sprayer bottle)
+    • oil spray bottle cute  (from: oil sprayer bottle)
+    • oil spray bottle hair  (from: oil sprayer bottle)
+    • pet nail grinding bits  (from: pet nail grinder)
+    • pet hair removal knife  (from: pet hair remover)
+    • bluetooth tracking pad  (from: bluetooth tracker)
+    • oil spray bottle black  (from: oil sprayer bottle)
+    • oil spray bottle cheap  (from: oil sprayer bottle)
+
+  portable blender: 156 ideas
+    → portable blender
+    → portable blender for smoothies
+    → ninja blast portable blender
+
+  led strip lights: 158 ideas
+    → led strip lights
+    → led strip lights battery powered
+    → led strip lights for bedroom
+
+  smart plug: 160 ideas
+    → smart plug
+    → kasa smart plug
+    → alexa smart plugs
+
+  air purifier: 158 ideas
+    → air purifier
+    → air purifiers for home
+    → air purifiers for bedroom
+
+  electric lighter: 140 ideas
+    → electric lighter
+    → electric lighters rechargeable
+    → electric lighter candle
+
+  aroma diffuser: 148 ideas
+    → aroma diffuser
+    → infuser aroma diffuser
+    → aroma diffuser for home
+
+  motion sensor light: 158 ideas
+    → motion sensor light indoor
+    → motion sensor light
+    → motion sensor light switch
+
+  portable projector: 134 ideas
+    → portable projector
+    → portable projector screen
+    → lumibeam portable projector
+
+  smart doorbell: 71 ideas
+    → smart doorbell
+    → smart doorbell camera with two-way audio
+    → smart doorbell camera
+
+  robot vacuum cleaner: 95 ideas
+    → robot vacuum cleaner
+    → lefant robot vacuum cleaner
+    → self emptying robot vacuum cleaner
+
+  posture corrector: 154 ideas
+    → posture corrector for women
+    → posture corrector for men
+    → posture corrector
+
+  massage gun: 166 ideas
+    → massage gun
+    → massage gun deep tissue
+    → theragun massage gun
+
+  resistance bands: 162 ideas
+    → resistance bands
+    → resistance bands with handles
+    → resistance bands for working out
+
+  ab roller: 124 ideas
+    → ab roller
+    → ab roller wheel
+    → ab roller with elbow support
+
+  yoga mat: 169 ideas
+    → yoga mat
+    → yoga mat thick
+    → yoga mat towel
+
+  jump rope fitness: 8 ideas
+    → jump rope fitness
+    → smart jump rope fitness tracker
+    → jump rope fitness men
+
+  foam roller: 157 ideas
+    → foam roller
+    → foam roller for physical therapy
+    → foam roller for back
+
+  grip strength trainer: 137 ideas
+    → grip strength trainer
+    → grip strength trainer kit
+    → grip strength trainer set
+
+  pull up bar: 160 ideas
+    → pull up bar
+    → pull up bar for doorway
+    → pull up bar free standing
+
+  wrist wraps: 144 ideas
+    → wrist wraps for weightlifting
+    → wrist wraps
+    → gym wrist wraps
+
+  dog camera: 120 ideas
+    → dog camera
+    → dog camera with phone app
+    → dog camera with speaker
+
+  cat water fountain: 159 ideas
+    → cat water fountain
+    → cat water fountain stainless steel
+    → cat water fountain filter
+
+  pet grooming glove: 43 ideas
+    → pet grooming gloves
+    → pet grooming gloves for dogs
+    → pet grooming glove
+
+  dog car seat cover: 123 ideas
+    → dog car seat cover for back seat
+    → dog car seat cover
+    → dog car seat cover for back seat hard bottom
+
+  automatic pet feeder: 86 ideas
+    → automatic pet feeder
+    → automatic pet feeder for cats
+    → petlibro air automatic pet feeder
+
+  pet nail grinder: 60 ideas
+    → pet nail grinder for dogs
+    → pet nail grinder
+    → pet nail grinder for cats
+
+  dog anxiety vest: 34 ideas
+    → dog anxiety vest
+    → dog anxiety vest small
+    → dog anxiety vest large
+
+  cat tree tower: 143 ideas
+    → cat tree tower
+    → cat tree tower for large cats
+    → cat tree tower for indoor cats
+
+  dog poop bag dispenser: 91 ideas
+    → dog poop bag dispenser
+    → dog poop bag dispenser for leash
+    → dog poop bag dispenser holder
+
+  pet hair remover: 144 ideas
+    → pet hair remover
+    → pet hair remover for laundry
+    → pet hair remover glove
+
+  car phone mount: 164 ideas
+    → car phone mount
+    → car phone mount magnetic
+    → car phone mount charger
+
+  wireless charger: 167 ideas
+    → wireless charger
+    → wireless charger iphone
+    → wireless charger samsung
+
+  laptop stand: 166 ideas
+    → laptop stand
+    → laptop stand for desk
+    → adjustable laptop stand
+
+  ring light: 166 ideas
+    → ring light
+    → ring light with stand
+    → ring light for phone
+
+  bluetooth tracker: 77 ideas
+    → bluetooth tracker
+    → bluetooth tracker android
+    → bluetooth tracker tag
+
+  cable organizer: 157 ideas
+    → cable organizer
+    → cable organizers for cords
+    → cable organizer box
+
+  portable monitor: 166 ideas
+    → portable monitor
+    → portable monitor for laptop
+    → portable monitor stand
+
+  webcam cover: 109 ideas
+    → webcam cover
+    → webcam cover slide
+    → webcam cover for laptop
+
+  usb hub: 163 ideas
+    → usb hub
+    → usb hub for laptop
+    → usb hub for pc
+
+  phone tripod: 154 ideas
+    → phone tripod
+    → phone tripod stand
+    → phone tripod with light
+
+  jade roller: 99 ideas
+    → jade roller
+    → jade roller for face
+    → jade roller and gua sha set
+
+  teeth whitening kit: 115 ideas
+    → teeth whitening kit
+    → auraglow teeth whitening kit
+    → my smile teeth whitening kit
+
+  hair growth serum: 159 ideas
+    → ordinary hair growth serum
+    → lilyeve hair growth serum
+    → bodywise hair growth serum roll on
+
+  blackhead remover: 159 ideas
+    → blackhead remover
+    → blackhead remover tools
+    → blackhead remover strip
+
+  essential oil diffuser: 168 ideas
+    → essential oil diffuser
+    → waterless essential oil diffuser
+    → essential oil diffusers for home
+
+  facial steamer: 154 ideas
+    → facial steamer
+    → facial steamer professional
+    → facial steamer for face
+
+  derma roller: 157 ideas
+    → derma roller
+    → derma roller for hair growth
+    → derma roller 0.5mm
+
+  lip plumper: 161 ideas
+    → lip plumper
+    → lip plumper extreme
+    → lip plumper gloss
+
+  eyelash serum: 135 ideas
+    → babe lash eyelash serum
+    → forchics eyelash serum
+    → luxe eyelash serum
+
+  scalp massager: 155 ideas
+    → scalp massager
+    → scalp massager hair growth
+    → scalp massager brush
+
+  camping hammock: 105 ideas
+    → camping hammock
+    → camping hammock lightweight portable
+    → camping hammock with mosquito net
+
+  solar power bank: 145 ideas
+    → solar power bank
+    → solar power bank portable charger
+    → portable solar power bank
+
+  insulated water bottle: 165 ideas
+    → insulated water bottle
+    → 64oz insulated water bottle
+    → insulated water bottle with straw
+
+  tactical flashlight: 150 ideas
+    → tactical flashlight
+    → tactical flashlight rechargeable
+    → tactical flashlights high lumens
+
+  portable fan: 156 ideas
+    → portable fan
+    → portable fan rechargeable
+    → portable fan for travel
+
+  hiking backpack: 157 ideas
+    → hiking backpack
+    → hiking backpack for women
+    → hiking backpack men
+
+  camping lantern: 155 ideas
+    → camping lantern
+    → led camping lantern
+    → camping lanterns battery powered
+
+  survival bracelet: 52 ideas
+    → survival bracelet
+    → survival bracelets for men
+    → paracord survival bracelet
+
+  portable water filter: 56 ideas
+    → portable water filter
+    → portable water filters survival
+    → portable water filter for travel
+
+  collapsible water bottle: 102 ideas
+    → collapsible water bottles
+    → collapsible water bottle
+    → collapsible water bottles for traveling
+
+  reusable food wrap: 12 ideas
+    → bees wrap reusable food wrap
+    → reusable food wrap
+    → beeswrap reusable food wraps
+
+  bamboo toothbrush: 115 ideas
+    → bamboo toothbrushes
+    → bamboo toothbrush
+    → bamboo toothbrush holder
+
+  solar garden lights: 125 ideas
+    → solar garden lights
+    → solar garden lights outdoor
+    → solar garden lights outdoor waterproof
+
+  reusable straw set: 8 ideas
+    → reusable straw set
+    → reusable straw sets with cleaning brush
+    → reusable straw set with cleaning brush and case
+
+  beeswax wrap: 71 ideas
+    → beeswax wraps for food
+    → beeswax wraps
+    → beeswax wrap
+
+  compost bin: 155 ideas
+    → compost bin
+    → compost bin kitchen
+    → compost bin outdoor
+
+  bamboo cutlery set: 11 ideas
+    → bamboo cutlery set
+    → bamboo cutlery sets fork knife spoon
+    → bamboo cutlery set reusable
+
+  reusable produce bags: 41 ideas
+    → reusable produce bags
+    → reusable produce bags washable
+    → reusable produce bags for grocery shopping
+
+  solar phone charger: 65 ideas
+    → solar phone charger
+    → solar phone charger power bank
+    → solar phone charger for iphone
+
+  eco cleaning cloths: 1 ideas
+    → eco cleaning cloths
+
+  desk organizer: 161 ideas
+    → desk organizer
+    → desk organizers and accessories
+    → desk organizer small space
+
+  monitor light bar: 109 ideas
+    → monitor light bar
+    → quntis monitor light bar
+    → monitor light bar curved
+
+  ergonomic mouse: 167 ideas
+    → ergonomic mouse
+    → ergonomic mouse pad
+    → logitech ergonomic mouse
+
+  standing desk converter: 132 ideas
+    → standing desk converter
+    → standing desk converter 2 monitors
+    → standing desk converters adjustable
+
+  cable management box: 139 ideas
+    → cable management box
+    → cable management box large
+    → rattan cable management box
+
+  laptop cooling pad: 133 ideas
+    → laptop cooling pad
+    → razer laptop cooling pad
+    → laptop cooling pad for lap
+
+  desk pad large: 20 ideas
+    → desk pad large
+    → desk pad large 48x24
+    → desk pad large 36x24
+
+  blue light glasses: 159 ideas
+    → blue light glasses
+    → blue light glasses for woman
+    → blue light glasses men
+
+  noise cancelling earbuds: 151 ideas
+    → noise cancelling earbuds
+    → noise cancelling earbuds for sleep
+    → bose noise cancelling earbuds
+
+  whiteboard planner: 23 ideas
+    → whiteboard planner
+    → daily whiteboard planner
+    → whiteboard planner for wall
+
+  car vacuum cleaner: 80 ideas
+    → car vacuum cleaner high power
+    → car vacuum cleaner
+    → car vacuum cleaner high power cordless
+
+  dash cam: 166 ideas
+    → dash cam
+    → dash cam front and rear
+    → dash camera for cars
+
+  seat gap filler: 130 ideas
+    → car seat gap filler
+    → seat gap filler
+    → car seat gap filler organizer
+
+  trunk organizer: 164 ideas
+    → trunk organizer
+    → trunk organizer for suv
+    → trunk organizer for car
+
+  car air freshener diffuser: 82 ideas
+    → car air freshener diffuser
+    → car air freshener diffuser women
+    → car air freshener diffuser refill
+
+  steering wheel cover: 168 ideas
+    → steering wheel cover
+    → steering wheel cover women
+    → car steering wheel cover
+
+  car seat cushion: 140 ideas
+    → car seat cushion
+    → car seat cushions for driving
+    → car seat cushion for long driving
+
+  phone mount magnetic: 39 ideas
+    → car phone mount magnetic
+    → phone mount magnetic
+    → car phone mount magnetic charger
+
+  car trash can: 155 ideas
+    → car trash can
+    → car trash can cup holder
+    → car trash can with lid
+
+  back seat organizer: 69 ideas
+    → car back seat organizer
+    → back seat organizer for kids
+    → back seat organizer for truck
+
+  air fryer accessories: 78 ideas
+    → air fryer accessories
+    → air fryer accessories 6 qt
+    → air fryer accessories for oven
+
+  spice rack organizer: 95 ideas
+    → spice rack organizer for cabinet
+    → spice rack organizer
+    → wall mounted spice rack organizer
+
+  vegetable chopper: 164 ideas
+    → vegetable chopper
+    → vegetable chopper with container
+    → snofrid vegetable chopper
+
+  silicone baking mat: 145 ideas
+    → silicone baking mat
+    → macaron silicone baking mats
+    → silpat silicone baking mat
+
+  egg cooker: 153 ideas
+    → egg cooker
+    → egg cooker for hard boiled eggs
+    → egg cooker microwave
+
+  food scale digital: 11 ideas
+    → food scale digital
+    → taylor food scale digital
+    → food scale digital weight grams and oz
+
+  can opener electric: 111 ideas
+    → can opener electric
+    → can opener electric countertop
+    → can opener electric hamilton beach
+
+  herb garden indoor: 26 ideas
+    → kitchen herb garden indoor kit
+    → herb garden indoor
+    → herb garden indoor kit
+
+  ice cube tray silicone: 60 ideas
+    → ice cube tray silicone
+    → ice cube tray silicone with lid
+    → ice cube tray silicone small
+
+  oil sprayer bottle: 53 ideas
+    → oil sprayer bottle
+    → oil sprayer bottle for cooking
+    → oil sprayer bottle glass
+
+────────────────────────────────────────────────────────────
+  GOOGLE TRENDS
+────────────────────────────────────────────────────────────
+
+  HOT (3 rising):
+    ███░░░░░  portable fan  (48/100)  ?
+    █████░░░  hiking backpack  (73/100)  ?
+    █████░░░  compost bin  (69/100)  ?
+
+  BREAKOUT QUERIES (150):
+    ▲ "how to install led strip lights on wall" +21900%  from: led strip lights
+    ▲ "wemo app not working" +9100%  from: smart plug
+    ▲ "what is a smart plug" +450%  from: smart plug
+    ▲ "rolfstone air purifier" +12800%  from: air purifier
+    ▲ "jennibag" +659950%  from: aroma diffuser
+    ▲ "mayvenn" +215600%  from: aroma diffuser
+    ▲ "aroma diffuser life of leisure" +32650%  from: aroma diffuser
+    ▲ "fitcamx" +26700%  from: aroma diffuser
+    ▲ "mainstays cool mist ultrasonic aroma diffuser" +22550%  from: aroma diffuser
+    ▲ "vitruvi stone diffuser" +1150%  from: aroma diffuser
+    ▲ "hotel collection" +350%  from: aroma diffuser
+    ▲ "hotel collection diffuser" +350%  from: aroma diffuser
+    ▲ "aroma360" +250%  from: aroma diffuser
+    ▲ "aroma360 diffuser" +250%  from: aroma diffuser
+    ▲ "true fit posture corrector reviews" +16450%  from: posture corrector
+    ▲ "true fit posture corrector amazon" +10800%  from: posture corrector
+    ▲ "gearari posture corrector" +10750%  from: posture corrector
+    ▲ "do posture correctors work reddit" +1050%  from: posture corrector
+    ▲ "true fit" +500%  from: posture corrector
+    ▲ "true fit posture corrector" +300%  from: posture corrector
+    ▲ "eicgo posture corrector belt" +250%  from: posture corrector
+    ▲ "cotsoco massage gun" +250%  from: massage gun
+    ▲ "resistance bands exercises for beginners with pictures" +10050%  from: resistance bands
+    ▲ "insulation resistance testers unit crossword clue" +7550%  from: resistance bands
+    ▲ "can u build muscle with resistance bands" +6900%  from: resistance bands
+    ▲ "are resistance bands better than weights" +400%  from: resistance bands
+    ▲ "vita trainer vibration machine with resistance bands" +300%  from: resistance bands
+    ▲ "plank ab roller wheel" +61500%  from: ab roller
+    ▲ "are ab rollers effective" +3600%  from: ab roller
+    ▲ "moonkissed collective orchid yoga mat" +7200%  from: yoga mat
+    ▲ "how to clean a yoga mat" +700%  from: yoga mat
+    ▲ "how to clean yoga mat" +500%  from: yoga mat
+    ▲ "foam roller exercises for back and shoulders" +14150%  from: foam roller
+    ▲ "finger strength trainer" +450%  from: grip strength trainer
+    ▲ "slingshot wrist wraps" +44000%  from: wrist wraps
+    ▲ "dmoose wrist wraps" +30000%  from: wrist wraps
+    ▲ "schiek wrist wraps" +300%  from: wrist wraps
+    ▲ "titan wrist wraps" +250%  from: wrist wraps
+    ▲ "best treats for furbo dog camera" +4250%  from: dog camera
+    ▲ "vet recommended cat water fountain" +37950%  from: cat water fountain
+    ▲ "filterless cat water fountain" +350%  from: cat water fountain
+    ▲ "delomo pet grooming glove" +439650%  from: pet grooming glove
+    ▲ "heusom silent groom pro" +127250%  from: pet nail grinder
+    ▲ "eaglever" +40350%  from: pet hair remover
+    ▲ "pet hair remover brush for clothing or furniture" +2600%  from: pet hair remover
+    ▲ "ace2ace pet hair remover" +1300%  from: pet hair remover
+    ▲ "fur daddy pet hair remover" +1200%  from: pet hair remover
+    ▲ "silicone pet hair remover" +300%  from: pet hair remover
+    ▲ "truck 3d design wireless charger" +22550%  from: wireless charger
+    ▲ "truck 3d design" +21500%  from: wireless charger
+    ▲ "how to clean laptop fan" +20900%  from: laptop stand
+    ▲ "lidl near me" +7250%  from: ring light
+    ▲ "how to replace a light switch" +600%  from: ring light
+    ▲ "how to measure ring size at home" +350%  from: ring light
+    ▲ "low light houseplants" +350%  from: ring light
+    ▲ "desktop cable organizer" +250%  from: cable organizer
+    ▲ "best portable power stations" +350%  from: portable monitor
+    ▲ "how to format a usb drive" +250%  from: usb hub
+    ▲ "moft snap phone tripod stand and wallet" +15100%  from: phone tripod
+    ▲ "how to use a gua sha" +150600%  from: jade roller
+    ▲ "guasha" +90200%  from: jade roller
+    ▲ "mini jade roller" +64100%  from: jade roller
+    ▲ "jade roller for double chin" +41600%  from: jade roller
+    ▲ "benefits of a jade roller for face" +25550%  from: jade roller
+    ▲ "what is a jade roller good for" +25500%  from: jade roller
+    ▲ "mount lai jade roller" +5200%  from: jade roller
+    ▲ "jade roller near me" +550%  from: jade roller
+    ▲ "how to use a jade roller and gua sha" +350%  from: jade roller
+    ▲ "jade roller walmart" +300%  from: jade roller
+    ▲ "best cheap teeth whitening kit" +50200%  from: teeth whitening kit
+    ▲ "snow diamond teeth whitening kit reviews" +27650%  from: teeth whitening kit
+    ▲ "tanning bed teeth whitening kit" +25500%  from: teeth whitening kit
+    ▲ "lumineux teeth whitening strips" +5500%  from: teeth whitening kit
+    ▲ "beaut teeth whitening kit" +2950%  from: teeth whitening kit
+    ▲ "best at home teeth whitening kits" +450%  from: teeth whitening kit
+    ▲ "cura peptide hair growth serum reviews" +25100%  from: hair growth serum
+    ▲ "cura hair growth serum" +4200%  from: hair growth serum
+    ▲ "cura peptide hair growth serum" +2100%  from: hair growth serum
+    ▲ "aparthy hair growth roll on serum" +300%  from: hair growth serum
+    ▲ "vibrating blackhead remover" +46550%  from: blackhead remover
+    ▲ "deep clean blackhead remover stick" +22150%  from: blackhead remover
+    ▲ "how to use blackhead remover tools" +5400%  from: blackhead remover
+    ▲ "how to use a blackhead remover tool" +1500%  from: blackhead remover
+    ▲ "homemade blackhead remover mask" +1500%  from: blackhead remover
+    ▲ "ultrasonic blackhead remover" +250%  from: blackhead remover
+    ▲ "salkin essential oil diffuser" +1200%  from: essential oil diffuser
+    ▲ "vanity planet aira ionic facial steamer" +35600%  from: facial steamer
+    ▲ "lonove facial steamer" +33900%  from: facial steamer
+    ▲ "handheld facial steamer" +250%  from: facial steamer
+    ▲ "kitsch micro derma roller" +24850%  from: derma roller
+    ▲ "derma roller for cellulite" +800%  from: derma roller
+    ▲ "tabasco lip plumper" +43700%  from: lip plumper
+    ▲ "smoke and mirrors lip plumper" +36250%  from: lip plumper
+    ▲ "dais lashes lip plumper" +1100%  from: lip plumper
+    ▲ "daislashes lip plumper" +550%  from: lip plumper
+    ▲ "dr melaxin lip plumper" +400%  from: lip plumper
+    ▲ "city beauty lip plumper reviews" +350%  from: lip plumper
+    ▲ "rhode lip plumper" +300%  from: lip plumper
+    ▲ "lips so luscious lip plumper" +300%  from: lip plumper
+    ▲ "milani keep it full nourishing lip plumper" +250%  from: lip plumper
+    ▲ "luxe lash serum" +69000%  from: eyelash serum
+    ▲ "luxe eyelash serum" +1300%  from: eyelash serum
+    ▲ "olaplex lash serum" +250%  from: eyelash serum
+    ▲ "vegamour scalp massager" +41850%  from: scalp massager
+    ▲ "bodyfriend scalp massager" +18750%  from: scalp massager
+    ▲ "scalp massager with oil dispenser" +18200%  from: scalp massager
+    ▲ "maxsoft hair scalp massager" +550%  from: scalp massager
+    ▲ "legit camping hammock" +17850%  from: camping hammock
+    ▲ "solar eclipse dates" +19800%  from: solar power bank
+    ▲ "blavor solar power bank instructions" +1850%  from: solar power bank
+    ▲ "best insulated water bottle with straw" +250%  from: insulated water bottle
+    ▲ "double wall insulated water bottle" +250%  from: insulated water bottle
+    ▲ "shadowhawk x800 tactical flashlight" +1850%  from: tactical flashlight
+    ▲ "best portable power stations" +31850%  from: portable fan
+    ▲ "how to clean laptop fan" +26500%  from: portable fan
+    ▲ "how to install a ceiling fan" +26250%  from: portable fan
+    ▲ "how to stop laptop fan noise" +25050%  from: portable fan
+    ▲ "usb portable fan" +250%  from: portable fan
+    ▲ "best camping cookware" +34450%  from: camping lantern
+    ▲ "best camping pillows" +25400%  from: camping lantern
+    ▲ "stojo collapsible water bottle" +121050%  from: collapsible water bottle
+    ▲ "mayim collapsible water bottle" +66200%  from: collapsible water bottle
+    ▲ "vapur collapsible water bottle" +450%  from: collapsible water bottle
+    ▲ "plus ultra bamboo toothbrush" +96150%  from: bamboo toothbrush
+    ▲ "unusual solar garden lights" +38300%  from: solar garden lights
+    ▲ "nanoleaf solar garden lights" +1050%  from: solar garden lights
+    ▲ "what is beeswax wrap used for" +172750%  from: beeswax wrap
+    ▲ "rolling compost bin" +5350%  from: compost bin
+    ▲ "tractor supply compost bin" +400%  from: compost bin
+    ▲ "solar phone charger walmart" +249500%  from: solar phone charger
+    ▲ "diy standing desk converter" +88450%  from: standing desk converter
+    ▲ "compact standing desk converter" +250%  from: standing desk converter
+    ▲ "ultimate cable management box" +117600%  from: cable management box
+    ▲ "best earbuds 2026" +600%  from: noise cancelling earbuds
+    ▲ "wireless handheld car vacuum cleaner" +450%  from: car vacuum cleaner
+    ▲ "best dash cam 2026" +600%  from: dash cam
+    ▲ "polka dot steering wheel cover" +18000%  from: steering wheel cover
+    ▲ "gucci steering wheel cover" +10600%  from: steering wheel cover
+    ▲ "15 inch steering wheel cover" +300%  from: steering wheel cover
+    ▲ "pink fluffy steering wheel cover" +250%  from: steering wheel cover
+    ▲ "best car seat cushion for long drives" +19500%  from: car seat cushion
+    ▲ "crux air fryer accessories" +5750%  from: air fryer accessories
+    ▲ "ultrean air fryer accessories" +5150%  from: air fryer accessories
+    ▲ "epare vegetable chopper" +1550%  from: vegetable chopper
+    ▲ "electric vegetable chopper and slicer" +650%  from: vegetable chopper
+    ▲ "how to use a silicone baking mat" +250%  from: silicone baking mat
+    ▲ "parini egg cooker" +18300%  from: egg cooker
+    ▲ "henrietta hen egg cooker" +8850%  from: egg cooker
+    ▲ "how to use a pressure cooker" +350%  from: egg cooker
+    ▲ "egg pod microwave egg cooker" +350%  from: egg cooker
+
+────────────────────────────────────────────────────────────
+  ALIEXPRESS SOURCING
+────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────
+  COMPETITORS (60 stores discovered)
+────────────────────────────────────────────────────────────
+
+  ┌─ smart.myshopify.com
+  │  Products: 1  │  Avg: $19.00  │  Range: $19.00-$19.00
+  │  Found via: "smart plug"
+  │    • Shopify T-Shirt
+  └─
+
+  ┌─ electric.myshopify.com
+  │  Products: 1  │  Avg: $19.00  │  Range: $19.00-$19.00
+  │  Found via: "electric lighter"
+  │    • Shopify T-Shirt
+  └─
+
+  ┌─ potion-twig.myshopify.com
+  │  Products: 97  │  Avg: $109.38  │  Range: $2.50-$703.75
+  │  Found via: "aroma diffuser"
+  │    • Sunday in Bloom
+  │    • First Light
+  │    • Wild Bouquet
+  └─
+
+  ┌─ sthlm-fragrance-supplier.myshopify.com
+  │  Products: 66  │  Avg: $47.90  │  Range: $18.00-$215.13
+  │  Found via: "aroma diffuser"
+  │    • Remote Control - Aroma Diffuser Grey & Pink Tasse…
+  │    • Gift card
+  │    • You Are My Definition Of Perfect | Meadow Lily & …
+  └─
+
+  ┌─ tresjolieboutiquela.myshopify.com
+  │  Products: 250  │  Avg: $45.10  │  Range: $0.59-$120.00
+  │  Found via: "aroma diffuser"
+  │    • Perfume Rollers
+  │    • Salt and Pepper Tobacco Leaf
+  │    • Stafford Small Dogs
+  └─
+
+  ┌─ fragrantbodyoilz.myshopify.com
+  │  Products: 250  │  Avg: $22.56  │  Range: $3.49-$1125.00
+  │  Found via: "aroma diffuser"
+  │    • 16oz Future Fragrance Preorder
+  │    • Future Fragrances! - Half Dram Samples
+  │    • Compare Aroma to Love-O-Matic®️
+  └─
+
+  ┌─ doctoraromas.myshopify.com
+  │  Products: 250  │  Avg: $120.09  │  Range: $12.00-$799.00
+  │  Found via: "aroma diffuser"
+  │    • Plug-In Diffuser | Azure
+  │    • Oil Diffuser Refill | Azure
+  │    • Oil Diffuser Refill | Nostalgia
+  └─
+
+  ┌─ aroma-scapes.myshopify.com
+  │  Products: 141  │  Avg: $94.57  │  Range: $6.00-$689.00
+  │  Found via: "aroma diffuser"
+  │    • The Ellison Hotel - OKC, OK
+  │    • Golden Bamboo-Type
+  │    • AS25fs Whole Home Aroma Diffuser
+  └─
+
+  ┌─ thann-us.myshopify.com
+  │  Products: 89  │  Avg: $37.84  │  Range: $5.00-$150.00
+  │  Found via: "aroma diffuser"
+  │    • Oriental Essence Essential Oil 50ml
+  │    • Nano Shiso Body Butter (New Size)
+  │    • Earl Grey Infusion Perfume Oil
+  └─
+
+  ┌─ ataromausa.myshopify.com
+  │  Products: 159  │  Avg: $126.52  │  Range: $3.00-$2800.00
+  │  Found via: "aroma diffuser"
+  │    • JD08 ZEN (250ml)
+  │    • S05 FOR MEDITATION (250ml)
+  │    • S09 FOR WOMEN (450ml)
+  └─
+
+────────────────────────────────────────────────────────────
+  NICHE ANALYSIS MATRIX
+────────────────────────────────────────────────────────────
+
+  NICHE                TREND  DEMAND  SOURCE   VALID   TOTAL  GR
+  ────────────────────────────────────────────────────────
+  outdoor              ███░░   █████   ██░░░   ░░░░░    51/100  C
+  eco friendly         ██░░░   ████░   █░░░░   ░░░░░    40/100  C
+  home gadgets         ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  fitness              ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  pet products         ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  tech accessories     ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  beauty health        ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  home office          ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  car accessories      ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+  kitchen gadgets      ░░░░░   █████   ░░░░░   ░░░░░    25/100  D
+
+  Grades: A(75+)=Strong opportunity  B(60+)=Good  C(40+)=Moderate  D(20+)=Weak  F=Poor
+
+────────────────────────────────────────────────────────────
+  ACTION ITEMS
+────────────────────────────────────────────────────────────
+
+  🔴 HIGH PRIORITY:
+    1. Research top candidate: "HydroJug Traveler - 32 oz Water Bo…" (Score: 48/100, $34.99)
+    2. Review all 87 candidates above
+    3. Deep-dive 83 multi-signal products
+    4. Explore 20 new product ideas from Amazon autocomplete
+
+  🟡 MONITOR:
+    • Track 76 Amazon movers
+    • Watch 15 products climbing BSR
+
+  ⚠ FIX:
+    ⚠ eBay Sold inactive — Run: python ebay_scanner.py
+
+────────────────────────────────────────────────────────────
+  Generated: 2026-03-16 18:00:09
+  Signal Pilot — Dropship Intelligence Engine v4
+  Cost model: source + shipping + platform 15% + ads 30%

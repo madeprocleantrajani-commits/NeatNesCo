@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-12",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14975463620980,
+      "title": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bea...",
+      "original_title": "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Wom",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 61.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-12T11:00:03.139149"
+    },
+    {
+      "shopify_id": 14975463686516,
+      "title": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Buil...",
+      "original_title": "Blue Buffalo Life Protection Formula Adult Dry Dog Food, Helps Build and Maintai",
+      "price": "59.95",
+      "compare_at": "79.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.7,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-12T11:00:04.914201"
+    },
+    {
+      "shopify_id": 14975463817588,
+      "title": "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeabl...",
+      "original_title": "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeable Headlight w",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "competitor_sells"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-12T11:00:06.712052"
+    },
+    {
+      "shopify_id": 14975463883124,
+      "title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, ...",
+      "original_title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, Upgrade Stron",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.8,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-12T11:00:08.681456"
+    },
+    {
+      "shopify_id": 14975463981428,
+      "title": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twis...",
+      "original_title": "SURETIVIAN Chicken Shredder Large Chicken Breast Shredder Tool Twist with Brush&",
+      "price": "19.99",
+      "compare_at": "24.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-12T11:00:10.467199"
+    }
+  ],
+  "failed": [],
+  "total_history": 15
+}

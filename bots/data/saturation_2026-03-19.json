@@ -1,0 +1,977 @@
+{
+  "scan_date": "2026-03-19T06:56:36.884801",
+  "products_checked": 30,
+  "results": {
+    "desk organizer": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "desk organizer"
+    },
+    "teeth whitening kit": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "teeth whitening kit"
+    },
+    "dash cam": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "dash cam"
+    },
+    "car vacuum cleaner": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "car vacuum cleaner"
+    },
+    "dog camera": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "dog camera"
+    },
+    "camping hammock": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "camping hammock"
+    },
+    "Amazon Echo Spot (newest": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Amazon Echo Spot (newest"
+    },
+    "The Honest Company Comfort": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "The Honest Company Comfort"
+    },
+    "Mobil Advanced Fuel Economy": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Mobil Advanced Fuel Economy"
+    },
+    "Valvoline Advanced Full Synthetic": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Valvoline Advanced Full Synthetic"
+    },
+    "Dash Rapid Egg Cooker": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Dash Rapid Egg Cooker"
+    },
+    "bamboo toothbrush": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "bamboo toothbrush"
+    },
+    "High Pressure Rain Shower": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "High Pressure Rain Shower"
+    },
+    "The Honest Company Hypoallergenic": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "The Honest Company Hypoallergenic"
+    },
+    "portable blender": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "portable blender"
+    },
+    "wireless charger": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "wireless charger"
+    },
+    "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb"
+    },
+    "Blade All-in-1 Vegetable Chopper": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Blade All-in-1 Vegetable Chopper"
+    },
+    "massage gun": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "massage gun"
+    },
+    "monitor light bar": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "monitor light bar"
+    },
+    "air fryer accessories": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "air fryer accessories"
+    },
+    "solar power bank": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "solar power bank"
+    },
+    "cat water fountain": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "cat water fountain"
+    },
+    "DUDE Wipes Unscented Flushable": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "DUDE Wipes Unscented Flushable"
+    },
+    "spice rack organizer": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "spice rack organizer"
+    },
+    "Ultra Soft Queen Size": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Ultra Soft Queen Size"
+    },
+    "reusable food wrap": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "reusable food wrap"
+    },
+    "car phone mount": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "car phone mount"
+    },
+    "jade roller": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "jade roller"
+    },
+    "Filterbuy 16x25x1 Air Filter": {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Filterbuy 16x25x1 Air Filter"
+    }
+  },
+  "saturated": [],
+  "opportunities": [
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "desk organizer"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "teeth whitening kit"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "dash cam"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "car vacuum cleaner"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "dog camera"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "camping hammock"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Amazon Echo Spot (newest"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "The Honest Company Comfort"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Mobil Advanced Fuel Economy"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Valvoline Advanced Full Synthetic"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Dash Rapid Egg Cooker"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "bamboo toothbrush"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "High Pressure Rain Shower"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "The Honest Company Hypoallergenic"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "portable blender"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "wireless charger"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Blade All-in-1 Vegetable Chopper"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "massage gun"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "monitor light bar"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "air fryer accessories"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "solar power bank"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "cat water fountain"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "DUDE Wipes Unscented Flushable"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "spice rack organizer"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Ultra Soft Queen Size"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "reusable food wrap"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "car phone mount"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "jade roller"
+    },
+    {
+      "saturation_index": 10.0,
+      "level": "LOW_COMPETITION",
+      "action": "OPPORTUNITY",
+      "breakdown": {
+        "ad_score": 0.0,
+        "store_score": 10.0,
+        "shopping_score": 0.0
+      },
+      "raw_counts": {
+        "fb_ads": 0,
+        "shopify_stores": 50,
+        "google_shopping": 0
+      },
+      "keyword": "Filterbuy 16x25x1 Air Filter"
+    }
+  ],
+  "stats": {
+    "total_checked": 30,
+    "saturated_count": 0,
+    "opportunity_count": 30,
+    "high_competition": 0,
+    "moderate": 0,
+    "avg_saturation": 10.0
+  }
+}

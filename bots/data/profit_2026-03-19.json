@@ -1,0 +1,18 @@
+{
+  "date": "2026-03-19",
+  "summary": {
+    "total_orders": 0,
+    "total_revenue": 0,
+    "total_refunded": 0,
+    "net_revenue": 0,
+    "products_with_sales": 0,
+    "period_days": 30
+  },
+  "classification": {
+    "winners": [],
+    "average": [],
+    "losers": [],
+    "no_sales_count": 0
+  },
+  "all_products": {}
+}

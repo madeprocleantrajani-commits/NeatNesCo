@@ -1,0 +1,99 @@
+{
+  "date": "2026-03-16",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14987866407284,
+      "title": "Etekcity Food Kitchen Scale",
+      "original_title": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, C",
+      "price": "9.99",
+      "compare_at": "12.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.5,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-16T11:00:04.321567"
+    },
+    {
+      "shopify_id": 14987866505588,
+      "title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Reti...",
+      "original_title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Retinol, Collagen",
+      "price": "10.99",
+      "compare_at": "13.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.0,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-16T11:00:06.122126"
+    },
+    {
+      "shopify_id": 14987866571124,
+      "title": "Sheba Perfect Portions Wet Cat Food Cuts in Gravy, Cat Food Wet Rec...",
+      "original_title": "Sheba Perfect Portions Wet Cat Food Cuts in Gravy, Cat Food Wet Recipe, Roasted ",
+      "price": "20.99",
+      "compare_at": "26.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-16T11:00:07.908490"
+    },
+    {
+      "shopify_id": 14987866636660,
+      "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-...",
+      "original_title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Bu",
+      "price": "30.99",
+      "compare_at": "39.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 52.6,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "sports",
+      "imported_at": "2026-03-16T11:00:09.822551"
+    },
+    {
+      "shopify_id": 14987866702196,
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad fo...",
+      "original_title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation",
+      "price": "16.99",
+      "compare_at": "21.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 52.1,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-16T11:00:11.747897"
+    }
+  ],
+  "failed": [],
+  "total_history": 34
+}

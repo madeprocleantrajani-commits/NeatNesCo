@@ -1,0 +1,5832 @@
+{
+  "scan_date": "2026-03-13T06:00:04.521793",
+  "geo": "US",
+  "timeframe": "today 3-m",
+  "niches": {
+    "home_gadgets": {
+      "keywords": {
+        "portable blender": {
+          "current": 2,
+          "avg": 3.0,
+          "max": 6,
+          "min": 2,
+          "trend": "stable",
+          "slope": -0.016,
+          "acceleration": -0.6,
+          "momentum": -1.0,
+          "last_7": [
+            3,
+            3,
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "slope_7d": -0.179,
+          "slope_14d": 0.009,
+          "slope_30d": -0.04,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "led strip lights": {
+          "current": 6,
+          "avg": 7.7,
+          "max": 12,
+          "min": 4,
+          "trend": "stable",
+          "slope": -0.037,
+          "acceleration": -1.7,
+          "momentum": -1.7,
+          "last_7": [
+            7,
+            8,
+            6,
+            6,
+            6,
+            5,
+            6
+          ],
+          "slope_7d": -0.321,
+          "slope_14d": -0.013,
+          "slope_30d": -0.1,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "led light",
+              "value": 100
+            },
+            {
+              "query": "best led strip lights",
+              "value": 48
+            },
+            {
+              "query": "govee lights",
+              "value": 45
+            },
+            {
+              "query": "govee led strip lights",
+              "value": 45
+            },
+            {
+              "query": "govee",
+              "value": 45
+            },
+            {
+              "query": "govee strip lights",
+              "value": 45
+            },
+            {
+              "query": "govee led lights",
+              "value": 45
+            },
+            {
+              "query": "rgb led strip lights",
+              "value": 34
+            },
+            {
+              "query": "led strip lighting",
+              "value": 33
+            },
+            {
+              "query": "outdoor led strip lights",
+              "value": 30
+            }
+          ]
+        },
+        "smart plug": {
+          "current": 7,
+          "avg": 14.7,
+          "max": 28,
+          "min": 7,
+          "trend": "stable",
+          "slope": -0.026,
+          "acceleration": 1.0,
+          "momentum": -7.7,
+          "last_7": [
+            9,
+            10,
+            9,
+            8,
+            8,
+            7,
+            7
+          ],
+          "slope_7d": -0.464,
+          "slope_14d": -0.035,
+          "slope_30d": -0.591,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "what is a smart plug",
+              "value": 450
+            },
+            {
+              "query": "what is smart plug",
+              "value": 350
+            },
+            {
+              "query": "smart plug roof patch",
+              "value": 90
+            },
+            {
+              "query": "wemo app not working",
+              "value": 50
+            },
+            {
+              "query": "smart plug in",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "what is smart plug",
+              "value": 100
+            },
+            {
+              "query": "what is a smart plug",
+              "value": 93
+            },
+            {
+              "query": "smart plug in",
+              "value": 57
+            },
+            {
+              "query": "best smart plug",
+              "value": 23
+            },
+            {
+              "query": "kasa",
+              "value": 19
+            },
+            {
+              "query": "kasa smart plug",
+              "value": 19
+            },
+            {
+              "query": "smart plug app",
+              "value": 17
+            },
+            {
+              "query": "amazon smart plug",
+              "value": 14
+            },
+            {
+              "query": "alexa",
+              "value": 13
+            },
+            {
+              "query": "alexa smart plug",
+              "value": 13
+            }
+          ]
+        },
+        "air purifier": {
+          "current": 64,
+          "avg": 71.2,
+          "max": 100,
+          "min": 57,
+          "trend": "stable",
+          "slope": -0.058,
+          "acceleration": -3.7,
+          "momentum": -7.2,
+          "last_7": [
+            77,
+            86,
+            71,
+            66,
+            69,
+            62,
+            64
+          ],
+          "slope_7d": -3.179,
+          "slope_14d": -0.541,
+          "slope_30d": -0.073,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "electric lighter": {
+          "current": 1,
+          "avg": 1.5,
+          "max": 4,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.019,
+          "acceleration": -0.7,
+          "momentum": -0.5,
+          "last_7": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": -0.014,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "electric lighter near me",
+              "value": 90
+            },
+            {
+              "query": "fukkuda electric lighter",
+              "value": 60
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best electric lighter",
+              "value": 100
+            },
+            {
+              "query": "rechargeable electric lighter",
+              "value": 73
+            },
+            {
+              "query": "electric lighter amazon",
+              "value": 30
+            },
+            {
+              "query": "electric lighter near me",
+              "value": 26
+            },
+            {
+              "query": "suprus electric lighter",
+              "value": 21
+            },
+            {
+              "query": "zippo electric lighter",
+              "value": 20
+            },
+            {
+              "query": "meiruby electric lighter",
+              "value": 12
+            },
+            {
+              "query": "fukkuda electric lighter",
+              "value": 5
+            },
+            {
+              "query": "reidea electric lighter",
+              "value": 5
+            }
+          ]
+        },
+        "aroma diffuser": {
+          "current": 17,
+          "avg": 29.4,
+          "max": 62,
+          "min": 14,
+          "trend": "stable",
+          "slope": -0.05,
+          "acceleration": 1.8,
+          "momentum": -12.4,
+          "last_7": [
+            22,
+            21,
+            16,
+            17,
+            17,
+            18,
+            17
+          ],
+          "slope_7d": -0.714,
+          "slope_14d": -0.053,
+          "slope_30d": -1.117,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "jennibag",
+              "value": 661950
+            },
+            {
+              "query": "mayvenn",
+              "value": 235550
+            },
+            {
+              "query": "how to use aroma diffuser electric",
+              "value": 36650
+            },
+            {
+              "query": "aroma diffuser life of leisure",
+              "value": 27850
+            },
+            {
+              "query": "fitcamx",
+              "value": 16500
+            },
+            {
+              "query": "hotel collection",
+              "value": 400
+            },
+            {
+              "query": "hotel collection diffuser",
+              "value": 400
+            },
+            {
+              "query": "aroma360",
+              "value": 300
+            },
+            {
+              "query": "aroma360 diffuser",
+              "value": 300
+            },
+            {
+              "query": "hotel aroma diffuser",
+              "value": 180
+            },
+            {
+              "query": "hotel diffuser",
+              "value": 180
+            },
+            {
+              "query": "aromatherapy diffuser",
+              "value": 120
+            },
+            {
+              "query": "reed diffuser",
+              "value": 80
+            },
+            {
+              "query": "muji aroma diffuser",
+              "value": 80
+            },
+            {
+              "query": "ultrasonic aroma diffuser",
+              "value": 80
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "aroma oil diffuser",
+              "value": 100
+            },
+            {
+              "query": "diffuser oil",
+              "value": 100
+            },
+            {
+              "query": "oil diffuser",
+              "value": 100
+            },
+            {
+              "query": "360 aroma diffuser",
+              "value": 99
+            },
+            {
+              "query": "aroma oil",
+              "value": 99
+            },
+            {
+              "query": "aroma 360",
+              "value": 98
+            },
+            {
+              "query": "hotel aroma diffuser",
+              "value": 63
+            },
+            {
+              "query": "hotel diffuser",
+              "value": 63
+            },
+            {
+              "query": "essential oil diffuser",
+              "value": 57
+            },
+            {
+              "query": "aroma air diffuser",
+              "value": 57
+            }
+          ]
+        },
+        "motion sensor light": {
+          "current": 70,
+          "avg": 70.5,
+          "max": 100,
+          "min": 45,
+          "trend": "stable",
+          "slope": -0.053,
+          "acceleration": -2.2,
+          "momentum": -0.5,
+          "last_7": [
+            76,
+            74,
+            66,
+            64,
+            63,
+            55,
+            70
+          ],
+          "slope_7d": -2.107,
+          "slope_14d": 0.152,
+          "slope_30d": -0.842,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "how to keep a motion sensor light on",
+              "value": 110
+            },
+            {
+              "query": "solar motion sensor light outdoor waterproof",
+              "value": 80
+            },
+            {
+              "query": "rechargeable motion sensor light indoor",
+              "value": 70
+            },
+            {
+              "query": "motion sensor night light indoor",
+              "value": 70
+            },
+            {
+              "query": "best solar motion sensor light",
+              "value": 50
+            },
+            {
+              "query": "motion sensor outdoor wall light",
+              "value": 50
+            },
+            {
+              "query": "motion sensor wall light",
+              "value": 40
+            },
+            {
+              "query": "rechargeable motion sensor light",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "motion sensor for light",
+              "value": 100
+            },
+            {
+              "query": "light with motion sensor",
+              "value": 94
+            },
+            {
+              "query": "motion light outdoor",
+              "value": 92
+            },
+            {
+              "query": "outdoor light",
+              "value": 92
+            },
+            {
+              "query": "motion sensor lights",
+              "value": 62
+            },
+            {
+              "query": "motion lights",
+              "value": 62
+            },
+            {
+              "query": "motion sensor switch",
+              "value": 52
+            },
+            {
+              "query": "solar motion sensor light",
+              "value": 43
+            },
+            {
+              "query": "best motion sensor light",
+              "value": 39
+            },
+            {
+              "query": "motion sensor night light",
+              "value": 36
+            }
+          ]
+        },
+        "portable projector": {
+          "current": 28,
+          "avg": 32.8,
+          "max": 63,
+          "min": 18,
+          "trend": "stable",
+          "slope": -0.177,
+          "acceleration": -4.0,
+          "momentum": -4.8,
+          "last_7": [
+            25,
+            26,
+            23,
+            23,
+            21,
+            22,
+            28
+          ],
+          "slope_7d": -0.036,
+          "slope_14d": 0.358,
+          "slope_30d": -0.732,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "vamvo ultra mini portable projector",
+              "value": 1150
+            },
+            {
+              "query": "hypergear cinemini portable mini projector",
+              "value": 150
+            },
+            {
+              "query": "kodak ultra mini portable projector",
+              "value": 80
+            },
+            {
+              "query": "best budget portable projector",
+              "value": 70
+            },
+            {
+              "query": "portable projector yg300",
+              "value": 70
+            },
+            {
+              "query": "portable projector screen with stand",
+              "value": 50
+            },
+            {
+              "query": "portable projector for phone",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "mini projector",
+              "value": 100
+            },
+            {
+              "query": "mini portable projector",
+              "value": 99
+            },
+            {
+              "query": "best portable projector",
+              "value": 85
+            },
+            {
+              "query": "best projector",
+              "value": 85
+            },
+            {
+              "query": "projector screen portable",
+              "value": 57
+            },
+            {
+              "query": "projector screen",
+              "value": 55
+            },
+            {
+              "query": "portable projector 4k",
+              "value": 48
+            },
+            {
+              "query": "4k projector",
+              "value": 47
+            },
+            {
+              "query": "portable smart projector",
+              "value": 44
+            },
+            {
+              "query": "portable projector price",
+              "value": 37
+            }
+          ]
+        },
+        "smart doorbell": {
+          "current": 21,
+          "avg": 22.8,
+          "max": 42,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.043,
+          "acceleration": -0.5,
+          "momentum": -1.8,
+          "last_7": [
+            19,
+            22,
+            18,
+            16,
+            17,
+            17,
+            21
+          ],
+          "slope_7d": -0.179,
+          "slope_14d": 0.018,
+          "slope_30d": -0.392,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "smart doorbell camera",
+              "value": 100
+            },
+            {
+              "query": "ring smart doorbell",
+              "value": 78
+            },
+            {
+              "query": "best smart doorbell",
+              "value": 58
+            },
+            {
+              "query": "google smart doorbell",
+              "value": 32
+            },
+            {
+              "query": "wireless smart doorbell",
+              "value": 30
+            },
+            {
+              "query": "eufy smart doorbell",
+              "value": 21
+            },
+            {
+              "query": "smart wifi doorbell camera",
+              "value": 20
+            },
+            {
+              "query": "best doorbell camera",
+              "value": 20
+            },
+            {
+              "query": "kasa smart doorbell",
+              "value": 6
+            }
+          ]
+        },
+        "robot vacuum cleaner": {
+          "current": 19,
+          "avg": 26.5,
+          "max": 53,
+          "min": 11,
+          "trend": "stable",
+          "slope": -0.033,
+          "acceleration": -0.4,
+          "momentum": -7.5,
+          "last_7": [
+            26,
+            26,
+            23,
+            23,
+            20,
+            19,
+            19
+          ],
+          "slope_7d": -1.357,
+          "slope_14d": 0.048,
+          "slope_30d": -0.586,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "ropvacnic robot vacuum cleaner",
+              "value": 200
+            },
+            {
+              "query": "smart robot vacuum cleaner",
+              "value": 40
+            },
+            {
+              "query": "automatic vacuum cleaner robot",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best robot vacuum cleaner",
+              "value": 100
+            },
+            {
+              "query": "best robot vacuum",
+              "value": 100
+            },
+            {
+              "query": "best vacuum cleaner",
+              "value": 99
+            },
+            {
+              "query": "best robot cleaner",
+              "value": 99
+            },
+            {
+              "query": "robot vacuum cleaner and mop",
+              "value": 68
+            },
+            {
+              "query": "robot vacuum and mop",
+              "value": 66
+            },
+            {
+              "query": "shark robot vacuum cleaner",
+              "value": 48
+            },
+            {
+              "query": "shark vacuum cleaner",
+              "value": 47
+            },
+            {
+              "query": "shark robot vacuum",
+              "value": 47
+            },
+            {
+              "query": "shark vacuum",
+              "value": 47
+            }
+          ]
+        }
+      }
+    },
+    "fitness": {
+      "keywords": {
+        "posture corrector": {
+          "current": 11,
+          "avg": 9.9,
+          "max": 15,
+          "min": 5,
+          "trend": "stable",
+          "slope": 0.012,
+          "acceleration": 0.5,
+          "momentum": 1.1,
+          "last_7": [
+            10,
+            11,
+            12,
+            11,
+            12,
+            11,
+            11
+          ],
+          "slope_7d": 0.107,
+          "slope_14d": 0.224,
+          "slope_30d": -0.011,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "true fit posture corrector",
+              "value": 46200
+            },
+            {
+              "query": "true fit posture corrector reviews",
+              "value": 24350
+            },
+            {
+              "query": "trufit",
+              "value": 14550
+            },
+            {
+              "query": "forme power bra",
+              "value": 3250
+            },
+            {
+              "query": "gearari posture corrector",
+              "value": 1650
+            },
+            {
+              "query": "truefit",
+              "value": 450
+            },
+            {
+              "query": "eicgo posture corrector",
+              "value": 250
+            },
+            {
+              "query": "true fit",
+              "value": 250
+            },
+            {
+              "query": "truefit posture corrector",
+              "value": 170
+            },
+            {
+              "query": "comfybrace posture corrector",
+              "value": 150
+            },
+            {
+              "query": "anterior pelvic tilt",
+              "value": 110
+            },
+            {
+              "query": "posture corrector near me",
+              "value": 90
+            },
+            {
+              "query": "upright posture corrector",
+              "value": 70
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best posture corrector",
+              "value": 100
+            },
+            {
+              "query": "posture corrector women",
+              "value": 69
+            },
+            {
+              "query": "posture brace",
+              "value": 64
+            },
+            {
+              "query": "posture corrector brace",
+              "value": 63
+            },
+            {
+              "query": "posture corrector for women",
+              "value": 60
+            },
+            {
+              "query": "posture corrector men",
+              "value": 50
+            },
+            {
+              "query": "posture corrector for men",
+              "value": 44
+            },
+            {
+              "query": "back brace",
+              "value": 40
+            },
+            {
+              "query": "posture corrector reviews",
+              "value": 39
+            },
+            {
+              "query": "back brace posture corrector",
+              "value": 39
+            }
+          ]
+        },
+        "massage gun": {
+          "current": 40,
+          "avg": 42.8,
+          "max": 94,
+          "min": 27,
+          "trend": "falling",
+          "slope": -0.452,
+          "acceleration": -19.1,
+          "momentum": -2.8,
+          "last_7": [
+            36,
+            36,
+            32,
+            31,
+            30,
+            28,
+            40
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.235,
+          "slope_30d": -0.171,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "vivaspa massage gun",
+              "value": 10450
+            },
+            {
+              "query": "youdgee massage gun",
+              "value": 350
+            },
+            {
+              "query": "everlast hot and cold massage gun",
+              "value": 350
+            },
+            {
+              "query": "massage gun nearby",
+              "value": 250
+            },
+            {
+              "query": "best massage near me",
+              "value": 160
+            },
+            {
+              "query": "toloco massage gun em26",
+              "value": 140
+            },
+            {
+              "query": "can you use a massage gun while pregnant",
+              "value": 130
+            },
+            {
+              "query": "ayura massage gun",
+              "value": 100
+            },
+            {
+              "query": "aerlang massage gun",
+              "value": 90
+            },
+            {
+              "query": "taotronics massage gun",
+              "value": 90
+            },
+            {
+              "query": "rbx massage gun",
+              "value": 70
+            },
+            {
+              "query": "cotsoco massage gun",
+              "value": 70
+            },
+            {
+              "query": "massage gun near me",
+              "value": 50
+            },
+            {
+              "query": "massage near me",
+              "value": 40
+            },
+            {
+              "query": "target massage gun",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best massage gun",
+              "value": 100
+            },
+            {
+              "query": "muscle massage gun",
+              "value": 43
+            },
+            {
+              "query": "massager",
+              "value": 42
+            },
+            {
+              "query": "massager gun",
+              "value": 42
+            },
+            {
+              "query": "theragun",
+              "value": 41
+            },
+            {
+              "query": "sharper image massage gun",
+              "value": 41
+            },
+            {
+              "query": "theragun massage gun",
+              "value": 40
+            },
+            {
+              "query": "sharper image",
+              "value": 40
+            },
+            {
+              "query": "mini massage gun",
+              "value": 37
+            },
+            {
+              "query": "massage gun amazon",
+              "value": 34
+            }
+          ]
+        },
+        "resistance bands": {
+          "current": 22,
+          "avg": 25.8,
+          "max": 35,
+          "min": 16,
+          "trend": "stable",
+          "slope": 0.031,
+          "acceleration": 2.2,
+          "momentum": -3.8,
+          "last_7": [
+            24,
+            25,
+            28,
+            24,
+            23,
+            21,
+            22
+          ],
+          "slope_7d": -0.679,
+          "slope_14d": 0.042,
+          "slope_30d": -0.28,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "can you gain muscle with resistance bands",
+              "value": 9350
+            },
+            {
+              "query": "insulation resistance testers unit crossword clue",
+              "value": 8050
+            },
+            {
+              "query": "blogilates resistance bands",
+              "value": 180
+            },
+            {
+              "query": "arm workouts with resistance bands",
+              "value": 140
+            },
+            {
+              "query": "renoj resistance bands",
+              "value": 140
+            },
+            {
+              "query": "full body workout with resistance bands",
+              "value": 120
+            },
+            {
+              "query": "rubberbanditz resistance bands",
+              "value": 90
+            },
+            {
+              "query": "resistance bands near me",
+              "value": 90
+            },
+            {
+              "query": "pink resistance bands",
+              "value": 80
+            },
+            {
+              "query": "gofit resistance bands",
+              "value": 80
+            },
+            {
+              "query": "rogue fitness resistance bands",
+              "value": 70
+            },
+            {
+              "query": "are resistance bands better than weights",
+              "value": 70
+            },
+            {
+              "query": "ab workout with resistance bands",
+              "value": 60
+            },
+            {
+              "query": "how to use resistance bands for legs",
+              "value": 60
+            },
+            {
+              "query": "cloth resistance bands",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best resistance bands",
+              "value": 100
+            },
+            {
+              "query": "resistance band",
+              "value": 88
+            },
+            {
+              "query": "resistance bands workout",
+              "value": 82
+            },
+            {
+              "query": "workout bands",
+              "value": 82
+            },
+            {
+              "query": "resistance bands exercises",
+              "value": 69
+            },
+            {
+              "query": "exercise bands",
+              "value": 67
+            },
+            {
+              "query": "exercise resistance bands",
+              "value": 66
+            },
+            {
+              "query": "fitness resistance bands",
+              "value": 43
+            },
+            {
+              "query": "resistance bands set",
+              "value": 42
+            },
+            {
+              "query": "resistance bands amazon",
+              "value": 37
+            }
+          ]
+        },
+        "ab roller": {
+          "current": 5,
+          "avg": 4.8,
+          "max": 7,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.009,
+          "acceleration": 0.2,
+          "momentum": 0.2,
+          "last_7": [
+            5,
+            5,
+            4,
+            5,
+            5,
+            5,
+            5
+          ],
+          "slope_7d": 0.036,
+          "slope_14d": 0.044,
+          "slope_30d": -0.028,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "roller ab workout",
+              "value": 100
+            },
+            {
+              "query": "best ab roller",
+              "value": 92
+            },
+            {
+              "query": "how to use ab roller",
+              "value": 55
+            },
+            {
+              "query": "ab roller exercise",
+              "value": 49
+            },
+            {
+              "query": "ab roller exercises",
+              "value": 46
+            },
+            {
+              "query": "does ab roller work",
+              "value": 41
+            },
+            {
+              "query": "ab roller machine",
+              "value": 41
+            },
+            {
+              "query": "ab machine",
+              "value": 41
+            },
+            {
+              "query": "how to do ab roller",
+              "value": 30
+            },
+            {
+              "query": "ab roller amazon",
+              "value": 28
+            }
+          ]
+        },
+        "yoga mat": {
+          "current": 42,
+          "avg": 62.0,
+          "max": 100,
+          "min": 39,
+          "trend": "stable",
+          "slope": 0.073,
+          "acceleration": 8.9,
+          "momentum": -20.0,
+          "last_7": [
+            50,
+            50,
+            44,
+            42,
+            39,
+            39,
+            42
+          ],
+          "slope_7d": -1.821,
+          "slope_14d": -0.312,
+          "slope_30d": -2.014,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "moonkissed collective orchid yoga mat",
+              "value": 6950
+            },
+            {
+              "query": "how to clean a yoga mat",
+              "value": 750
+            },
+            {
+              "query": "how to clean yoga mat",
+              "value": 500
+            },
+            {
+              "query": "yoga mat cover",
+              "value": 110
+            },
+            {
+              "query": "non-slip yoga mat",
+              "value": 110
+            },
+            {
+              "query": "yoga mat storage",
+              "value": 80
+            },
+            {
+              "query": "hotworx yoga mat",
+              "value": 50
+            },
+            {
+              "query": "pilates mat vs yoga mat",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "how to clean a yoga mat",
+              "value": 100
+            },
+            {
+              "query": "how to clean yoga mat",
+              "value": 98
+            },
+            {
+              "query": "best yoga mat",
+              "value": 53
+            },
+            {
+              "query": "manduka yoga mat",
+              "value": 28
+            },
+            {
+              "query": "manduka",
+              "value": 28
+            },
+            {
+              "query": "manduka mat",
+              "value": 28
+            },
+            {
+              "query": "lululemon mat",
+              "value": 27
+            },
+            {
+              "query": "lululemon yoga mat",
+              "value": 27
+            },
+            {
+              "query": "lululemon",
+              "value": 27
+            },
+            {
+              "query": "yoga mat near me",
+              "value": 22
+            }
+          ]
+        },
+        "jump rope fitness": {
+          "current": 0,
+          "avg": 0.5,
+          "max": 17,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.004,
+          "acceleration": 0.3,
+          "momentum": -0.5,
+          "last_7": [
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            0
+          ],
+          "slope_7d": -0.179,
+          "slope_14d": -0.029,
+          "slope_30d": 0.065,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "foam roller": {
+          "current": 64,
+          "avg": 57.4,
+          "max": 77,
+          "min": 35,
+          "trend": "stable",
+          "slope": 0.074,
+          "acceleration": 4.1,
+          "momentum": 6.6,
+          "last_7": [
+            66,
+            59,
+            59,
+            57,
+            56,
+            55,
+            64
+          ],
+          "slope_7d": -0.607,
+          "slope_14d": 0.169,
+          "slope_30d": -0.085,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "hip flexor stretch",
+              "value": 110
+            },
+            {
+              "query": "foam roller exercises for sciatica",
+              "value": 110
+            },
+            {
+              "query": "what is a foam roller used for",
+              "value": 110
+            },
+            {
+              "query": "melt foam roller",
+              "value": 100
+            },
+            {
+              "query": "minoxidil",
+              "value": 90
+            },
+            {
+              "query": "deep tissue foam roller",
+              "value": 80
+            },
+            {
+              "query": "thoracic extension",
+              "value": 70
+            },
+            {
+              "query": "foam roller thoracic extension",
+              "value": 70
+            },
+            {
+              "query": "foam roller near me",
+              "value": 70
+            },
+            {
+              "query": "4 inch foam roller",
+              "value": 70
+            },
+            {
+              "query": "what size foam roller should i get",
+              "value": 70
+            },
+            {
+              "query": "foam roller exercises for back",
+              "value": 60
+            },
+            {
+              "query": "diy foam roller",
+              "value": 50
+            },
+            {
+              "query": "rogue foam roller",
+              "value": 40
+            },
+            {
+              "query": "triggerpoint grid foam roller",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best foam roller",
+              "value": 100
+            },
+            {
+              "query": "foam roller for back",
+              "value": 64
+            },
+            {
+              "query": "foam roller exercises",
+              "value": 57
+            },
+            {
+              "query": "how to use foam roller",
+              "value": 49
+            },
+            {
+              "query": "foam roller paint",
+              "value": 43
+            },
+            {
+              "query": "massage foam roller",
+              "value": 38
+            },
+            {
+              "query": "foam roller exercise",
+              "value": 34
+            },
+            {
+              "query": "what is a foam roller",
+              "value": 34
+            },
+            {
+              "query": "foam roller price",
+              "value": 33
+            },
+            {
+              "query": "foam roller amazon",
+              "value": 30
+            }
+          ]
+        },
+        "grip strength trainer": {
+          "current": 2,
+          "avg": 0.4,
+          "max": 10,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.02,
+          "acceleration": 0.9,
+          "momentum": 1.6,
+          "last_7": [
+            2,
+            3,
+            2,
+            2,
+            2,
+            1,
+            2
+          ],
+          "slope_7d": -0.143,
+          "slope_14d": -0.018,
+          "slope_30d": 0.098,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "grip strengthener",
+              "value": 130
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best grip strength trainer",
+              "value": 100
+            },
+            {
+              "query": "grip strengthener",
+              "value": 69
+            }
+          ]
+        },
+        "pull up bar": {
+          "current": 76,
+          "avg": 76.0,
+          "max": 100,
+          "min": 58,
+          "trend": "stable",
+          "slope": -0.091,
+          "acceleration": -5.5,
+          "momentum": 0.0,
+          "last_7": [
+            80,
+            79,
+            74,
+            68,
+            67,
+            66,
+            76
+          ],
+          "slope_7d": -1.607,
+          "slope_14d": -0.073,
+          "slope_30d": -0.107,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "resident evil pull up bar",
+              "value": 9450
+            },
+            {
+              "query": "ab straps for pull up bar",
+              "value": 130
+            },
+            {
+              "query": "ceiling mounted pull up bar",
+              "value": 100
+            },
+            {
+              "query": "i beam pull up bar",
+              "value": 90
+            },
+            {
+              "query": "how to make a pull up bar at home",
+              "value": 90
+            },
+            {
+              "query": "assisted pull up machine",
+              "value": 80
+            },
+            {
+              "query": "ethos pull up bar",
+              "value": 80
+            },
+            {
+              "query": "door way pull up bar",
+              "value": 80
+            },
+            {
+              "query": "best pull up bar for doorway",
+              "value": 80
+            },
+            {
+              "query": "baseblocks pull up bar",
+              "value": 80
+            },
+            {
+              "query": "ceiling mount pull up bar",
+              "value": 70
+            },
+            {
+              "query": "foldable pull up bar",
+              "value": 60
+            },
+            {
+              "query": "bullbar pull up bar",
+              "value": 60
+            },
+            {
+              "query": "baby pull up bar",
+              "value": 60
+            },
+            {
+              "query": "best door pull up bar",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "pull up bar home",
+              "value": 100
+            },
+            {
+              "query": "best pull up bar",
+              "value": 71
+            },
+            {
+              "query": "door pull up bar",
+              "value": 66
+            },
+            {
+              "query": "pull up bar for home",
+              "value": 60
+            },
+            {
+              "query": "pull up bar doorway",
+              "value": 57
+            },
+            {
+              "query": "dip bar",
+              "value": 45
+            },
+            {
+              "query": "wall pull up bar",
+              "value": 45
+            },
+            {
+              "query": "pull up dip bar",
+              "value": 45
+            },
+            {
+              "query": "pull up bar station",
+              "value": 32
+            },
+            {
+              "query": "pull up station",
+              "value": 32
+            }
+          ]
+        },
+        "wrist wraps": {
+          "current": 16,
+          "avg": 17.0,
+          "max": 33,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.018,
+          "acceleration": -0.4,
+          "momentum": -1.0,
+          "last_7": [
+            14,
+            16,
+            15,
+            14,
+            14,
+            13,
+            16
+          ],
+          "slope_7d": -0.036,
+          "slope_14d": -0.062,
+          "slope_30d": -0.283,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        }
+      }
+    },
+    "pet_products": {
+      "keywords": {
+        "dog camera": {
+          "current": 41,
+          "avg": 61.3,
+          "max": 100,
+          "min": 30,
+          "trend": "stable",
+          "slope": -0.123,
+          "acceleration": 0.5,
+          "momentum": -20.3,
+          "last_7": [
+            40,
+            39,
+            35,
+            34,
+            36,
+            32,
+            41
+          ],
+          "slope_7d": -0.357,
+          "slope_14d": 0.534,
+          "slope_30d": -2.281,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "cat water fountain": {
+          "current": 37,
+          "avg": 34.5,
+          "max": 57,
+          "min": 20,
+          "trend": "stable",
+          "slope": -0.065,
+          "acceleration": -3.6,
+          "momentum": 2.5,
+          "last_7": [
+            34,
+            35,
+            29,
+            27,
+            29,
+            27,
+            37
+          ],
+          "slope_7d": -0.25,
+          "slope_14d": -0.233,
+          "slope_30d": -0.183,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "water fountain for cat",
+              "value": 100
+            },
+            {
+              "query": "best cat fountain",
+              "value": 83
+            },
+            {
+              "query": "best cat water fountain",
+              "value": 82
+            },
+            {
+              "query": "cat water fountain stainless steel",
+              "value": 76
+            },
+            {
+              "query": "stainless steel cat fountain",
+              "value": 76
+            },
+            {
+              "query": "pet water fountain",
+              "value": 52
+            },
+            {
+              "query": "cat water filter",
+              "value": 44
+            },
+            {
+              "query": "cat water fountain filter",
+              "value": 44
+            },
+            {
+              "query": "water fountain for cats",
+              "value": 33
+            },
+            {
+              "query": "cat water bowl",
+              "value": 28
+            }
+          ]
+        },
+        "pet grooming glove": {
+          "current": 0,
+          "avg": 0.2,
+          "max": 12,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.001,
+          "acceleration": -0.2,
+          "momentum": -0.2,
+          "last_7": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": -0.02,
+          "slope_30d": 0.002,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "delomo pet grooming glove",
+              "value": 100
+            }
+          ]
+        },
+        "dog car seat cover": {
+          "current": 4,
+          "avg": 2.8,
+          "max": 17,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.073,
+          "acceleration": 4.1,
+          "momentum": 1.2,
+          "last_7": [
+            5,
+            6,
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "slope_7d": -0.25,
+          "slope_14d": -0.092,
+          "slope_30d": -0.229,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "dog cover for car",
+              "value": 100
+            },
+            {
+              "query": "dog seat for car",
+              "value": 100
+            },
+            {
+              "query": "dog back seat cover",
+              "value": 48
+            },
+            {
+              "query": "best dog car seat cover",
+              "value": 34
+            },
+            {
+              "query": "car seat covers",
+              "value": 23
+            },
+            {
+              "query": "car seat cover for dogs",
+              "value": 19
+            },
+            {
+              "query": "dog back seat cover hard bottom",
+              "value": 9
+            }
+          ]
+        },
+        "automatic pet feeder": {
+          "current": 9,
+          "avg": 8.2,
+          "max": 18,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.001,
+          "acceleration": -0.4,
+          "momentum": 0.8,
+          "last_7": [
+            8,
+            11,
+            9,
+            8,
+            8,
+            7,
+            9
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.136,
+          "slope_30d": -0.143,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "qpets automatic pet feeder",
+              "value": 1300
+            },
+            {
+              "query": "automatic cat feeder near me",
+              "value": 450
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "cat automatic feeder",
+              "value": 100
+            },
+            {
+              "query": "cat feeder",
+              "value": 100
+            },
+            {
+              "query": "automatic dog feeder",
+              "value": 44
+            },
+            {
+              "query": "best automatic pet feeder",
+              "value": 39
+            },
+            {
+              "query": "petlibro feeder",
+              "value": 34
+            },
+            {
+              "query": "pet smart",
+              "value": 32
+            },
+            {
+              "query": "petlibro",
+              "value": 32
+            },
+            {
+              "query": "smart pet feeder",
+              "value": 31
+            },
+            {
+              "query": "petlibro automatic feeder",
+              "value": 31
+            },
+            {
+              "query": "pet camera",
+              "value": 21
+            }
+          ]
+        },
+        "pet nail grinder": {
+          "current": 0,
+          "avg": 1.1,
+          "max": 9,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.058,
+          "acceleration": 2.1,
+          "momentum": -1.1,
+          "last_7": [
+            8,
+            9,
+            5,
+            6,
+            5,
+            5,
+            0
+          ],
+          "slope_7d": -1.143,
+          "slope_14d": -0.393,
+          "slope_30d": 0.286,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "petsmart",
+              "value": 291000
+            },
+            {
+              "query": "oster pet nail grinder",
+              "value": 400
+            },
+            {
+              "query": "dog nail grinder",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "dog nail grinder",
+              "value": 100
+            },
+            {
+              "query": "best pet nail grinder",
+              "value": 52
+            },
+            {
+              "query": "dremel pet nail grinder",
+              "value": 43
+            },
+            {
+              "query": "dremel dog nail grinder",
+              "value": 24
+            },
+            {
+              "query": "wahl pet nail grinder",
+              "value": 20
+            },
+            {
+              "query": "best dog nail grinder",
+              "value": 19
+            },
+            {
+              "query": "oster pet nail grinder",
+              "value": 19
+            },
+            {
+              "query": "pet nail grinder reviews",
+              "value": 13
+            },
+            {
+              "query": "petsmart",
+              "value": 9
+            },
+            {
+              "query": "heusom silent groom pro",
+              "value": 5
+            }
+          ]
+        },
+        "dog anxiety vest": {
+          "current": 0,
+          "avg": 0.2,
+          "max": 4,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.011,
+          "acceleration": 0.4,
+          "momentum": -0.2,
+          "last_7": [
+            3,
+            4,
+            0,
+            0,
+            3,
+            0,
+            0
+          ],
+          "slope_7d": -0.5,
+          "slope_14d": 0.068,
+          "slope_30d": 0.061,
+          "momentum_status": "reversal_down",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "weighted dog vest for anxiety",
+              "value": 100
+            },
+            {
+              "query": "weighted dog vest",
+              "value": 92
+            }
+          ]
+        },
+        "cat tree tower": {
+          "current": 30,
+          "avg": 27.8,
+          "max": 76,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.134,
+          "acceleration": -1.0,
+          "momentum": 2.2,
+          "last_7": [
+            29,
+            31,
+            27,
+            20,
+            19,
+            19,
+            30
+          ],
+          "slope_7d": -1.036,
+          "slope_14d": -0.284,
+          "slope_30d": -0.047,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "tall cat tower",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "large cat tree",
+              "value": 100
+            },
+            {
+              "query": "tall cat tower",
+              "value": 56
+            },
+            {
+              "query": "cat tree tower for large cats",
+              "value": 51
+            },
+            {
+              "query": "cat scratching post",
+              "value": 34
+            }
+          ]
+        },
+        "dog poop bag dispenser": {
+          "current": 0,
+          "avg": 0.7,
+          "max": 28,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.016,
+          "acceleration": 0.1,
+          "momentum": -0.7,
+          "last_7": [
+            2,
+            3,
+            3,
+            4,
+            3,
+            3,
+            0
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.029,
+          "slope_30d": 0.114,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "dog poop bag holder",
+              "value": 130
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "dog poop bag holder",
+              "value": 100
+            }
+          ]
+        },
+        "pet hair remover": {
+          "current": 27,
+          "avg": 43.5,
+          "max": 100,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.081,
+          "acceleration": 2.6,
+          "momentum": -16.5,
+          "last_7": [
+            38,
+            45,
+            38,
+            31,
+            29,
+            31,
+            27
+          ],
+          "slope_7d": -2.5,
+          "slope_14d": -0.716,
+          "slope_30d": -1.242,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "furdozer pet hair remover",
+              "value": 57900
+            },
+            {
+              "query": "pet hair remover brush for clothing or furniture",
+              "value": 5250
+            },
+            {
+              "query": "oxo pet hair remover",
+              "value": 2900
+            },
+            {
+              "query": "best pet hair remover for clothes",
+              "value": 150
+            },
+            {
+              "query": "lint roller",
+              "value": 140
+            },
+            {
+              "query": "reusable pet hair remover",
+              "value": 130
+            },
+            {
+              "query": "pet hair remover roller",
+              "value": 70
+            },
+            {
+              "query": "pet hair remover for laundry",
+              "value": 60
+            },
+            {
+              "query": "dog hair remover",
+              "value": 60
+            },
+            {
+              "query": "pet hair remover for carpet",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best pet hair remover",
+              "value": 100
+            },
+            {
+              "query": "pet hair remover brush",
+              "value": 58
+            },
+            {
+              "query": "pet hair remover roller",
+              "value": 57
+            },
+            {
+              "query": "dog hair remover",
+              "value": 57
+            },
+            {
+              "query": "pet hair remover tool",
+              "value": 44
+            },
+            {
+              "query": "reusable pet hair remover",
+              "value": 43
+            },
+            {
+              "query": "carpet pet hair remover",
+              "value": 31
+            },
+            {
+              "query": "kivori pet hair remover",
+              "value": 31
+            },
+            {
+              "query": "car pet hair remover",
+              "value": 26
+            },
+            {
+              "query": "lint roller",
+              "value": 26
+            }
+          ]
+        }
+      }
+    },
+    "tech_accessories": {
+      "keywords": {
+        "car phone mount": {
+          "current": 6,
+          "avg": 8.2,
+          "max": 16,
+          "min": 4,
+          "trend": "stable",
+          "slope": -0.009,
+          "acceleration": 0.7,
+          "momentum": -2.2,
+          "last_7": [
+            7,
+            7,
+            6,
+            5,
+            5,
+            5,
+            6
+          ],
+          "slope_7d": -0.286,
+          "slope_14d": 0.002,
+          "slope_30d": -0.299,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "car mount for phone",
+              "value": 100
+            },
+            {
+              "query": "car phone holder",
+              "value": 60
+            },
+            {
+              "query": "phone holder",
+              "value": 59
+            },
+            {
+              "query": "phone holder for car",
+              "value": 36
+            },
+            {
+              "query": "best phone mount for car",
+              "value": 32
+            },
+            {
+              "query": "magnetic phone mount",
+              "value": 30
+            },
+            {
+              "query": "magnetic car mount",
+              "value": 29
+            },
+            {
+              "query": "magnetic phone mount for car",
+              "value": 18
+            },
+            {
+              "query": "magsafe car mount",
+              "value": 16
+            },
+            {
+              "query": "magsafe",
+              "value": 16
+            }
+          ]
+        },
+        "wireless charger": {
+          "current": 41,
+          "avg": 44.6,
+          "max": 66,
+          "min": 31,
+          "trend": "stable",
+          "slope": -0.166,
+          "acceleration": -6.7,
+          "momentum": -3.6,
+          "last_7": [
+            43,
+            44,
+            40,
+            37,
+            37,
+            39,
+            41
+          ],
+          "slope_7d": -0.679,
+          "slope_14d": 0.163,
+          "slope_30d": -0.37,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "iphone charger",
+              "value": 100
+            },
+            {
+              "query": "wireless iphone charger",
+              "value": 99
+            },
+            {
+              "query": "wireless charging",
+              "value": 83
+            },
+            {
+              "query": "wireless phone charger",
+              "value": 80
+            },
+            {
+              "query": "best wireless charger",
+              "value": 49
+            },
+            {
+              "query": "samsung wireless charger",
+              "value": 40
+            },
+            {
+              "query": "wireless charger for iphone",
+              "value": 37
+            },
+            {
+              "query": "wireless car charger",
+              "value": 37
+            },
+            {
+              "query": "wireless apple charger",
+              "value": 36
+            },
+            {
+              "query": "apple charger",
+              "value": 35
+            }
+          ]
+        },
+        "laptop stand": {
+          "current": 12,
+          "avg": 15.8,
+          "max": 21,
+          "min": 11,
+          "trend": "stable",
+          "slope": -0.013,
+          "acceleration": 0.1,
+          "momentum": -3.8,
+          "last_7": [
+            14,
+            13,
+            15,
+            15,
+            13,
+            14,
+            12
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.149,
+          "slope_30d": -0.22,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "stand for laptop",
+              "value": 100
+            },
+            {
+              "query": "laptop desk",
+              "value": 38
+            },
+            {
+              "query": "laptop desk stand",
+              "value": 38
+            },
+            {
+              "query": "best laptop stand",
+              "value": 35
+            },
+            {
+              "query": "desk stand for laptop",
+              "value": 25
+            },
+            {
+              "query": "adjustable laptop stand",
+              "value": 22
+            },
+            {
+              "query": "monitor stand",
+              "value": 20
+            },
+            {
+              "query": "portable laptop stand",
+              "value": 15
+            },
+            {
+              "query": "computer stand",
+              "value": 14
+            },
+            {
+              "query": "laptop stand amazon",
+              "value": 12
+            }
+          ]
+        },
+        "ring light": {
+          "current": 46,
+          "avg": 55.2,
+          "max": 100,
+          "min": 33,
+          "trend": "stable",
+          "slope": 0.029,
+          "acceleration": 6.5,
+          "momentum": -9.2,
+          "last_7": [
+            42,
+            43,
+            37,
+            37,
+            37,
+            36,
+            46
+          ],
+          "slope_7d": -0.071,
+          "slope_14d": 0.341,
+          "slope_30d": -2.129,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "ring camera",
+              "value": 100
+            },
+            {
+              "query": "best ring light",
+              "value": 95
+            },
+            {
+              "query": "ring light camera",
+              "value": 82
+            },
+            {
+              "query": "led ring light",
+              "value": 56
+            },
+            {
+              "query": "what is a ring light",
+              "value": 46
+            },
+            {
+              "query": "ring light near me",
+              "value": 41
+            },
+            {
+              "query": "oura ring",
+              "value": 35
+            },
+            {
+              "query": "phone ring light",
+              "value": 33
+            },
+            {
+              "query": "elden ring",
+              "value": 32
+            },
+            {
+              "query": "ring doorbell",
+              "value": 29
+            }
+          ]
+        },
+        "bluetooth tracker": {
+          "current": 2,
+          "avg": 3.4,
+          "max": 9,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.008,
+          "acceleration": 0.1,
+          "momentum": -1.4,
+          "last_7": [
+            3,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "slope_7d": -0.107,
+          "slope_14d": 0.002,
+          "slope_30d": -0.125,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "best bluetooth trackers",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best bluetooth tracker",
+              "value": 100
+            },
+            {
+              "query": "gps tracker",
+              "value": 62
+            },
+            {
+              "query": "android bluetooth tracker",
+              "value": 50
+            },
+            {
+              "query": "tile bluetooth tracker",
+              "value": 48
+            },
+            {
+              "query": "bluetooth tracker tag",
+              "value": 39
+            },
+            {
+              "query": "tile mate bluetooth tracker",
+              "value": 14
+            },
+            {
+              "query": "best bluetooth trackers",
+              "value": 9
+            },
+            {
+              "query": "tile pro bluetooth tracker",
+              "value": 5
+            },
+            {
+              "query": "smallest bluetooth tracker",
+              "value": 3
+            }
+          ]
+        },
+        "cable organizer": {
+          "current": 5,
+          "avg": 7.2,
+          "max": 22,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.038,
+          "acceleration": 2.8,
+          "momentum": -2.2,
+          "last_7": [
+            5,
+            6,
+            5,
+            5,
+            4,
+            5,
+            5
+          ],
+          "slope_7d": -0.107,
+          "slope_14d": 0.051,
+          "slope_30d": -0.468,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "cable organizer pouch",
+              "value": 110
+            },
+            {
+              "query": "cable organizer clip",
+              "value": 110
+            },
+            {
+              "query": "best cable organizer",
+              "value": 60
+            },
+            {
+              "query": "charger cable organizer",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best cable organizer",
+              "value": 100
+            },
+            {
+              "query": "desk cable organizer",
+              "value": 84
+            },
+            {
+              "query": "desk organizer",
+              "value": 83
+            },
+            {
+              "query": "travel cable organizer",
+              "value": 65
+            },
+            {
+              "query": "cable organizer bag",
+              "value": 58
+            },
+            {
+              "query": "cable organizer for desk",
+              "value": 43
+            },
+            {
+              "query": "charger cable organizer",
+              "value": 41
+            },
+            {
+              "query": "charging cable organizer",
+              "value": 36
+            },
+            {
+              "query": "cable organizer pouch",
+              "value": 30
+            },
+            {
+              "query": "cable organizer clip",
+              "value": 26
+            }
+          ]
+        },
+        "portable monitor": {
+          "current": 45,
+          "avg": 51.7,
+          "max": 71,
+          "min": 35,
+          "trend": "stable",
+          "slope": -0.142,
+          "acceleration": -6.3,
+          "momentum": -6.7,
+          "last_7": [
+            43,
+            42,
+            46,
+            48,
+            45,
+            43,
+            45
+          ],
+          "slope_7d": 0.25,
+          "slope_14d": 0.51,
+          "slope_30d": -0.309,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "portable monitor screen",
+              "value": 100
+            },
+            {
+              "query": "portable screen",
+              "value": 99
+            },
+            {
+              "query": "portable monitor for laptop",
+              "value": 96
+            },
+            {
+              "query": "arzopa",
+              "value": 54
+            },
+            {
+              "query": "arzopa portable monitor",
+              "value": 54
+            },
+            {
+              "query": "portable gaming monitor",
+              "value": 54
+            },
+            {
+              "query": "acer portable monitor",
+              "value": 50
+            },
+            {
+              "query": "portable monitor stand",
+              "value": 48
+            },
+            {
+              "query": "portable monitor amazon",
+              "value": 47
+            },
+            {
+              "query": "portable monitor 4k",
+              "value": 42
+            }
+          ]
+        },
+        "webcam cover": {
+          "current": 0,
+          "avg": 0.7,
+          "max": 7,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.009,
+          "acceleration": 0.2,
+          "momentum": -0.7,
+          "last_7": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            0
+          ],
+          "slope_7d": -0.036,
+          "slope_14d": -0.007,
+          "slope_30d": 0.014,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "webcam cover for laptop",
+              "value": 70
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "laptop webcam cover",
+              "value": 100
+            },
+            {
+              "query": "webcam cover for laptop",
+              "value": 45
+            },
+            {
+              "query": "macbook webcam cover",
+              "value": 36
+            },
+            {
+              "query": "sliding webcam cover",
+              "value": 6
+            }
+          ]
+        },
+        "usb hub": {
+          "current": 47,
+          "avg": 49.1,
+          "max": 100,
+          "min": 32,
+          "trend": "stable",
+          "slope": -0.104,
+          "acceleration": -4.0,
+          "momentum": -2.1,
+          "last_7": [
+            45,
+            46,
+            45,
+            48,
+            44,
+            47,
+            47
+          ],
+          "slope_7d": 0.25,
+          "slope_14d": 0.813,
+          "slope_30d": -0.303,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "usb hub near me",
+              "value": 150
+            },
+            {
+              "query": "nzxt internal usb hub",
+              "value": 70
+            },
+            {
+              "query": "caldigit ts4",
+              "value": 60
+            },
+            {
+              "query": "usb 2.0 hub",
+              "value": 60
+            },
+            {
+              "query": "usb c hub with power delivery",
+              "value": 60
+            },
+            {
+              "query": "elgato usb hub",
+              "value": 50
+            },
+            {
+              "query": "best usb c hub",
+              "value": 50
+            },
+            {
+              "query": "internal usb hub",
+              "value": 50
+            },
+            {
+              "query": "multi port usb hub",
+              "value": 50
+            },
+            {
+              "query": "best usb hub for pc",
+              "value": 50
+            },
+            {
+              "query": "j5 create usb hub",
+              "value": 40
+            },
+            {
+              "query": "usb-c hub",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best usb hub",
+              "value": 100
+            },
+            {
+              "query": "usb port",
+              "value": 93
+            },
+            {
+              "query": "usb power hub",
+              "value": 79
+            },
+            {
+              "query": "usb hub 3.0",
+              "value": 62
+            },
+            {
+              "query": "hdmi hub",
+              "value": 62
+            },
+            {
+              "query": "usb-c hub",
+              "value": 51
+            },
+            {
+              "query": "macbook usb hub",
+              "value": 40
+            },
+            {
+              "query": "what is a usb hub",
+              "value": 39
+            },
+            {
+              "query": "pc usb hub",
+              "value": 38
+            },
+            {
+              "query": "anker",
+              "value": 35
+            }
+          ]
+        },
+        "phone tripod": {
+          "current": 13,
+          "avg": 15.9,
+          "max": 25,
+          "min": 10,
+          "trend": "stable",
+          "slope": -0.048,
+          "acceleration": -1.0,
+          "momentum": -2.9,
+          "last_7": [
+            13,
+            13,
+            12,
+            13,
+            11,
+            11,
+            13
+          ],
+          "slope_7d": -0.179,
+          "slope_14d": 0.059,
+          "slope_30d": -0.276,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "tripod for phone",
+              "value": 100
+            },
+            {
+              "query": "phone tripod stand",
+              "value": 37
+            },
+            {
+              "query": "tripod stand",
+              "value": 37
+            },
+            {
+              "query": "phone stand",
+              "value": 37
+            },
+            {
+              "query": "tripod phone mount",
+              "value": 30
+            },
+            {
+              "query": "phone mount",
+              "value": 29
+            },
+            {
+              "query": "best tripod for phone",
+              "value": 29
+            },
+            {
+              "query": "tripod phone holder",
+              "value": 26
+            },
+            {
+              "query": "phone holder",
+              "value": 26
+            },
+            {
+              "query": "phone camera tripod",
+              "value": 23
+            }
+          ]
+        }
+      }
+    },
+    "beauty_health": {
+      "keywords": {
+        "jade roller": {
+          "current": 10,
+          "avg": 10.0,
+          "max": 29,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.032,
+          "acceleration": -0.9,
+          "momentum": 0.0,
+          "last_7": [
+            12,
+            11,
+            8,
+            10,
+            9,
+            9,
+            10
+          ],
+          "slope_7d": -0.321,
+          "slope_14d": 0.062,
+          "slope_30d": -0.048,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "jade roller and gua sha set",
+              "value": 135750
+            },
+            {
+              "query": "jade roller target",
+              "value": 128300
+            },
+            {
+              "query": "benefits of jade roller on face",
+              "value": 104150
+            },
+            {
+              "query": "mount lai jade roller",
+              "value": 32750
+            },
+            {
+              "query": "how to clean a jade roller",
+              "value": 5900
+            },
+            {
+              "query": "how to properly use a jade roller",
+              "value": 2600
+            },
+            {
+              "query": "cold jade roller",
+              "value": 200
+            },
+            {
+              "query": "how to use a gua sha",
+              "value": 200
+            },
+            {
+              "query": "jade roller near me",
+              "value": 120
+            },
+            {
+              "query": "gua sha or jade roller",
+              "value": 100
+            },
+            {
+              "query": "jade roller walmart",
+              "value": 80
+            },
+            {
+              "query": "how to use gua sha",
+              "value": 80
+            },
+            {
+              "query": "how to use a jade roller and gua sha",
+              "value": 80
+            },
+            {
+              "query": "how to use a jade face roller",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "jade roller face",
+              "value": 100
+            },
+            {
+              "query": "face roller",
+              "value": 99
+            },
+            {
+              "query": "jade gua sha",
+              "value": 62
+            },
+            {
+              "query": "gua sha jade roller",
+              "value": 62
+            },
+            {
+              "query": "gua sha",
+              "value": 61
+            },
+            {
+              "query": "jade roller how to use",
+              "value": 53
+            },
+            {
+              "query": "jade roller and gua sha",
+              "value": 32
+            },
+            {
+              "query": "jade roller for face",
+              "value": 32
+            },
+            {
+              "query": "best jade roller",
+              "value": 27
+            },
+            {
+              "query": "jade roller benefits",
+              "value": 25
+            }
+          ]
+        },
+        "teeth whitening kit": {
+          "current": 25,
+          "avg": 20.1,
+          "max": 32,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.018,
+          "acceleration": 2.0,
+          "momentum": 4.9,
+          "last_7": [
+            19,
+            19,
+            20,
+            18,
+            20,
+            17,
+            25
+          ],
+          "slope_7d": 0.5,
+          "slope_14d": 0.279,
+          "slope_30d": -0.178,
+          "momentum_status": "accelerating",
+          "momentum_score": 65,
+          "rising_queries": [
+            {
+              "query": "colgate optic white comfortfit led teeth whitening kit",
+              "value": 61200
+            },
+            {
+              "query": "purple teeth whitening strips",
+              "value": 43400
+            },
+            {
+              "query": "best cheap teeth whitening kit",
+              "value": 21400
+            },
+            {
+              "query": "snow diamond teeth whitening kit reviews",
+              "value": 12850
+            },
+            {
+              "query": "what's the best teeth whitening kit",
+              "value": 6800
+            },
+            {
+              "query": "best at home teeth whitening kits",
+              "value": 1100
+            },
+            {
+              "query": "go teeth whitening kit",
+              "value": 80
+            },
+            {
+              "query": "purelywhite deluxe teeth whitening kit",
+              "value": 70
+            },
+            {
+              "query": "safest teeth whitening kit",
+              "value": 70
+            },
+            {
+              "query": "best at home teeth whitening",
+              "value": 70
+            },
+            {
+              "query": "best at home teeth whitening kit",
+              "value": 60
+            },
+            {
+              "query": "best home teeth whitening kit",
+              "value": 50
+            },
+            {
+              "query": "teeth whitening kit near me",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "teeth whitening kit best",
+              "value": 100
+            },
+            {
+              "query": "best teeth whitening",
+              "value": 99
+            },
+            {
+              "query": "whitening kit for teeth",
+              "value": 61
+            },
+            {
+              "query": "home teeth whitening kit",
+              "value": 45
+            },
+            {
+              "query": "white teeth whitening kit",
+              "value": 37
+            },
+            {
+              "query": "led teeth whitening kit",
+              "value": 37
+            },
+            {
+              "query": "smile whitening kit",
+              "value": 36
+            },
+            {
+              "query": "teeth whitening at home",
+              "value": 30
+            },
+            {
+              "query": "teeth whitening light kit",
+              "value": 30
+            },
+            {
+              "query": "auraglow teeth whitening kit",
+              "value": 29
+            }
+          ]
+        },
+        "hair growth serum": {
+          "current": 52,
+          "avg": 68.6,
+          "max": 100,
+          "min": 45,
+          "trend": "stable",
+          "slope": -0.167,
+          "acceleration": -7.6,
+          "momentum": -16.6,
+          "last_7": [
+            57,
+            61,
+            52,
+            50,
+            48,
+            46,
+            52
+          ],
+          "slope_7d": -1.75,
+          "slope_14d": -0.224,
+          "slope_30d": -0.793,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "hair serum for hair growth",
+              "value": 100
+            },
+            {
+              "query": "best hair growth serum",
+              "value": 50
+            },
+            {
+              "query": "best hair serum for hair growth",
+              "value": 35
+            },
+            {
+              "query": "hair growth scalp serum",
+              "value": 20
+            },
+            {
+              "query": "scalp serum",
+              "value": 20
+            },
+            {
+              "query": "hair growth oil",
+              "value": 20
+            },
+            {
+              "query": "the best hair growth serum",
+              "value": 16
+            },
+            {
+              "query": "ordinary hair serum",
+              "value": 15
+            },
+            {
+              "query": "ordinary hair growth serum",
+              "value": 15
+            },
+            {
+              "query": "hair growth products",
+              "value": 14
+            }
+          ]
+        },
+        "blackhead remover": {
+          "current": 15,
+          "avg": 17.2,
+          "max": 35,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.032,
+          "acceleration": -2.4,
+          "momentum": -2.2,
+          "last_7": [
+            15,
+            19,
+            15,
+            17,
+            14,
+            14,
+            15
+          ],
+          "slope_7d": -0.393,
+          "slope_14d": -0.086,
+          "slope_30d": -0.075,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "deep clean blackhead remover stick",
+              "value": 20400
+            },
+            {
+              "query": "blackhead remover walmart",
+              "value": 140
+            },
+            {
+              "query": "blackhead stick remover",
+              "value": 100
+            },
+            {
+              "query": "viral blackhead remover",
+              "value": 100
+            },
+            {
+              "query": "cerave blackhead remover",
+              "value": 80
+            },
+            {
+              "query": "what is the best blackhead remover",
+              "value": 70
+            },
+            {
+              "query": "instant blackhead remover",
+              "value": 70
+            },
+            {
+              "query": "best blackhead remover tool",
+              "value": 60
+            },
+            {
+              "query": "black mask blackhead remover",
+              "value": 60
+            },
+            {
+              "query": "best blackhead remover mask",
+              "value": 50
+            },
+            {
+              "query": "electric blackhead remover",
+              "value": 40
+            },
+            {
+              "query": "walgreens blackhead remover",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best blackhead remover",
+              "value": 100
+            },
+            {
+              "query": "blackhead pore remover",
+              "value": 54
+            },
+            {
+              "query": "pore remover",
+              "value": 53
+            },
+            {
+              "query": "blackhead remover nose",
+              "value": 47
+            },
+            {
+              "query": "blackhead tool remover",
+              "value": 45
+            },
+            {
+              "query": "blackhead remover mask",
+              "value": 42
+            },
+            {
+              "query": "blackhead mask",
+              "value": 42
+            },
+            {
+              "query": "blackheads",
+              "value": 31
+            },
+            {
+              "query": "blackhead removal",
+              "value": 27
+            },
+            {
+              "query": "blackhead remover for nose",
+              "value": 24
+            }
+          ]
+        },
+        "essential oil diffuser": {
+          "current": 38,
+          "avg": 47.4,
+          "max": 74,
+          "min": 25,
+          "trend": "falling",
+          "slope": -0.215,
+          "acceleration": -7.1,
+          "momentum": -9.4,
+          "last_7": [
+            41,
+            40,
+            35,
+            31,
+            28,
+            29,
+            38
+          ],
+          "slope_7d": -1.357,
+          "slope_14d": -0.002,
+          "slope_30d": -1.045,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "facial steamer": {
+          "current": 13,
+          "avg": 13.3,
+          "max": 24,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.091,
+          "acceleration": -2.7,
+          "momentum": -0.3,
+          "last_7": [
+            12,
+            14,
+            12,
+            11,
+            11,
+            10,
+            13
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.152,
+          "slope_30d": -0.001,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "best facial steamer",
+              "value": 100
+            },
+            {
+              "query": "home facial steamer",
+              "value": 62
+            },
+            {
+              "query": "facial steamer nano",
+              "value": 60
+            },
+            {
+              "query": "nano facial steamer",
+              "value": 58
+            },
+            {
+              "query": "facial steamer near me",
+              "value": 48
+            },
+            {
+              "query": "facial steamer benefits",
+              "value": 48
+            },
+            {
+              "query": "facial steamer professional",
+              "value": 46
+            },
+            {
+              "query": "facial steamer machine",
+              "value": 45
+            },
+            {
+              "query": "how to use facial steamer",
+              "value": 43
+            },
+            {
+              "query": "ionic facial steamer",
+              "value": 42
+            }
+          ]
+        },
+        "derma roller": {
+          "current": 45,
+          "avg": 48.2,
+          "max": 71,
+          "min": 26,
+          "trend": "stable",
+          "slope": -0.136,
+          "acceleration": -6.9,
+          "momentum": -3.2,
+          "last_7": [
+            41,
+            48,
+            43,
+            41,
+            37,
+            36,
+            45
+          ],
+          "slope_7d": -0.643,
+          "slope_14d": -0.026,
+          "slope_30d": -0.213,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "lip plumper": {
+          "current": 54,
+          "avg": 58.3,
+          "max": 93,
+          "min": 38,
+          "trend": "stable",
+          "slope": -0.087,
+          "acceleration": -2.6,
+          "momentum": -4.3,
+          "last_7": [
+            68,
+            62,
+            48,
+            47,
+            47,
+            49,
+            54
+          ],
+          "slope_7d": -2.464,
+          "slope_14d": -0.525,
+          "slope_30d": -0.509,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "eyelash serum": {
+          "current": 54,
+          "avg": 65.9,
+          "max": 100,
+          "min": 46,
+          "trend": "stable",
+          "slope": -0.125,
+          "acceleration": -5.8,
+          "momentum": -11.9,
+          "last_7": [
+            58,
+            62,
+            55,
+            53,
+            50,
+            52,
+            54
+          ],
+          "slope_7d": -1.321,
+          "slope_14d": -0.09,
+          "slope_30d": -0.638,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "luxe eyelash serum",
+              "value": 2100
+            },
+            {
+              "query": "terez and honor eyelash serum reviews",
+              "value": 1600
+            },
+            {
+              "query": "luxe lash serum",
+              "value": 1100
+            },
+            {
+              "query": "olaplex lash serum",
+              "value": 250
+            },
+            {
+              "query": "heroine make eyelash serum",
+              "value": 130
+            },
+            {
+              "query": "olaplex eyelash serum",
+              "value": 100
+            },
+            {
+              "query": "obagi lash serum",
+              "value": 90
+            },
+            {
+              "query": "forchics lash serum",
+              "value": 70
+            },
+            {
+              "query": "prostaglandin free eyelash serum",
+              "value": 60
+            },
+            {
+              "query": "sweed lash serum",
+              "value": 60
+            },
+            {
+              "query": "ordinary lash serum",
+              "value": 50
+            },
+            {
+              "query": "sweed pro eyelash serum",
+              "value": 50
+            },
+            {
+              "query": "dime eyelash serum",
+              "value": 50
+            },
+            {
+              "query": "the ordinary eyelash serum",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "eyelash serum growth",
+              "value": 100
+            },
+            {
+              "query": "lash serum",
+              "value": 86
+            },
+            {
+              "query": "best eyelash serum",
+              "value": 80
+            },
+            {
+              "query": "best eyelash growth serum",
+              "value": 44
+            },
+            {
+              "query": "eyelash serum for growth",
+              "value": 30
+            },
+            {
+              "query": "lash growth serum",
+              "value": 28
+            },
+            {
+              "query": "prostaglandin",
+              "value": 25
+            },
+            {
+              "query": "prostaglandin eyelash serum",
+              "value": 25
+            },
+            {
+              "query": "best lash serum",
+              "value": 22
+            },
+            {
+              "query": "latisse",
+              "value": 22
+            }
+          ]
+        },
+        "scalp massager": {
+          "current": 23,
+          "avg": 23.7,
+          "max": 44,
+          "min": 11,
+          "trend": "stable",
+          "slope": -0.119,
+          "acceleration": -3.4,
+          "momentum": -0.7,
+          "last_7": [
+            20,
+            21,
+            18,
+            17,
+            18,
+            17,
+            23
+          ],
+          "slope_7d": 0.036,
+          "slope_14d": 0.077,
+          "slope_30d": -0.213,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        }
+      }
+    },
+    "outdoor": {
+      "keywords": {}
+    },
+    "eco_friendly": {
+      "keywords": {
+        "reusable food wrap": {
+          "current": 0,
+          "avg": 0.2,
+          "max": 22,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.012,
+          "acceleration": -0.5,
+          "momentum": -0.2,
+          "last_7": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": 0.0,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "bamboo toothbrush": {
+          "current": 15,
+          "avg": 6.1,
+          "max": 25,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.079,
+          "acceleration": 3.6,
+          "momentum": 8.9,
+          "last_7": [
+            11,
+            12,
+            11,
+            9,
+            8,
+            10,
+            15
+          ],
+          "slope_7d": 0.179,
+          "slope_14d": 0.182,
+          "slope_30d": 0.271,
+          "momentum_status": "steady_up",
+          "momentum_score": 27,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "solar garden lights": {
+          "current": 27,
+          "avg": 21.6,
+          "max": 100,
+          "min": 0,
+          "trend": "rising",
+          "slope": 0.463,
+          "acceleration": 27.9,
+          "momentum": 5.4,
+          "last_7": [
+            26,
+            31,
+            25,
+            22,
+            18,
+            20,
+            27
+          ],
+          "slope_7d": -0.929,
+          "slope_14d": 0.415,
+          "slope_30d": -1.941,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "best solar lights for garden",
+              "value": 350
+            },
+            {
+              "query": "solar lights for the garden",
+              "value": 160
+            },
+            {
+              "query": "led solar lights outdoor waterproof",
+              "value": 150
+            },
+            {
+              "query": "solar garden lights outdoor waterproof",
+              "value": 110
+            },
+            {
+              "query": "outdoor solar lights for garden",
+              "value": 100
+            },
+            {
+              "query": "color changing solar garden lights",
+              "value": 90
+            },
+            {
+              "query": "outdoor garden lights",
+              "value": 90
+            },
+            {
+              "query": "outdoor solar lights",
+              "value": 80
+            },
+            {
+              "query": "solar powered outdoor lights",
+              "value": 80
+            },
+            {
+              "query": "solar powered lights for garden",
+              "value": 70
+            },
+            {
+              "query": "solar string lights",
+              "value": 60
+            },
+            {
+              "query": "garden solar stake lights",
+              "value": 60
+            },
+            {
+              "query": "solar pathway lights",
+              "value": 50
+            },
+            {
+              "query": "solar garden lights decorative",
+              "value": 50
+            },
+            {
+              "query": "solar garden light",
+              "value": 50
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "outdoor garden lights",
+              "value": 100
+            },
+            {
+              "query": "outdoor solar lights",
+              "value": 100
+            },
+            {
+              "query": "outdoor solar lights for garden",
+              "value": 63
+            },
+            {
+              "query": "solar garden light",
+              "value": 43
+            },
+            {
+              "query": "solar garden lights outdoor waterproof",
+              "value": 37
+            },
+            {
+              "query": "solar lights for yard",
+              "value": 28
+            },
+            {
+              "query": "best solar lights for garden",
+              "value": 22
+            },
+            {
+              "query": "garden decor",
+              "value": 21
+            },
+            {
+              "query": "solar pathway lights",
+              "value": 21
+            },
+            {
+              "query": "solar garden lights decorative",
+              "value": 20
+            }
+          ]
+        },
+        "reusable straw set": {
+          "current": 0,
+          "avg": 0.5,
+          "max": 20,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.011,
+          "acceleration": 1.0,
+          "momentum": -0.5,
+          "last_7": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": 0.001,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "beeswax wrap": {
+          "current": 4,
+          "avg": 2.0,
+          "max": 25,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.021,
+          "acceleration": 1.2,
+          "momentum": 2.0,
+          "last_7": [
+            5,
+            7,
+            5,
+            5,
+            5,
+            4,
+            4
+          ],
+          "slope_7d": -0.321,
+          "slope_14d": -0.174,
+          "slope_30d": 0.036,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "diy beeswax wrap",
+              "value": 100
+            },
+            {
+              "query": "beeswax wraps",
+              "value": 95
+            },
+            {
+              "query": "beeswax wrap recipe",
+              "value": 76
+            },
+            {
+              "query": "reusable beeswax wrap",
+              "value": 69
+            },
+            {
+              "query": "pine resin",
+              "value": 47
+            },
+            {
+              "query": "how to clean beeswax wrap",
+              "value": 25
+            },
+            {
+              "query": "what is beeswax wrap used for",
+              "value": 21
+            },
+            {
+              "query": "abeego beeswax wrap",
+              "value": 15
+            },
+            {
+              "query": "beeswax wrap uses",
+              "value": 13
+            },
+            {
+              "query": "how to make beeswax wraps",
+              "value": 11
+            }
+          ]
+        },
+        "compost bin": {
+          "current": 54,
+          "avg": 54.4,
+          "max": 100,
+          "min": 31,
+          "trend": "rising",
+          "slope": 0.233,
+          "acceleration": 7.3,
+          "momentum": -0.4,
+          "last_7": [
+            81,
+            100,
+            83,
+            73,
+            65,
+            62,
+            54
+          ],
+          "slope_7d": -6.25,
+          "slope_14d": -0.541,
+          "slope_30d": 0.56,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "bamboo cutlery set": {
+          "current": 0,
+          "avg": 0.0,
+          "max": 1,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.002,
+          "acceleration": 0.1,
+          "momentum": 0.0,
+          "last_7": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": -0.143,
+          "slope_14d": 0.013,
+          "slope_30d": 0.009,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "bamboo cutlery set 100 pcs",
+              "value": 100
+            }
+          ]
+        },
+        "reusable produce bags": {
+          "current": 0,
+          "avg": 0.2,
+          "max": 2,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.009,
+          "acceleration": 0.3,
+          "momentum": -0.2,
+          "last_7": [
+            0,
+            1,
+            1,
+            2,
+            2,
+            1,
+            0
+          ],
+          "slope_7d": 0.036,
+          "slope_14d": 0.022,
+          "slope_30d": 0.052,
+          "momentum_status": "steady_up",
+          "momentum_score": 21,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "best reusable produce bags",
+              "value": 100
+            }
+          ]
+        },
+        "solar phone charger": {
+          "current": 6,
+          "avg": 3.5,
+          "max": 32,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.016,
+          "acceleration": -2.1,
+          "momentum": 2.5,
+          "last_7": [
+            9,
+            8,
+            7,
+            8,
+            7,
+            8,
+            6
+          ],
+          "slope_7d": -0.321,
+          "slope_14d": -0.007,
+          "slope_30d": 0.375,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "best solar phone charger for backpacking",
+              "value": 50750
+            },
+            {
+              "query": "solar phone charger near me",
+              "value": 140
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best solar phone charger",
+              "value": 100
+            },
+            {
+              "query": "solar charger power bank",
+              "value": 64
+            },
+            {
+              "query": "solar power charger for phone",
+              "value": 63
+            },
+            {
+              "query": "best solar charger for phone",
+              "value": 59
+            },
+            {
+              "query": "solar panel charger for phone",
+              "value": 44
+            },
+            {
+              "query": "solar phone charger amazon",
+              "value": 39
+            },
+            {
+              "query": "solar phone charger near me",
+              "value": 29
+            },
+            {
+              "query": "solar phone charger walmart",
+              "value": 16
+            },
+            {
+              "query": "best solar phone charger for backpacking",
+              "value": 3
+            }
+          ]
+        },
+        "eco cleaning cloths": {
+          "current": 0,
+          "avg": 0.0,
+          "max": 0,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.0,
+          "acceleration": 0.0,
+          "momentum": 0.0,
+          "last_7": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": 0.0,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        }
+      }
+    },
+    "home_office": {
+      "keywords": {
+        "desk organizer": {
+          "current": 37,
+          "avg": 54.9,
+          "max": 100,
+          "min": 35,
+          "trend": "stable",
+          "slope": -0.009,
+          "acceleration": 3.9,
+          "momentum": -17.9,
+          "last_7": [
+            45,
+            41,
+            43,
+            40,
+            41,
+            38,
+            37
+          ],
+          "slope_7d": -1.143,
+          "slope_14d": 0.13,
+          "slope_30d": -1.749,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "organizer for desk",
+              "value": 100
+            },
+            {
+              "query": "desk storage",
+              "value": 45
+            },
+            {
+              "query": "desk storage organizer",
+              "value": 45
+            },
+            {
+              "query": "office desk organizer",
+              "value": 43
+            },
+            {
+              "query": "drawer organizer",
+              "value": 37
+            },
+            {
+              "query": "desk drawer",
+              "value": 36
+            },
+            {
+              "query": "best desk organizer",
+              "value": 29
+            },
+            {
+              "query": "desk tray organizer",
+              "value": 26
+            },
+            {
+              "query": "file organizer",
+              "value": 23
+            },
+            {
+              "query": "desk file organizer",
+              "value": 23
+            }
+          ]
+        },
+        "monitor light bar": {
+          "current": 8,
+          "avg": 4.2,
+          "max": 21,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.022,
+          "acceleration": 1.6,
+          "momentum": 3.8,
+          "last_7": [
+            7,
+            6,
+            6,
+            7,
+            5,
+            6,
+            8
+          ],
+          "slope_7d": 0.071,
+          "slope_14d": 0.141,
+          "slope_30d": 0.082,
+          "momentum_status": "steady_up",
+          "momentum_score": 22,
+          "rising_queries": [
+            {
+              "query": "rog aura monitor light bar alb01",
+              "value": 112900
+            },
+            {
+              "query": "razer aether monitor light bar",
+              "value": 350
+            },
+            {
+              "query": "xiaomi mi computer monitor light bar",
+              "value": 70
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "best monitor light bar",
+              "value": 100
+            },
+            {
+              "query": "led light bar",
+              "value": 64
+            },
+            {
+              "query": "computer monitor light bar",
+              "value": 56
+            },
+            {
+              "query": "benq monitor light bar",
+              "value": 48
+            },
+            {
+              "query": "xiaomi monitor light bar",
+              "value": 40
+            },
+            {
+              "query": "curved monitor light bar",
+              "value": 40
+            },
+            {
+              "query": "xiaomi mi monitor light bar",
+              "value": 14
+            },
+            {
+              "query": "mi computer monitor light bar",
+              "value": 13
+            },
+            {
+              "query": "razer aether monitor light bar",
+              "value": 12
+            },
+            {
+              "query": "xiaomi mi computer monitor light bar",
+              "value": 11
+            }
+          ]
+        },
+        "ergonomic mouse": {
+          "current": 31,
+          "avg": 36.3,
+          "max": 63,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.089,
+          "acceleration": 3.8,
+          "momentum": -5.3,
+          "last_7": [
+            30,
+            25,
+            39,
+            39,
+            39,
+            36,
+            31
+          ],
+          "slope_7d": 0.893,
+          "slope_14d": 0.516,
+          "slope_30d": -0.521,
+          "momentum_status": "accelerating",
+          "momentum_score": 84,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "standing desk converter": {
+          "current": 7,
+          "avg": 4.2,
+          "max": 24,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.086,
+          "acceleration": 3.4,
+          "momentum": 2.8,
+          "last_7": [
+            6,
+            6,
+            9,
+            10,
+            8,
+            9,
+            7
+          ],
+          "slope_7d": 0.286,
+          "slope_14d": 0.051,
+          "slope_30d": 0.205,
+          "momentum_status": "steady_up",
+          "momentum_score": 31,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "best standing desk converter",
+              "value": 100
+            },
+            {
+              "query": "adjustable standing desk",
+              "value": 95
+            },
+            {
+              "query": "adjustable standing desk converter",
+              "value": 93
+            },
+            {
+              "query": "electric standing desk",
+              "value": 59
+            },
+            {
+              "query": "desk riser",
+              "value": 54
+            },
+            {
+              "query": "flexispot standing desk converter",
+              "value": 51
+            },
+            {
+              "query": "flexispot standing desk",
+              "value": 47
+            },
+            {
+              "query": "dual monitor standing desk converter",
+              "value": 41
+            },
+            {
+              "query": "amazon standing desk converter",
+              "value": 36
+            },
+            {
+              "query": "varidesk standing desk converter",
+              "value": 31
+            }
+          ]
+        },
+        "cable management box": {
+          "current": 3,
+          "avg": 2.5,
+          "max": 16,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.035,
+          "acceleration": 2.1,
+          "momentum": 0.5,
+          "last_7": [
+            5,
+            5,
+            4,
+            4,
+            3,
+            5,
+            3
+          ],
+          "slope_7d": -0.25,
+          "slope_14d": -0.015,
+          "slope_30d": -0.015,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "cable management box under desk",
+              "value": 100
+            },
+            {
+              "query": "in wall cable management",
+              "value": 36
+            },
+            {
+              "query": "ikea cable management box",
+              "value": 35
+            },
+            {
+              "query": "ultimate cable management box",
+              "value": 18
+            },
+            {
+              "query": "yamazaki rolling cable management box",
+              "value": 1
+            }
+          ]
+        }
+      }
+    },
+    "car_accessories": {
+      "keywords": {
+        "car vacuum cleaner": {
+          "current": 3,
+          "avg": 4.3,
+          "max": 9,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.001,
+          "acceleration": 0.5,
+          "momentum": -1.3,
+          "last_7": [
+            4,
+            4,
+            4,
+            4,
+            3,
+            3,
+            3
+          ],
+          "slope_7d": -0.214,
+          "slope_14d": 0.011,
+          "slope_30d": -0.139,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "dash cam": {
+          "current": 58,
+          "avg": 66.1,
+          "max": 100,
+          "min": 49,
+          "trend": "falling",
+          "slope": -0.281,
+          "acceleration": -11.6,
+          "momentum": -8.1,
+          "last_7": [
+            61,
+            69,
+            58,
+            56,
+            56,
+            51,
+            58
+          ],
+          "slope_7d": -1.679,
+          "slope_14d": -0.112,
+          "slope_30d": -0.364,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "best dash cam",
+              "value": 100
+            },
+            {
+              "query": "car dash cam",
+              "value": 78
+            },
+            {
+              "query": "dash camera",
+              "value": 48
+            },
+            {
+              "query": "dash cam for car",
+              "value": 38
+            },
+            {
+              "query": "4k dash cam",
+              "value": 29
+            },
+            {
+              "query": "garmin",
+              "value": 29
+            },
+            {
+              "query": "front and rear dash cam",
+              "value": 27
+            },
+            {
+              "query": "dashcam",
+              "value": 25
+            },
+            {
+              "query": "best dash cam 2025",
+              "value": 24
+            },
+            {
+              "query": "viofo",
+              "value": 24
+            }
+          ]
+        },
+        "seat gap filler": {
+          "current": 1,
+          "avg": 1.1,
+          "max": 7,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.019,
+          "acceleration": -1.3,
+          "momentum": -0.1,
+          "last_7": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": 0.035,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "seat gap filler for car",
+              "value": 100
+            },
+            {
+              "query": "car seat gap filler organizer",
+              "value": 46
+            },
+            {
+              "query": "seat gap filler amazon",
+              "value": 46
+            },
+            {
+              "query": "seat gap filler strip",
+              "value": 37
+            },
+            {
+              "query": "drop stop seat gap filler",
+              "value": 35
+            },
+            {
+              "query": "best car seat gap filler",
+              "value": 33
+            },
+            {
+              "query": "car seat gap filler amazon",
+              "value": 31
+            },
+            {
+              "query": "universal car seat gap filler strip",
+              "value": 17
+            },
+            {
+              "query": "weathertech seat gap filler",
+              "value": 5
+            },
+            {
+              "query": "shark tank drop stop seat gap filler",
+              "value": 0
+            }
+          ]
+        },
+        "trunk organizer": {
+          "current": 3,
+          "avg": 3.6,
+          "max": 7,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.011,
+          "acceleration": -0.3,
+          "momentum": -0.6,
+          "last_7": [
+            4,
+            5,
+            4,
+            3,
+            3,
+            3,
+            3
+          ],
+          "slope_7d": -0.286,
+          "slope_14d": -0.026,
+          "slope_30d": -0.055,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "calpak trunk organizer",
+              "value": 16900
+            },
+            {
+              "query": "eurow automotive trunk organizer",
+              "value": 2850
+            },
+            {
+              "query": "walmart trunk organizer",
+              "value": 110
+            },
+            {
+              "query": "trunk organizer with cooler",
+              "value": 90
+            },
+            {
+              "query": "trunk storage",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "car organizer",
+              "value": 100
+            },
+            {
+              "query": "trunk storage",
+              "value": 50
+            },
+            {
+              "query": "trunk organizer for car",
+              "value": 45
+            },
+            {
+              "query": "best trunk organizer",
+              "value": 33
+            },
+            {
+              "query": "trunk organizer for suv",
+              "value": 22
+            },
+            {
+              "query": "best car trunk organizer",
+              "value": 14
+            },
+            {
+              "query": "golf trunk organizer",
+              "value": 14
+            },
+            {
+              "query": "collapsible trunk organizer",
+              "value": 11
+            },
+            {
+              "query": "amazon trunk organizer",
+              "value": 10
+            },
+            {
+              "query": "jeep trunk organizer",
+              "value": 6
+            }
+          ]
+        },
+        "car air freshener diffuser": {
+          "current": 0,
+          "avg": 0.0,
+          "max": 2,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.001,
+          "acceleration": 0.1,
+          "momentum": 0.0,
+          "last_7": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "slope_7d": 0.0,
+          "slope_14d": 0.0,
+          "slope_30d": 0.0,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "best car air freshener",
+              "value": 100
+            },
+            {
+              "query": "pura car diffuser",
+              "value": 43
+            }
+          ]
+        },
+        "steering wheel cover": {
+          "current": 56,
+          "avg": 55.2,
+          "max": 100,
+          "min": 35,
+          "trend": "stable",
+          "slope": 0.143,
+          "acceleration": 11.0,
+          "momentum": 0.8,
+          "last_7": [
+            71,
+            65,
+            51,
+            56,
+            48,
+            46,
+            56
+          ],
+          "slope_7d": -3.071,
+          "slope_14d": 0.16,
+          "slope_30d": -1.201,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "gucci steering wheel cover",
+              "value": 5050
+            },
+            {
+              "query": "15 inch steering wheel cover",
+              "value": 350
+            },
+            {
+              "query": "cute steering wheel covers",
+              "value": 200
+            },
+            {
+              "query": "lv steering wheel cover",
+              "value": 190
+            },
+            {
+              "query": "diy steering wheel cover",
+              "value": 180
+            },
+            {
+              "query": "steering wheel cover near me",
+              "value": 170
+            },
+            {
+              "query": "18 inch steering wheel cover",
+              "value": 140
+            },
+            {
+              "query": "anime steering wheel cover",
+              "value": 120
+            },
+            {
+              "query": "cheetah print steering wheel cover",
+              "value": 120
+            },
+            {
+              "query": "wood grain steering wheel cover",
+              "value": 120
+            },
+            {
+              "query": "polka dot steering wheel cover",
+              "value": 110
+            },
+            {
+              "query": "blue steering wheel cover",
+              "value": 100
+            },
+            {
+              "query": "purple steering wheel cover",
+              "value": 100
+            },
+            {
+              "query": "western steering wheel cover",
+              "value": 100
+            },
+            {
+              "query": "mewant steering wheel cover",
+              "value": 90
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "car steering wheel cover",
+              "value": 100
+            },
+            {
+              "query": "leather steering wheel cover",
+              "value": 71
+            },
+            {
+              "query": "black steering wheel cover",
+              "value": 51
+            },
+            {
+              "query": "best steering wheel cover",
+              "value": 49
+            },
+            {
+              "query": "heated steering wheel cover",
+              "value": 46
+            },
+            {
+              "query": "steering wheel covers",
+              "value": 45
+            },
+            {
+              "query": "ford steering wheel cover",
+              "value": 38
+            },
+            {
+              "query": "steering wheel cover near me",
+              "value": 35
+            },
+            {
+              "query": "toyota steering wheel cover",
+              "value": 33
+            },
+            {
+              "query": "honda steering wheel cover",
+              "value": 33
+            }
+          ]
+        },
+        "car seat cushion": {
+          "current": 9,
+          "avg": 12.3,
+          "max": 34,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.067,
+          "acceleration": 5.4,
+          "momentum": -3.3,
+          "last_7": [
+            9,
+            10,
+            9,
+            8,
+            8,
+            7,
+            9
+          ],
+          "slope_7d": -0.25,
+          "slope_14d": 0.024,
+          "slope_30d": -0.815,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "phone mount magnetic": {
+          "current": 6,
+          "avg": 5.8,
+          "max": 16,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.025,
+          "acceleration": 1.5,
+          "momentum": 0.2,
+          "last_7": [
+            6,
+            6,
+            5,
+            5,
+            5,
+            5,
+            6
+          ],
+          "slope_7d": -0.071,
+          "slope_14d": 0.011,
+          "slope_30d": -0.17,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "car trash can": {
+          "current": 8,
+          "avg": 8.3,
+          "max": 16,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.013,
+          "acceleration": 1.5,
+          "momentum": -0.3,
+          "last_7": [
+            8,
+            8,
+            9,
+            8,
+            8,
+            8,
+            8
+          ],
+          "slope_7d": -0.036,
+          "slope_14d": 0.11,
+          "slope_30d": -0.204,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [
+            {
+              "query": "diy car trash can",
+              "value": 150
+            },
+            {
+              "query": "hotor car trash can",
+              "value": 150
+            },
+            {
+              "query": "car trash bag",
+              "value": 80
+            },
+            {
+              "query": "mini trash can",
+              "value": 70
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "trash can for car",
+              "value": 100
+            },
+            {
+              "query": "best car trash can",
+              "value": 35
+            },
+            {
+              "query": "car trash bag",
+              "value": 17
+            },
+            {
+              "query": "mini trash can",
+              "value": 13
+            },
+            {
+              "query": "car accessories",
+              "value": 8
+            },
+            {
+              "query": "car trash can amazon",
+              "value": 6
+            },
+            {
+              "query": "hotor car trash can",
+              "value": 3
+            },
+            {
+              "query": "diy car trash can",
+              "value": 3
+            }
+          ]
+        },
+        "back seat organizer": {
+          "current": 2,
+          "avg": 0.9,
+          "max": 8,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.028,
+          "acceleration": 1.2,
+          "momentum": 1.1,
+          "last_7": [
+            2,
+            3,
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "slope_7d": -0.071,
+          "slope_14d": -0.022,
+          "slope_30d": 0.061,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "car back seat organizer",
+              "value": 100
+            },
+            {
+              "query": "car organizer",
+              "value": 99
+            }
+          ]
+        }
+      }
+    },
+    "kitchen_gadgets": {
+      "keywords": {
+        "air fryer accessories": {
+          "current": 5,
+          "avg": 3.6,
+          "max": 19,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.043,
+          "acceleration": 2.6,
+          "momentum": 1.4,
+          "last_7": [
+            7,
+            7,
+            5,
+            4,
+            5,
+            4,
+            5
+          ],
+          "slope_7d": -0.429,
+          "slope_14d": 0.057,
+          "slope_30d": -0.051,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": [
+            {
+              "query": "accessories for air fryer",
+              "value": 100
+            },
+            {
+              "query": "air fryer oven accessories",
+              "value": 61
+            },
+            {
+              "query": "ninja accessories",
+              "value": 52
+            },
+            {
+              "query": "ninja air fryer",
+              "value": 50
+            },
+            {
+              "query": "accessories for ninja air fryer",
+              "value": 15
+            },
+            {
+              "query": "emeril lagasse air fryer",
+              "value": 15
+            },
+            {
+              "query": "emeril lagasse air fryer accessories",
+              "value": 14
+            },
+            {
+              "query": "gourmia air fryer",
+              "value": 12
+            },
+            {
+              "query": "gourmia air fryer accessories",
+              "value": 12
+            },
+            {
+              "query": "ninja foodi air fryer accessories",
+              "value": 11
+            }
+          ]
+        },
+        "spice rack organizer": {
+          "current": 4,
+          "avg": 3.6,
+          "max": 22,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.051,
+          "acceleration": 2.4,
+          "momentum": 0.4,
+          "last_7": [
+            7,
+            8,
+            6,
+            6,
+            4,
+            5,
+            4
+          ],
+          "slope_7d": -0.607,
+          "slope_14d": -0.112,
+          "slope_30d": -0.037,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "best spice rack organizer",
+              "value": 130
+            },
+            {
+              "query": "cupboard spice rack organizer",
+              "value": 120
+            },
+            {
+              "query": "over the door spice rack organizer",
+              "value": 50
+            },
+            {
+              "query": "3 tier spice rack organizer",
+              "value": 50
+            },
+            {
+              "query": "door spice rack organizer",
+              "value": 50
+            },
+            {
+              "query": "bamboo spice rack organizer",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "cabinet spice rack organizer",
+              "value": 100
+            },
+            {
+              "query": "spice rack organizer for cabinet",
+              "value": 59
+            },
+            {
+              "query": "door spice rack organizer",
+              "value": 33
+            },
+            {
+              "query": "best spice rack organizer",
+              "value": 31
+            },
+            {
+              "query": "pull out spice rack organizer for cabinet",
+              "value": 14
+            },
+            {
+              "query": "3 tier spice rack organizer",
+              "value": 14
+            },
+            {
+              "query": "bamboo spice rack organizer",
+              "value": 13
+            },
+            {
+              "query": "over the door spice rack organizer",
+              "value": 10
+            },
+            {
+              "query": "cupboard spice rack organizer",
+              "value": 8
+            }
+          ]
+        },
+        "vegetable chopper": {
+          "current": 14,
+          "avg": 19.7,
+          "max": 35,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.11,
+          "acceleration": -5.1,
+          "momentum": -5.7,
+          "last_7": [
+            17,
+            18,
+            14,
+            14,
+            13,
+            14,
+            14
+          ],
+          "slope_7d": -0.643,
+          "slope_14d": 0.057,
+          "slope_30d": -0.268,
+          "momentum_status": "flat",
+          "momentum_score": 10,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "silicone baking mat": {
+          "current": 5,
+          "avg": 7.6,
+          "max": 29,
+          "min": 0,
+          "trend": "stable",
+          "slope": -0.1,
+          "acceleration": -3.0,
+          "momentum": -2.6,
+          "last_7": [
+            7,
+            8,
+            6,
+            5,
+            5,
+            5,
+            5
+          ],
+          "slope_7d": -0.464,
+          "slope_14d": -0.081,
+          "slope_30d": -0.182,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "egg cooker": {
+          "current": 32,
+          "avg": 56.2,
+          "max": 100,
+          "min": 24,
+          "trend": "stable",
+          "slope": -0.198,
+          "acceleration": -10.3,
+          "momentum": -24.2,
+          "last_7": [
+            54,
+            58,
+            45,
+            44,
+            40,
+            38,
+            32
+          ],
+          "slope_7d": -3.964,
+          "slope_14d": -1.095,
+          "slope_30d": -0.689,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "food scale digital": {
+          "current": 7,
+          "avg": 9.8,
+          "max": 49,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.098,
+          "acceleration": 5.6,
+          "momentum": -2.8,
+          "last_7": [
+            10,
+            13,
+            10,
+            9,
+            11,
+            8,
+            7
+          ],
+          "slope_7d": -0.643,
+          "slope_14d": -0.29,
+          "slope_30d": -0.299,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "can opener electric": {
+          "current": 28,
+          "avg": 42.5,
+          "max": 100,
+          "min": 0,
+          "trend": "falling",
+          "slope": -0.415,
+          "acceleration": -16.0,
+          "momentum": -14.5,
+          "last_7": [
+            33,
+            38,
+            27,
+            25,
+            26,
+            26,
+            28
+          ],
+          "slope_7d": -1.429,
+          "slope_14d": -0.921,
+          "slope_30d": 0.008,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "herb garden indoor": {
+          "current": 17,
+          "avg": 6.6,
+          "max": 50,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.066,
+          "acceleration": 4.7,
+          "momentum": 10.4,
+          "last_7": [
+            19,
+            19,
+            15,
+            14,
+            11,
+            12,
+            17
+          ],
+          "slope_7d": -0.857,
+          "slope_14d": -0.385,
+          "slope_30d": 0.383,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [
+            {
+              "query": "hanging herb garden indoor",
+              "value": 110
+            },
+            {
+              "query": "home herb garden indoor",
+              "value": 40
+            }
+          ],
+          "top_queries": [
+            {
+              "query": "home herb garden indoor",
+              "value": 100
+            },
+            {
+              "query": "hanging herb garden indoor",
+              "value": 58
+            },
+            {
+              "query": "wall herb garden indoor",
+              "value": 39
+            },
+            {
+              "query": "vertical herb garden indoor",
+              "value": 35
+            }
+          ]
+        },
+        "ice cube tray silicone": {
+          "current": 0,
+          "avg": 4.2,
+          "max": 67,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.14,
+          "acceleration": 8.4,
+          "momentum": -4.2,
+          "last_7": [
+            7,
+            5,
+            4,
+            4,
+            4,
+            1,
+            0
+          ],
+          "slope_7d": -1.036,
+          "slope_14d": -0.222,
+          "slope_30d": -0.344,
+          "momentum_status": "declining",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        },
+        "oil sprayer bottle": {
+          "current": 0,
+          "avg": 0.5,
+          "max": 5,
+          "min": 0,
+          "trend": "stable",
+          "slope": 0.028,
+          "acceleration": 1.0,
+          "momentum": -0.5,
+          "last_7": [
+            3,
+            3,
+            3,
+            4,
+            3,
+            2,
+            0
+          ],
+          "slope_7d": -0.393,
+          "slope_14d": -0.174,
+          "slope_30d": 0.136,
+          "momentum_status": "decelerating",
+          "momentum_score": 0,
+          "rising_queries": [],
+          "top_queries": []
+        }
+      }
+    }
+  },
+  "hot_products": [
+    {
+      "keyword": "compost bin",
+      "niche": "eco_friendly",
+      "current_interest": 54,
+      "avg_interest": 54.4,
+      "slope": 0.233,
+      "acceleration": 7.3
+    }
+  ],
+  "emerging_products": [],
+  "breakout_products": [],
+  "accelerating_products": [
+    {
+      "keyword": "teeth whitening kit",
+      "niche": "beauty_health",
+      "current_interest": 25,
+      "slope_7d": 0.5,
+      "slope_14d": 0.279,
+      "slope_30d": -0.178,
+      "momentum_score": 65
+    },
+    {
+      "keyword": "ergonomic mouse",
+      "niche": "home_office",
+      "current_interest": 31,
+      "slope_7d": 0.893,
+      "slope_14d": 0.516,
+      "slope_30d": -0.521,
+      "momentum_score": 84
+    }
+  ],
+  "discoveries": [
+    {
+      "query": "what is a smart plug",
+      "growth": 450,
+      "source_keyword": "smart plug",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "what is smart plug",
+      "growth": 350,
+      "source_keyword": "smart plug",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "jennibag",
+      "growth": 661950,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "mayvenn",
+      "growth": 235550,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "how to use aroma diffuser electric",
+      "growth": 36650,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "aroma diffuser life of leisure",
+      "growth": 27850,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "fitcamx",
+      "growth": 16500,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "hotel collection",
+      "growth": 400,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "hotel collection diffuser",
+      "growth": 400,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "aroma360",
+      "growth": 300,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "aroma360 diffuser",
+      "growth": 300,
+      "source_keyword": "aroma diffuser",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "vamvo ultra mini portable projector",
+      "growth": 1150,
+      "source_keyword": "portable projector",
+      "niche": "home_gadgets"
+    },
+    {
+      "query": "true fit posture corrector",
+      "growth": 46200,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "true fit posture corrector reviews",
+      "growth": 24350,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "trufit",
+      "growth": 14550,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "forme power bra",
+      "growth": 3250,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "gearari posture corrector",
+      "growth": 1650,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "truefit",
+      "growth": 450,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "eicgo posture corrector",
+      "growth": 250,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "true fit",
+      "growth": 250,
+      "source_keyword": "posture corrector",
+      "niche": "fitness"
+    },
+    {
+      "query": "vivaspa massage gun",
+      "growth": 10450,
+      "source_keyword": "massage gun",
+      "niche": "fitness"
+    },
+    {
+      "query": "youdgee massage gun",
+      "growth": 350,
+      "source_keyword": "massage gun",
+      "niche": "fitness"
+    },
+    {
+      "query": "everlast hot and cold massage gun",
+      "growth": 350,
+      "source_keyword": "massage gun",
+      "niche": "fitness"
+    },
+    {
+      "query": "massage gun nearby",
+      "growth": 250,
+      "source_keyword": "massage gun",
+      "niche": "fitness"
+    },
+    {
+      "query": "can you gain muscle with resistance bands",
+      "growth": 9350,
+      "source_keyword": "resistance bands",
+      "niche": "fitness"
+    },
+    {
+      "query": "insulation resistance testers unit crossword clue",
+      "growth": 8050,
+      "source_keyword": "resistance bands",
+      "niche": "fitness"
+    },
+    {
+      "query": "moonkissed collective orchid yoga mat",
+      "growth": 6950,
+      "source_keyword": "yoga mat",
+      "niche": "fitness"
+    },
+    {
+      "query": "how to clean a yoga mat",
+      "growth": 750,
+      "source_keyword": "yoga mat",
+      "niche": "fitness"
+    },
+    {
+      "query": "how to clean yoga mat",
+      "growth": 500,
+      "source_keyword": "yoga mat",
+      "niche": "fitness"
+    },
+    {
+      "query": "resident evil pull up bar",
+      "growth": 9450,
+      "source_keyword": "pull up bar",
+      "niche": "fitness"
+    },
+    {
+      "query": "qpets automatic pet feeder",
+      "growth": 1300,
+      "source_keyword": "automatic pet feeder",
+      "niche": "pet_products"
+    },
+    {
+      "query": "automatic cat feeder near me",
+      "growth": 450,
+      "source_keyword": "automatic pet feeder",
+      "niche": "pet_products"
+    },
+    {
+      "query": "petsmart",
+      "growth": 291000,
+      "source_keyword": "pet nail grinder",
+      "niche": "pet_products"
+    },
+    {
+      "query": "oster pet nail grinder",
+      "growth": 400,
+      "source_keyword": "pet nail grinder",
+      "niche": "pet_products"
+    },
+    {
+      "query": "furdozer pet hair remover",
+      "growth": 57900,
+      "source_keyword": "pet hair remover",
+      "niche": "pet_products"
+    },
+    {
+      "query": "pet hair remover brush for clothing or furniture",
+      "growth": 5250,
+      "source_keyword": "pet hair remover",
+      "niche": "pet_products"
+    },
+    {
+      "query": "oxo pet hair remover",
+      "growth": 2900,
+      "source_keyword": "pet hair remover",
+      "niche": "pet_products"
+    },
+    {
+      "query": "jade roller and gua sha set",
+      "growth": 135750,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "jade roller target",
+      "growth": 128300,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "benefits of jade roller on face",
+      "growth": 104150,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "mount lai jade roller",
+      "growth": 32750,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "how to clean a jade roller",
+      "growth": 5900,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "how to properly use a jade roller",
+      "growth": 2600,
+      "source_keyword": "jade roller",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "colgate optic white comfortfit led teeth whitening kit",
+      "growth": 61200,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "purple teeth whitening strips",
+      "growth": 43400,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "best cheap teeth whitening kit",
+      "growth": 21400,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "snow diamond teeth whitening kit reviews",
+      "growth": 12850,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "what's the best teeth whitening kit",
+      "growth": 6800,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "best at home teeth whitening kits",
+      "growth": 1100,
+      "source_keyword": "teeth whitening kit",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "deep clean blackhead remover stick",
+      "growth": 20400,
+      "source_keyword": "blackhead remover",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "luxe eyelash serum",
+      "growth": 2100,
+      "source_keyword": "eyelash serum",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "terez and honor eyelash serum reviews",
+      "growth": 1600,
+      "source_keyword": "eyelash serum",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "luxe lash serum",
+      "growth": 1100,
+      "source_keyword": "eyelash serum",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "olaplex lash serum",
+      "growth": 250,
+      "source_keyword": "eyelash serum",
+      "niche": "beauty_health"
+    },
+    {
+      "query": "best solar lights for garden",
+      "growth": 350,
+      "source_keyword": "solar garden lights",
+      "niche": "eco_friendly"
+    },
+    {
+      "query": "best solar phone charger for backpacking",
+      "growth": 50750,
+      "source_keyword": "solar phone charger",
+      "niche": "eco_friendly"
+    },
+    {
+      "query": "rog aura monitor light bar alb01",
+      "growth": 112900,
+      "source_keyword": "monitor light bar",
+      "niche": "home_office"
+    },
+    {
+      "query": "razer aether monitor light bar",
+      "growth": 350,
+      "source_keyword": "monitor light bar",
+      "niche": "home_office"
+    },
+    {
+      "query": "calpak trunk organizer",
+      "growth": 16900,
+      "source_keyword": "trunk organizer",
+      "niche": "car_accessories"
+    },
+    {
+      "query": "eurow automotive trunk organizer",
+      "growth": 2850,
+      "source_keyword": "trunk organizer",
+      "niche": "car_accessories"
+    },
+    {
+      "query": "gucci steering wheel cover",
+      "growth": 5050,
+      "source_keyword": "steering wheel cover",
+      "niche": "car_accessories"
+    },
+    {
+      "query": "15 inch steering wheel cover",
+      "growth": 350,
+      "source_keyword": "steering wheel cover",
+      "niche": "car_accessories"
+    }
+  ],
+  "new_keywords": [
+    "olaplex lash serum",
+    "what's the best teeth whitening kit",
+    "truefit posture corrector",
+    "forme power bra",
+    "18 inch steering wheel cover",
+    "aroma360 diffuser",
+    "how to use a gua sha",
+    "blogilates resistance bands",
+    "true fit",
+    "fitcamx",
+    "aroma diffuser life of leisure",
+    "luxe lash serum",
+    "comfybrace posture corrector",
+    "insulation resistance testers unit crossword clue",
+    "jade roller near me",
+    "how to clean yoga mat",
+    "anime steering wheel cover",
+    "led solar lights outdoor waterproof",
+    "mount lai jade roller",
+    "luxe eyelash serum",
+    "how to use aroma diffuser electric",
+    "cold jade roller",
+    "best cheap teeth whitening kit",
+    "hotor car trash can",
+    "moonkissed collective orchid yoga mat",
+    "solar phone charger near me",
+    "razer aether monitor light bar",
+    "qpets automatic pet feeder",
+    "dog poop bag holder",
+    "vivaspa massage gun"
+  ]
+}

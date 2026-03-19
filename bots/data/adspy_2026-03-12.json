@@ -1,0 +1,1103 @@
+{
+  "scan_date": "2026-03-12T08:30:02.645384",
+  "facebook": {
+    "keyword_ads": {},
+    "page_activity": {},
+    "trending_ad_products": []
+  },
+  "google": {
+    "keyword_competition": {
+      "portable blender": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "buy portable blender",
+          "cheap hand blender",
+          "what is a portable blender",
+          "what is best portable blender",
+          "best portable blender",
+          "best portable blender for travel",
+          "best portable blender for crushing ice",
+          "cheap portable blender",
+          "best portable blender for protein shakes",
+          "price portable blender",
+          "price portable blender juicer",
+          "cheapest hand blender",
+          "best portable blender for smoothies",
+          "what is the best portable blender on the market"
+        ],
+        "ad_signal_strength": 24
+      },
+      "led strip lights": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "buy led strip lights",
+          "shop led strip lights near me",
+          "best led strip lights for under kitchen cabinets",
+          "price for led strip lights",
+          "cheap led strip lights",
+          "buy led strip lights near me",
+          "price led strip lights 50 meters",
+          "best led strip lights",
+          "price led strip lights",
+          "best led strip lights for ceiling",
+          "cheap led strip lights near me",
+          "best led strip lights for room",
+          "best led strip lights for bedroom"
+        ],
+        "ad_signal_strength": 20
+      },
+      "smart plug": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "buy smart plug nz",
+          "buy wifi plug",
+          "best smart plugs for google home",
+          "cheap smart plugs that work with alexa",
+          "best smart plug for apple homekit",
+          "cheap smart plug home assistant",
+          "cheap smart plugs",
+          "buy smart plug",
+          "best smart plugs",
+          "cheapest smart plug",
+          "best smart plugs for alexa",
+          "buy smart plug near me",
+          "best smart plugs for home assistant",
+          "cheap smart plugs reddit",
+          "buy smart plug online"
+        ],
+        "ad_signal_strength": 30
+      },
+      "posture corrector": {
+        "niche": "fitness",
+        "search_variations": [
+          "where can i buy posture corrector",
+          "best posture corrector for women reddit",
+          "best posture corrector bra for women",
+          "best posture corrector for women",
+          "buy posture corrector belt",
+          "where to buy back posture corrector",
+          "best posture corrector for men",
+          "buy posture corrector near me",
+          "buy posture corrector",
+          "best posture corrector"
+        ],
+        "ad_signal_strength": 15
+      },
+      "massage gun": {
+        "niche": "fitness",
+        "search_variations": [
+          "cheap massage gun",
+          "buy massage gun nz",
+          "cheap massage gun near me",
+          "cheap massage gun reddit",
+          "best massage guns 2025",
+          "cheap massage gun in store",
+          "best massage gun wirecutter",
+          "buy massage gun australia",
+          "buy massage gun online",
+          "cheap massage gun nearby",
+          "best massage gun reddit",
+          "buy massage gun near me",
+          "buy massage gun",
+          "best massage gun on amazon",
+          "best massage gun"
+        ],
+        "ad_signal_strength": 29
+      },
+      "resistance bands": {
+        "niche": "fitness",
+        "search_variations": [
+          "buy resistance bands uk",
+          "best resistance bands for seniors",
+          "best resistance bands for men",
+          "cheapest resistance band",
+          "best resistance bands for women",
+          "buy resistance bands",
+          "buy resistance bands australia",
+          "are cheap resistance bands good",
+          "buy resistance bands nz",
+          "cheap resistance bands",
+          "best resistance bands",
+          "buy resistance bands near me",
+          "best resistance bands for beginners"
+        ],
+        "ad_signal_strength": 23
+      },
+      "dog camera": {
+        "niche": "pet_products",
+        "search_variations": [
+          "buy pet camera",
+          "best dog camera",
+          "cheap pet camera",
+          "best dog camera reddit",
+          "free dog camera",
+          "free dog camera app",
+          "best dog camera for home",
+          "buy furbo dog camera",
+          "best dog camera no subscription",
+          "cheapest dog camera",
+          "best buy dog camera",
+          "buy dog camera",
+          "cheap dog camera",
+          "best dog camera treat dispenser",
+          "buy pet camera near me"
+        ],
+        "ad_signal_strength": 28
+      },
+      "cat water fountain": {
+        "niche": "pet_products",
+        "search_variations": [
+          "buy cat water fountain",
+          "best cat water fountain",
+          "best buy cat water fountain",
+          "do cats need a water fountain",
+          "cheap cat water fountain",
+          "best cat water fountain reddit",
+          "best cat water fountain easy to clean",
+          "what is a good cat water fountain",
+          "best cat water fountain 2025",
+          "do water fountains work for cats",
+          "best cat water fountain stainless steel",
+          "what is best cat water fountain",
+          "how much is a cat water fountain"
+        ],
+        "ad_signal_strength": 21
+      },
+      "pet grooming glove": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best pet grooming gloves for dogs",
+          "how to clean pet grooming gloves",
+          "best pet grooming gloves for cats",
+          "best pet grooming gloves"
+        ],
+        "ad_signal_strength": 4
+      },
+      "car phone mount": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "best car phone mount",
+          "best car phone mount 2025",
+          "best car phone mount charger",
+          "cheapest car phone mount",
+          "car mounts for cell phones",
+          "best car phone mount for thick cases",
+          "cheap car phone mount near me",
+          "best buy car phone mount",
+          "cheap car phone holder",
+          "buy car phone holder",
+          "best car phone mount reddit",
+          "cheap car phone holder nearby",
+          "buy car phone mount",
+          "cheap car phone mount",
+          "buy car phone holder near me"
+        ],
+        "ad_signal_strength": 26
+      },
+      "wireless charger": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheapest wireless charging samsung phone",
+          "cheap wireless charger",
+          "best wireless charger for s26 ultra",
+          "best wireless charger",
+          "best wireless charger for iphone",
+          "best wireless charger for samsung s25 ultra",
+          "buy wireless charger",
+          "buy wireless charger for iphone",
+          "buy wireless charger near me",
+          "buy wireless charger for car",
+          "cheap wireless charger for iphone",
+          "cheapest wireless charging phone",
+          "cheapest wireless charger",
+          "buy wireless charger samsung",
+          "best wireless charger for samsung"
+        ],
+        "ad_signal_strength": 25
+      },
+      "laptop stand": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheap laptop stand for desk",
+          "best laptop stand",
+          "buy laptop stand near me",
+          "cheap laptop stand",
+          "cheap laptop stand reddit",
+          "buy laptop stand for bed",
+          "buy laptop stand online",
+          "best laptop stand for desk",
+          "cheap laptop stand amazon",
+          "best laptop stand for bed",
+          "cheap laptop stand near me",
+          "best laptop stand reddit",
+          "buy laptop stand with fan",
+          "best laptop stand wirecutter",
+          "buy laptop stand"
+        ],
+        "ad_signal_strength": 30
+      },
+      "jade roller": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "where can i buy jade roller",
+          "best jade roller and gua sha",
+          "best jade roller for face",
+          "best jade roller uk",
+          "does jade roller do anything",
+          "cheap jade roller",
+          "best jade roller",
+          "buy jade roller",
+          "can jade roller be used everyday",
+          "wholesale jade roller",
+          "best jade roller and gua sha set"
+        ],
+        "ad_signal_strength": 16
+      },
+      "teeth whitening kit": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "best store bought teeth whitening kit",
+          "best affordable teeth whitening kit",
+          "what is the best whitening teeth kit",
+          "best teeth whitening kit amazon",
+          "what is the best home teeth whitening kit uk",
+          "best teeth whitening kit",
+          "buy teeth whitening kit",
+          "best teeth whitening kit at home",
+          "best teeth whitening kit for sensitive teeth",
+          "buy auraglow teeth whitening kit",
+          "best teeth whitening kit reddit",
+          "buy home teeth whitening kit"
+        ],
+        "ad_signal_strength": 17
+      },
+      "hair growth serum": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "best hair growth serum for black women",
+          "cheap hair growth products",
+          "best hair growth serum",
+          "affordable hair growth serum",
+          "what is a good hair growth serum",
+          "best hair growth serum reddit",
+          "does hair serum grow hair",
+          "cheap hair growth serum",
+          "best hair growth serum for men",
+          "what is best hair growth serum",
+          "is hair growth serum good for hair",
+          "buy hair growth serum",
+          "best hair growth serum for women"
+        ],
+        "ad_signal_strength": 20
+      },
+      "camping hammock": {
+        "niche": "outdoor",
+        "search_variations": [
+          "buy camping hammock",
+          "budget camping hammock reddit",
+          "pros and cons of hammock camping",
+          "best cheap camping hammock",
+          "where to buy camping hammock.near me",
+          "best camping hammock reddit",
+          "budget hammock camping setup",
+          "best camping hammock system",
+          "best camping hammocks 2025",
+          "best camping hammock chair",
+          "cheap camping hammock",
+          "budget camping hammock",
+          "best camping hammock"
+        ],
+        "ad_signal_strength": 21
+      },
+      "solar power bank": {
+        "niche": "outdoor",
+        "search_variations": [
+          "best solar power bank for phone",
+          "best solar power bank for home",
+          "best solar power bank for camping",
+          "buy solar power bank near me",
+          "best buy solar power bank",
+          "cheap solar power bank",
+          "best solar power bank",
+          "cheap solar battery bank",
+          "buy solar battery bank",
+          "best solar power bank for survival",
+          "cheapest solar power bank",
+          "buy solar power bank"
+        ],
+        "ad_signal_strength": 28
+      },
+      "insulated water bottle": {
+        "niche": "outdoor",
+        "search_variations": [
+          "best insulated water bottle reddit",
+          "cheap insulated water bottles",
+          "what is best insulated water bottle",
+          "insulated water bottle companies",
+          "best insulated water bottle without straw",
+          "buy insulated water bottle",
+          "best insulated water bottle for kids",
+          "cheap stainless steel water bottles",
+          "buy insulated water bottle for kids",
+          "best insulated water bottle with straw",
+          "best insulated water bottle",
+          "insulated water bottle price",
+          "buy stainless steel water bottle"
+        ],
+        "ad_signal_strength": 22
+      },
+      "reusable food wrap": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "best reusable.plastic wrap",
+          "best reusable food wrap",
+          "how to make reusable food wraps",
+          "how to make reusable sandwich wraps",
+          "best reusable cling wrap"
+        ],
+        "ad_signal_strength": 5
+      },
+      "bamboo toothbrush": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "are bamboo toothbrushes worth it",
+          "best bamboo toothbrush with natural bristles",
+          "best bamboo toothbrush reddit",
+          "buy bamboo brush",
+          "are bamboo toothbrushes better",
+          "best bamboo toothbrush for kids",
+          "best bamboo toothbrush",
+          "buy bamboo toothbrush",
+          "are bamboo toothbrush good",
+          "best bamboo toothbrush uk",
+          "where can i buy bamboo toothbrush"
+        ],
+        "ad_signal_strength": 19
+      },
+      "solar garden lights": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "buy solar outdoor lights",
+          "which are the best solar lights for garden",
+          "best solar garden lights outdoor",
+          "best solar garden lights",
+          "best solar garden lights uk",
+          "buy solar garden lights",
+          "best solar garden lights reddit",
+          "cheap solar garden lights",
+          "are solar garden lights any good",
+          "cheap solar outdoor lights",
+          "best solar garden lights australia"
+        ],
+        "ad_signal_strength": 22
+      },
+      "desk organizer": {
+        "niche": "home_office",
+        "search_variations": [
+          "buy desktop organizer",
+          "best desk organizer wirecutter",
+          "best desk organizer",
+          "cheap desk organizers near me",
+          "desk organizer price philippines",
+          "buy table organizer",
+          "cheap desk organizers",
+          "best desk organizer for men",
+          "best desk organizer reddit",
+          "best desk organizer 2025",
+          "cheap desk accessories",
+          "cheap desk storage",
+          "buy desk organizer",
+          "diy desk organizer step by step"
+        ],
+        "ad_signal_strength": 26
+      },
+      "monitor light bar": {
+        "niche": "home_office",
+        "search_variations": [
+          "best monitor light bar with webcam",
+          "best monitor light bar for curved monitor",
+          "buy mi computer monitor light bar",
+          "buy monitor light bar",
+          "best monitor light bar 2025",
+          "budget monitor light bar reddit",
+          "monitor light bar buy sri lanka",
+          "best monitor light bar reddit",
+          "best monitor light bar",
+          "budget monitor light bar",
+          "cheap monitor light bar reddit",
+          "cheap monitor light bar",
+          "buy xiaomi monitor light bar",
+          "best buy monitor light bar"
+        ],
+        "ad_signal_strength": 30
+      },
+      "ergonomic mouse": {
+        "niche": "home_office",
+        "search_variations": [
+          "buy ergonomic mouse near me",
+          "best ergonomic mouse for work",
+          "best ergonomic mouse for mac",
+          "best ergonomic mouse and keyboard",
+          "best buy ergonomic mouse",
+          "best buy ergonomic mouse and keyboard",
+          "budget ergonomic mouse",
+          "best ergonomic mouse",
+          "buy vertical mouse",
+          "cheap ergonomic mouse",
+          "best cheap ergonomic mouse",
+          "cheap ergonomic mouse reddit",
+          "cheap vertical mouse",
+          "best ergonomic mouse pad",
+          "buy ergonomic mouse"
+        ],
+        "ad_signal_strength": 27
+      },
+      "car vacuum cleaner": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "buy car vacuum cleaner",
+          "cheap car vacuum cleaner",
+          "best car vacuum cleaner",
+          "best car vacuum cleaner cordless",
+          "vacuum cleaner near me for cars",
+          "cheap handheld vacuum cleaner",
+          "cheap handheld carpet cleaner",
+          "best car vacuum cleaner 2025",
+          "best car vacuum cleaner portable",
+          "best car vacuum cleaner reddit",
+          "buy handheld vacuum cleaner"
+        ],
+        "ad_signal_strength": 26
+      },
+      "dash cam": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "best dash cam for car",
+          "buy dash cam for car",
+          "cheap dash cam",
+          "best dash cam front and rear",
+          "best dash cam 2025",
+          "best dash cam 2026",
+          "cheap dash cam for car",
+          "buy dash cam ireland",
+          "buy dash cam near me",
+          "cheap dash cam reddit",
+          "cheap dash cam installation near me",
+          "best dash cam",
+          "buy dash cam",
+          "cheap dash cam front and rear",
+          "buy dash cam australia"
+        ],
+        "ad_signal_strength": 30
+      },
+      "seat gap filler": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "best seat gap filler",
+          "best seat gap filler strip",
+          "buy car seat gap filler",
+          "best seat gap filler for rav4",
+          "diy seat gap filler",
+          "seat gap filler near me",
+          "best seat gap filler for jeep wrangler",
+          "drop stop seat gap filler reviews",
+          "where to buy seat gap filler",
+          "best seat gap filler for car"
+        ],
+        "ad_signal_strength": 16
+      },
+      "air fryer accessories": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "best air fryer accessories reddit",
+          "buy air fryer accessories",
+          "best air fryer accessories",
+          "best air fryer accessories uk",
+          "buy ninja air fryer accessories",
+          "best air fryer accessories argos",
+          "do you need accessories for air fryer",
+          "best air fryer accessories kmart"
+        ],
+        "ad_signal_strength": 13
+      },
+      "spice rack organizer": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "best spice rack organizer for cabinet",
+          "spice rack near me",
+          "best spice rack organizer",
+          "best spice rack organizer reddit",
+          "are spice racks worth it",
+          "spice rack price",
+          "cheap spice rack organizer",
+          "best spice drawer organizer",
+          "what spices come in a spice rack",
+          "best spice shelf organizer"
+        ],
+        "ad_signal_strength": 16
+      },
+      "vegetable chopper": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "best vegetable chopper 2025",
+          "best vegetable chopper amazon",
+          "best vegetable chopper electric",
+          "what is a good vegetable chopper",
+          "best vegetable chopper dicer",
+          "what is the best vegetable chopper to buy",
+          "top 10 vegetable chopper",
+          "best vegetable chopper",
+          "where to buy vegetable slicer",
+          "cheap vegetable chopper",
+          "buy vegetable chopper",
+          "which brand is best for vegetable chopper"
+        ],
+        "ad_signal_strength": 17
+      }
+    },
+    "top_advertised_products": [
+      {
+        "keyword": "smart plug",
+        "niche": "home_gadgets",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "laptop stand",
+        "niche": "tech_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "monitor light bar",
+        "niche": "home_office",
+        "signal_strength": 30,
+        "variations": 14
+      },
+      {
+        "keyword": "dash cam",
+        "niche": "car_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "massage gun",
+        "niche": "fitness",
+        "signal_strength": 29,
+        "variations": 15
+      },
+      {
+        "keyword": "dog camera",
+        "niche": "pet_products",
+        "signal_strength": 28,
+        "variations": 15
+      },
+      {
+        "keyword": "solar power bank",
+        "niche": "outdoor",
+        "signal_strength": 28,
+        "variations": 12
+      },
+      {
+        "keyword": "ergonomic mouse",
+        "niche": "home_office",
+        "signal_strength": 27,
+        "variations": 15
+      },
+      {
+        "keyword": "car phone mount",
+        "niche": "tech_accessories",
+        "signal_strength": 26,
+        "variations": 15
+      },
+      {
+        "keyword": "desk organizer",
+        "niche": "home_office",
+        "signal_strength": 26,
+        "variations": 14
+      },
+      {
+        "keyword": "car vacuum cleaner",
+        "niche": "car_accessories",
+        "signal_strength": 26,
+        "variations": 11
+      },
+      {
+        "keyword": "wireless charger",
+        "niche": "tech_accessories",
+        "signal_strength": 25,
+        "variations": 15
+      },
+      {
+        "keyword": "portable blender",
+        "niche": "home_gadgets",
+        "signal_strength": 24,
+        "variations": 14
+      },
+      {
+        "keyword": "resistance bands",
+        "niche": "fitness",
+        "signal_strength": 23,
+        "variations": 13
+      },
+      {
+        "keyword": "insulated water bottle",
+        "niche": "outdoor",
+        "signal_strength": 22,
+        "variations": 13
+      },
+      {
+        "keyword": "solar garden lights",
+        "niche": "eco_friendly",
+        "signal_strength": 22,
+        "variations": 11
+      },
+      {
+        "keyword": "cat water fountain",
+        "niche": "pet_products",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "camping hammock",
+        "niche": "outdoor",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "led strip lights",
+        "niche": "home_gadgets",
+        "signal_strength": 20,
+        "variations": 13
+      },
+      {
+        "keyword": "hair growth serum",
+        "niche": "beauty_health",
+        "signal_strength": 20,
+        "variations": 13
+      },
+      {
+        "keyword": "bamboo toothbrush",
+        "niche": "eco_friendly",
+        "signal_strength": 19,
+        "variations": 11
+      },
+      {
+        "keyword": "teeth whitening kit",
+        "niche": "beauty_health",
+        "signal_strength": 17,
+        "variations": 12
+      },
+      {
+        "keyword": "vegetable chopper",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 17,
+        "variations": 12
+      },
+      {
+        "keyword": "jade roller",
+        "niche": "beauty_health",
+        "signal_strength": 16,
+        "variations": 11
+      },
+      {
+        "keyword": "seat gap filler",
+        "niche": "car_accessories",
+        "signal_strength": 16,
+        "variations": 10
+      },
+      {
+        "keyword": "spice rack organizer",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 16,
+        "variations": 10
+      },
+      {
+        "keyword": "posture corrector",
+        "niche": "fitness",
+        "signal_strength": 15,
+        "variations": 10
+      },
+      {
+        "keyword": "air fryer accessories",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 13,
+        "variations": 8
+      }
+    ]
+  },
+  "amazon_sponsored": [
+    {
+      "title": "Elefor Massage Gun Deep Tissue,Percussion Back Massager Gun for Athletes Muscle Massage Gun for Pain Relief with 8 Massa",
+      "asin": "B09JBCSC7H",
+      "price_usd": 26.99,
+      "rating": 4.4,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B09JBCSC7H"
+    },
+    {
+      "title": "Massage Gun, Muscle Massage Gun for Athletes Handheld Electric Deep Tissue Back Massager, Percussion Massage Device for ",
+      "asin": "B09P1DV7D8",
+      "price_usd": 25.99,
+      "rating": 4.2,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B09P1DV7D8"
+    },
+    {
+      "title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads & ",
+      "asin": "B083L8RNJR",
+      "price_usd": 39.99,
+      "rating": 4.4,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B083L8RNJR"
+    },
+    {
+      "title": "Massage Gun Deep Tissue, Handheld Electric Muscle Massager, High Intensity Percussion Massage Device for Pain Relief wit",
+      "asin": "B08TLWYKLS",
+      "price_usd": 26.99,
+      "rating": 4.2,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B08TLWYKLS"
+    },
+    {
+      "title": "Sharper Image Deep Tissue Percussion Massage Gun, Powerboost Rechargeable Handheld Massager, 6 Adjustable Speeds, 5 Atta",
+      "asin": "B0CD8V6MM6",
+      "price_usd": 71.99,
+      "rating": 4.2,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0CD8V6MM6"
+    },
+    {
+      "title": "NAPRE Foldable Massage Gun with Extension Handle & 5 Adjustable Angles,Deep Tissue Back Massage for Neck/Body Pain Relie",
+      "asin": "B0G6K8M14B",
+      "price_usd": 79.99,
+      "rating": 4.7,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0G6K8M14B"
+    },
+    {
+      "title": "Sharper Image Powerboost Move 2.0 - Mini Percussion Massage Gun| 4 Attachments, 4 Speeds| Portable Full Body Back & Shou",
+      "asin": "B0D9ZK32SY",
+      "price_usd": 84.99,
+      "rating": 4.6,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D9ZK32SY"
+    },
+    {
+      "title": "Mini Massage Gun, Powerful Fascial Gun Portable Deep Tissue Percussion Muscle Back Head Massager for Pain Relief with 4 ",
+      "asin": "B08SBYHYJV",
+      "price_usd": 43.69,
+      "rating": 4.4,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B08SBYHYJV"
+    },
+    {
+      "title": "Mebak 3 Massage Gun, Massage Gun Deep Tissue for Athletes, Professional Muscle Percussion Massager, Massager for Shoulde",
+      "asin": "B083BY3B2T",
+      "price_usd": 99.99,
+      "rating": 4.7,
+      "search_keyword": "massage gun",
+      "niche": "fitness",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B083BY3B2T"
+    },
+    {
+      "title": "Stainless Steel Cat Water Fountain: 88oz/2.6L Ultra Quiet Pet Fountain with Flower Kitty Spout & LED Blue Light Water Di",
+      "asin": "B0F2T6CXKT",
+      "price_usd": 19.97,
+      "rating": 4.5,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0F2T6CXKT"
+    },
+    {
+      "title": "Cat Water Fountain: 108oz/3.2L Cat Fountain Super Silent Pet Drinking Dispenser - Water Fountains for Kitty Indoor - Qui",
+      "asin": "B0CMXHH1CP",
+      "price_usd": 18.87,
+      "rating": 4.3,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0CMXHH1CP"
+    },
+    {
+      "title": "Stainless Steel Cat Water Fountain, 2.8L with 20dB Ultra-Quiet Pump- Ideal for Timid Pets, LED Water Level Window, Dishw",
+      "asin": "B0FF48X5N8",
+      "price_usd": 19.98,
+      "rating": 4.4,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FF48X5N8"
+    },
+    {
+      "title": "Stainless Steel Cat Water Fountain: Pet Fountains Indoor Metal Automatic Dispenser Cat Waterer Bowls Dog Faucet Bottle P",
+      "asin": "B0CP7DTFQ2",
+      "price_usd": 18.99,
+      "rating": 4.2,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0CP7DTFQ2"
+    },
+    {
+      "title": "PETLIBRO Cat Water Fountain, Cat Fountain Indoor Stainless Steel Tray, 2.5L/84oz Wireless Pump Pet Water Fountain, Cat W",
+      "asin": "B0F32Z6V7L",
+      "price_usd": 47.87,
+      "rating": 4.1,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0F32Z6V7L"
+    },
+    {
+      "title": "Cordless Cat Water Fountain : [Visual Filter] & [Heavy-Duty Stainless Steel] 3.2L/108oz, FEELNEEDY- Premium, Durable Des",
+      "asin": "B0F9WQGMH7",
+      "price_usd": 37.98,
+      "rating": 4.5,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0F9WQGMH7"
+    },
+    {
+      "title": "Cat Water Fountain with Dual Filtration System, 2.5L/84oz Pet Water Fountain for Cats Inside, Cat Fountain for Drinking ",
+      "asin": "B0FY36QBZ6",
+      "price_usd": 15.99,
+      "rating": 4.5,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FY36QBZ6"
+    },
+    {
+      "title": "Veken Cat Water Fountain with Detachable Tank, Easy to Clean & Assemble, 84oz/2.5L Pet Drinking Dispenser with Quiet Ope",
+      "asin": "B0DZWWPGDN",
+      "price_usd": 18.98,
+      "rating": 4.4,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0DZWWPGDN"
+    },
+    {
+      "title": "Cat Water Fountain,74oz/2.2L Cat Fountain Stainless Steel for Drinking Indoor,Ultra Quiet Pet Water Dispenser for Cat& S",
+      "asin": "B0FKT14D68",
+      "price_usd": 16.99,
+      "rating": 4.4,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FKT14D68"
+    },
+    {
+      "title": "Catit PIXI Drinking Fountain \u2013 Cat Water Fountain with Triple Filter and Ergonomic Drinking Options, White",
+      "asin": "B095PZ8ZXZ",
+      "price_usd": 39.99,
+      "rating": 4.1,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B095PZ8ZXZ"
+    },
+    {
+      "title": "Miracase Phone Holders for Your Car with Metal Hook Clip, Air Vent Cell Phone Stand Car Mount, Universal Automobile Crad",
+      "asin": "B0CHYBKQPM",
+      "price_usd": 12.34,
+      "rating": 4.4,
+      "search_keyword": "car phone mount",
+      "niche": "tech_accessories",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0CHYBKQPM"
+    },
+    {
+      "title": "ANDERY Car Phone Holder for MagSafe [360\u00b0 Adjustable Memory Alloy Arm | 2400gf Strongest Magnetic Power] Bendable Car Mo",
+      "asin": "B0FXGR5J3B",
+      "price_usd": 28.99,
+      "rating": 4.6,
+      "search_keyword": "car phone mount",
+      "niche": "tech_accessories",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FXGR5J3B"
+    },
+    {
+      "title": "Phone Holders for Your Car: [Never Blocking] Air Vent Cell Phones Mount for iPhone 17 Pro Max & Samsung Android Smartpho",
+      "asin": "B0C289T5KK",
+      "price_usd": 16.99,
+      "rating": 4.4,
+      "search_keyword": "car phone mount",
+      "niche": "tech_accessories",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0C289T5KK"
+    }
+  ],
+  "intelligence": [
+    {
+      "keyword": "massage gun",
+      "ad_score": 40,
+      "signal_count": 2,
+      "signals": [
+        "google_ads_competitive",
+        "amazon_sponsored"
+      ],
+      "details": {
+        "google_signal": 29,
+        "amazon_sponsored_count": 9,
+        "top_sponsored": [
+          {
+            "title": "Elefor Massage Gun Deep Tissue,Percussion Back Massager Gun for Athletes Muscle Massage Gun for Pain Relief with 8 Massa",
+            "asin": "B09JBCSC7H",
+            "price_usd": 26.99,
+            "rating": 4.4,
+            "search_keyword": "massage gun",
+            "niche": "fitness",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B09JBCSC7H"
+          },
+          {
+            "title": "Massage Gun, Muscle Massage Gun for Athletes Handheld Electric Deep Tissue Back Massager, Percussion Massage Device for ",
+            "asin": "B09P1DV7D8",
+            "price_usd": 25.99,
+            "rating": 4.2,
+            "search_keyword": "massage gun",
+            "niche": "fitness",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B09P1DV7D8"
+          },
+          {
+            "title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads & ",
+            "asin": "B083L8RNJR",
+            "price_usd": 39.99,
+            "rating": 4.4,
+            "search_keyword": "massage gun",
+            "niche": "fitness",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B083L8RNJR"
+          }
+        ]
+      },
+      "recommendation": "BUY"
+    },
+    {
+      "keyword": "cat water fountain",
+      "ad_score": 40,
+      "signal_count": 2,
+      "signals": [
+        "google_ads_competitive",
+        "amazon_sponsored"
+      ],
+      "details": {
+        "google_signal": 21,
+        "amazon_sponsored_count": 10,
+        "top_sponsored": [
+          {
+            "title": "Stainless Steel Cat Water Fountain: 88oz/2.6L Ultra Quiet Pet Fountain with Flower Kitty Spout & LED Blue Light Water Di",
+            "asin": "B0F2T6CXKT",
+            "price_usd": 19.97,
+            "rating": 4.5,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0F2T6CXKT"
+          },
+          {
+            "title": "Cat Water Fountain: 108oz/3.2L Cat Fountain Super Silent Pet Drinking Dispenser - Water Fountains for Kitty Indoor - Qui",
+            "asin": "B0CMXHH1CP",
+            "price_usd": 18.87,
+            "rating": 4.3,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0CMXHH1CP"
+          },
+          {
+            "title": "Stainless Steel Cat Water Fountain, 2.8L with 20dB Ultra-Quiet Pump- Ideal for Timid Pets, LED Water Level Window, Dishw",
+            "asin": "B0FF48X5N8",
+            "price_usd": 19.98,
+            "rating": 4.4,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0FF48X5N8"
+          }
+        ]
+      },
+      "recommendation": "BUY"
+    },
+    {
+      "keyword": "car phone mount",
+      "ad_score": 40,
+      "signal_count": 2,
+      "signals": [
+        "google_ads_competitive",
+        "amazon_sponsored"
+      ],
+      "details": {
+        "google_signal": 26,
+        "amazon_sponsored_count": 3,
+        "top_sponsored": [
+          {
+            "title": "Miracase Phone Holders for Your Car with Metal Hook Clip, Air Vent Cell Phone Stand Car Mount, Universal Automobile Crad",
+            "asin": "B0CHYBKQPM",
+            "price_usd": 12.34,
+            "rating": 4.4,
+            "search_keyword": "car phone mount",
+            "niche": "tech_accessories",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0CHYBKQPM"
+          },
+          {
+            "title": "ANDERY Car Phone Holder for MagSafe [360\u00b0 Adjustable Memory Alloy Arm | 2400gf Strongest Magnetic Power] Bendable Car Mo",
+            "asin": "B0FXGR5J3B",
+            "price_usd": 28.99,
+            "rating": 4.6,
+            "search_keyword": "car phone mount",
+            "niche": "tech_accessories",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0FXGR5J3B"
+          },
+          {
+            "title": "Phone Holders for Your Car: [Never Blocking] Air Vent Cell Phones Mount for iPhone 17 Pro Max & Samsung Android Smartpho",
+            "asin": "B0C289T5KK",
+            "price_usd": 16.99,
+            "rating": 4.4,
+            "search_keyword": "car phone mount",
+            "niche": "tech_accessories",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0C289T5KK"
+          }
+        ]
+      },
+      "recommendation": "BUY"
+    }
+  ],
+  "stats": {
+    "fb_keywords_checked": 0,
+    "fb_pages_monitored": 0,
+    "fb_trending_products": 0,
+    "google_keywords_analyzed": 30,
+    "google_top_advertised": 28,
+    "amazon_sponsored_found": 22,
+    "intelligence_total": 3,
+    "strong_buys": 0,
+    "buys": 3,
+    "watches": 0
+  }
+}

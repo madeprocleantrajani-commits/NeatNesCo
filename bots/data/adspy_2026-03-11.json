@@ -1,0 +1,1121 @@
+{
+  "scan_date": "2026-03-11T08:30:01.961531",
+  "facebook": {
+    "keyword_ads": {},
+    "page_activity": {},
+    "trending_ad_products": []
+  },
+  "google": {
+    "keyword_competition": {
+      "portable blender": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "best portable blender for crushing ice",
+          "price portable blender",
+          "cheap portable blender",
+          "best portable blender for smoothies",
+          "what is a portable blender",
+          "cheap hand blender",
+          "buy portable blender",
+          "what is best portable blender",
+          "best portable blender for travel",
+          "what is the best portable blender on the market",
+          "best portable blender for protein shakes",
+          "cheapest hand blender",
+          "price portable blender juicer",
+          "best portable blender"
+        ],
+        "ad_signal_strength": 24
+      },
+      "led strip lights": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "best led strip lights",
+          "cheap led strip lights",
+          "price led strip lights 50 meters",
+          "price for led strip lights",
+          "cheap led strip lights near me",
+          "best led strip lights for ceiling",
+          "best led strip lights for room",
+          "best led strip lights for under kitchen cabinets",
+          "price led strip lights",
+          "buy led strip lights",
+          "buy led strip lights near me",
+          "best led strip lights for bedroom",
+          "shop led strip lights near me"
+        ],
+        "ad_signal_strength": 20
+      },
+      "smart plug": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "buy smart plug nz",
+          "buy smart plug near me",
+          "cheapest smart plug",
+          "cheap smart plugs",
+          "best smart plugs for alexa",
+          "best smart plugs for home assistant",
+          "best smart plugs for google home",
+          "buy wifi plug",
+          "best smart plugs",
+          "cheap smart plug home assistant",
+          "best smart plug for apple homekit",
+          "cheap smart plugs reddit",
+          "buy smart plug online",
+          "buy smart plug",
+          "cheap smart plugs that work with alexa"
+        ],
+        "ad_signal_strength": 30
+      },
+      "posture corrector": {
+        "niche": "fitness",
+        "search_variations": [
+          "best posture corrector for women reddit",
+          "where to buy back posture corrector",
+          "buy posture corrector belt",
+          "best posture corrector bra for women",
+          "where can i buy posture corrector",
+          "best posture corrector for women",
+          "buy posture corrector near me",
+          "best posture corrector for men",
+          "buy posture corrector",
+          "best posture corrector"
+        ],
+        "ad_signal_strength": 15
+      },
+      "massage gun": {
+        "niche": "fitness",
+        "search_variations": [
+          "best massage gun reddit",
+          "cheap massage gun nearby",
+          "cheap massage gun",
+          "best massage gun wirecutter",
+          "best massage gun",
+          "best massage gun on amazon",
+          "buy massage gun online",
+          "cheap massage gun near me",
+          "buy massage gun nz",
+          "best massage guns 2025",
+          "buy massage gun near me",
+          "cheap massage gun in store",
+          "buy massage gun",
+          "cheap massage gun reddit",
+          "buy massage gun australia"
+        ],
+        "ad_signal_strength": 29
+      },
+      "resistance bands": {
+        "niche": "fitness",
+        "search_variations": [
+          "cheap resistance bands",
+          "best resistance bands for beginners",
+          "are cheap resistance bands good",
+          "cheapest resistance band",
+          "buy resistance bands australia",
+          "best resistance bands",
+          "buy resistance bands nz",
+          "best resistance bands for women",
+          "best resistance bands for men",
+          "best resistance bands for seniors",
+          "buy resistance bands uk",
+          "buy resistance bands near me",
+          "buy resistance bands"
+        ],
+        "ad_signal_strength": 23
+      },
+      "dog camera": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best dog camera no subscription",
+          "best dog camera",
+          "cheap dog camera",
+          "free dog camera app",
+          "cheap pet camera",
+          "buy pet camera",
+          "buy furbo dog camera",
+          "best dog camera for home",
+          "cheapest dog camera",
+          "free dog camera",
+          "buy dog camera",
+          "best buy dog camera",
+          "buy pet camera near me",
+          "best dog camera reddit",
+          "best dog camera treat dispenser"
+        ],
+        "ad_signal_strength": 28
+      },
+      "cat water fountain": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best cat water fountain reddit",
+          "best cat water fountain easy to clean",
+          "best cat water fountain",
+          "how much is a cat water fountain",
+          "best cat water fountain stainless steel",
+          "cheap cat water fountain",
+          "what is a good cat water fountain",
+          "what is best cat water fountain",
+          "buy cat water fountain",
+          "best buy cat water fountain",
+          "best cat water fountain 2025",
+          "do water fountains work for cats",
+          "do cats need a water fountain"
+        ],
+        "ad_signal_strength": 21
+      },
+      "pet grooming glove": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best pet grooming gloves for cats",
+          "best pet grooming gloves",
+          "best pet grooming gloves for dogs",
+          "how to clean pet grooming gloves"
+        ],
+        "ad_signal_strength": 4
+      },
+      "car phone mount": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheapest car phone mount",
+          "best car phone mount reddit",
+          "best car phone mount 2025",
+          "cheap car phone holder",
+          "best buy car phone mount",
+          "cheap car phone mount near me",
+          "buy car phone holder",
+          "buy car phone holder near me",
+          "best car phone mount for thick cases",
+          "car mounts for cell phones",
+          "best car phone mount",
+          "cheap car phone mount",
+          "buy car phone mount",
+          "best car phone mount charger",
+          "cheap car phone holder nearby"
+        ],
+        "ad_signal_strength": 26
+      },
+      "wireless charger": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheapest wireless charging phone",
+          "buy wireless charger for iphone",
+          "buy wireless charger for car",
+          "best wireless charger for samsung",
+          "cheap wireless charger",
+          "best wireless charger",
+          "cheapest wireless charging samsung phone",
+          "buy wireless charger samsung",
+          "best wireless charger for iphone",
+          "best wireless charger wirecutter",
+          "cheapest wireless charger",
+          "best wireless charger for samsung s25 ultra",
+          "buy wireless charger near me",
+          "cheap wireless charger for iphone",
+          "buy wireless charger"
+        ],
+        "ad_signal_strength": 25
+      },
+      "laptop stand": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheap laptop stand",
+          "buy laptop stand with fan",
+          "buy laptop stand online",
+          "best laptop stand for desk",
+          "buy laptop stand for bed",
+          "buy laptop stand near me",
+          "buy laptop stand",
+          "cheap laptop stand for desk",
+          "cheap laptop stand near me",
+          "cheap laptop stand reddit",
+          "best laptop stand reddit",
+          "best laptop stand wirecutter",
+          "cheap laptop stand amazon",
+          "best laptop stand",
+          "best laptop stand for bed"
+        ],
+        "ad_signal_strength": 30
+      },
+      "jade roller": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "buy jade roller",
+          "best jade roller uk",
+          "cheap jade roller",
+          "best jade roller and gua sha set",
+          "wholesale jade roller",
+          "where can i buy jade roller",
+          "best jade roller",
+          "best jade roller and gua sha",
+          "does jade roller do anything",
+          "best jade roller for face",
+          "can jade roller be used everyday"
+        ],
+        "ad_signal_strength": 16
+      },
+      "teeth whitening kit": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "best affordable teeth whitening kit",
+          "what is the best home teeth whitening kit uk",
+          "best teeth whitening kit at home",
+          "buy home teeth whitening kit",
+          "buy teeth whitening kit",
+          "buy auraglow teeth whitening kit",
+          "best store bought teeth whitening kit",
+          "what is the best whitening teeth kit",
+          "best teeth whitening kit reddit",
+          "best teeth whitening kit for sensitive teeth",
+          "best teeth whitening kit",
+          "best teeth whitening kit amazon"
+        ],
+        "ad_signal_strength": 17
+      },
+      "hair growth serum": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "buy hair growth serum",
+          "what is best hair growth serum",
+          "cheap hair growth products",
+          "is hair growth serum good for hair",
+          "affordable hair growth serum",
+          "does hair serum grow hair",
+          "cheap hair growth serum",
+          "what is a good hair growth serum",
+          "best hair growth serum for men",
+          "best hair growth serum reddit",
+          "best hair growth serum for women",
+          "best hair growth serum for black women",
+          "best hair growth serum"
+        ],
+        "ad_signal_strength": 20
+      },
+      "camping hammock": {
+        "niche": "outdoor",
+        "search_variations": [
+          "best camping hammock",
+          "best camping hammocks 2025",
+          "best camping hammock system",
+          "buy camping hammock",
+          "pros and cons of hammock camping",
+          "cheap camping hammock",
+          "budget camping hammock reddit",
+          "best cheap camping hammock",
+          "budget hammock camping setup",
+          "best camping hammock reddit",
+          "best camping hammock chair",
+          "where to buy camping hammock.near me",
+          "budget camping hammock"
+        ],
+        "ad_signal_strength": 21
+      },
+      "solar power bank": {
+        "niche": "outdoor",
+        "search_variations": [
+          "cheap solar power bank",
+          "buy solar battery bank",
+          "best solar power bank for camping",
+          "buy solar power bank near me",
+          "best solar power bank for home",
+          "best buy solar power bank",
+          "best solar power bank",
+          "best solar power bank for phone",
+          "cheap solar battery bank",
+          "buy solar power bank",
+          "best solar power bank for survival",
+          "cheapest solar power bank"
+        ],
+        "ad_signal_strength": 28
+      },
+      "insulated water bottle": {
+        "niche": "outdoor",
+        "search_variations": [
+          "best insulated water bottle",
+          "best insulated water bottle for kids",
+          "buy stainless steel water bottle",
+          "best insulated water bottle without straw",
+          "cheap insulated water bottles",
+          "cheap stainless steel water bottles",
+          "insulated water bottle price",
+          "best insulated water bottle reddit",
+          "buy insulated water bottle for kids",
+          "buy insulated water bottle",
+          "insulated water bottle companies",
+          "best insulated water bottle with straw",
+          "what is best insulated water bottle"
+        ],
+        "ad_signal_strength": 22
+      },
+      "reusable food wrap": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "best reusable food wrap",
+          "best reusable cling wrap",
+          "how to make reusable food wraps",
+          "how to make reusable sandwich wraps",
+          "best reusable.plastic wrap"
+        ],
+        "ad_signal_strength": 5
+      },
+      "bamboo toothbrush": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "best bamboo toothbrush uk",
+          "where can i buy bamboo toothbrush",
+          "best bamboo toothbrush",
+          "best bamboo toothbrush reddit",
+          "are bamboo toothbrushes worth it",
+          "best bamboo toothbrush with natural bristles",
+          "best bamboo toothbrush for kids",
+          "are bamboo toothbrushes better",
+          "buy bamboo brush",
+          "buy bamboo toothbrush",
+          "are bamboo toothbrush good"
+        ],
+        "ad_signal_strength": 19
+      },
+      "solar garden lights": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "are solar garden lights any good",
+          "best solar garden lights uk",
+          "cheap solar garden lights",
+          "best solar garden lights reddit",
+          "cheap solar outdoor lights",
+          "best solar garden lights",
+          "buy solar garden lights",
+          "best solar garden lights outdoor",
+          "best solar garden lights australia",
+          "which are the best solar lights for garden",
+          "buy solar outdoor lights"
+        ],
+        "ad_signal_strength": 22
+      },
+      "desk organizer": {
+        "niche": "home_office",
+        "search_variations": [
+          "best desk organizer",
+          "best desk organizer reddit",
+          "desk organizer price philippines",
+          "cheap desk storage",
+          "buy desk organizer",
+          "cheap desk accessories",
+          "cheap desk organizers near me",
+          "diy desk organizer step by step",
+          "best desk organizer for men",
+          "cheap desk organizers",
+          "buy table organizer",
+          "best desk organizer 2025",
+          "best desk organizer wirecutter",
+          "buy desktop organizer"
+        ],
+        "ad_signal_strength": 26
+      },
+      "monitor light bar": {
+        "niche": "home_office",
+        "search_variations": [
+          "monitor light bar buy sri lanka",
+          "buy xiaomi monitor light bar",
+          "best buy monitor light bar",
+          "best monitor light bar 2025",
+          "buy monitor light bar",
+          "budget monitor light bar",
+          "buy mi computer monitor light bar",
+          "best monitor light bar reddit",
+          "best monitor light bar for curved monitor",
+          "best monitor light bar with webcam",
+          "budget monitor light bar reddit",
+          "cheap monitor light bar",
+          "cheap monitor light bar reddit",
+          "best monitor light bar"
+        ],
+        "ad_signal_strength": 30
+      },
+      "ergonomic mouse": {
+        "niche": "home_office",
+        "search_variations": [
+          "best buy ergonomic mouse",
+          "best buy ergonomic mouse and keyboard",
+          "cheap ergonomic mouse reddit",
+          "best cheap ergonomic mouse",
+          "buy ergonomic mouse",
+          "budget ergonomic mouse",
+          "buy ergonomic mouse near me",
+          "best ergonomic mouse and keyboard",
+          "best ergonomic mouse",
+          "best ergonomic mouse pad",
+          "cheap ergonomic mouse",
+          "best ergonomic mouse for mac",
+          "best ergonomic mouse for work",
+          "cheap vertical mouse",
+          "buy vertical mouse"
+        ],
+        "ad_signal_strength": 27
+      },
+      "car vacuum cleaner": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "buy car vacuum cleaner",
+          "best car vacuum cleaner cordless",
+          "best car vacuum cleaner",
+          "cheap handheld vacuum cleaner",
+          "vacuum cleaner near me for cars",
+          "best car vacuum cleaner reddit",
+          "cheap car vacuum cleaner",
+          "best car vacuum cleaner portable",
+          "cheap handheld carpet cleaner",
+          "best car vacuum cleaner 2025",
+          "buy handheld vacuum cleaner"
+        ],
+        "ad_signal_strength": 26
+      },
+      "dash cam": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "buy dash cam for car",
+          "best dash cam front and rear",
+          "cheap dash cam installation near me",
+          "best dash cam",
+          "best dash cam for car",
+          "cheap dash cam reddit",
+          "best dash cam 2026",
+          "buy dash cam",
+          "cheap dash cam front and rear",
+          "buy dash cam australia",
+          "buy dash cam near me",
+          "buy dash cam ireland",
+          "best dash cam 2025",
+          "cheap dash cam",
+          "cheap dash cam for car"
+        ],
+        "ad_signal_strength": 30
+      },
+      "seat gap filler": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "seat gap filler near me",
+          "diy seat gap filler",
+          "buy car seat gap filler",
+          "best seat gap filler strip",
+          "drop stop seat gap filler reviews",
+          "best seat gap filler for jeep wrangler",
+          "best seat gap filler for rav4",
+          "best seat gap filler",
+          "best seat gap filler for car",
+          "where to buy seat gap filler"
+        ],
+        "ad_signal_strength": 16
+      },
+      "air fryer accessories": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "buy ninja air fryer accessories",
+          "best air fryer accessories uk",
+          "buy air fryer accessories",
+          "best air fryer accessories argos",
+          "do you need accessories for air fryer",
+          "best air fryer accessories",
+          "best air fryer accessories kmart",
+          "best air fryer accessories reddit"
+        ],
+        "ad_signal_strength": 13
+      },
+      "spice rack organizer": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "cheap spice rack organizer",
+          "what spices come in a spice rack",
+          "best spice shelf organizer",
+          "best spice rack organizer for cabinet",
+          "best spice rack organizer",
+          "spice rack price",
+          "spice rack near me",
+          "best spice rack organizer reddit",
+          "are spice racks worth it",
+          "best spice drawer organizer"
+        ],
+        "ad_signal_strength": 16
+      },
+      "vegetable chopper": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "best vegetable chopper amazon",
+          "best vegetable chopper",
+          "cheap vegetable chopper",
+          "what is the best vegetable chopper to buy",
+          "top 10 vegetable chopper",
+          "best vegetable chopper electric",
+          "what is a good vegetable chopper",
+          "where to buy vegetable slicer",
+          "which brand is best for vegetable chopper",
+          "buy vegetable chopper",
+          "best vegetable chopper dicer",
+          "best vegetable chopper 2025"
+        ],
+        "ad_signal_strength": 17
+      }
+    },
+    "top_advertised_products": [
+      {
+        "keyword": "smart plug",
+        "niche": "home_gadgets",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "laptop stand",
+        "niche": "tech_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "monitor light bar",
+        "niche": "home_office",
+        "signal_strength": 30,
+        "variations": 14
+      },
+      {
+        "keyword": "dash cam",
+        "niche": "car_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "massage gun",
+        "niche": "fitness",
+        "signal_strength": 29,
+        "variations": 15
+      },
+      {
+        "keyword": "dog camera",
+        "niche": "pet_products",
+        "signal_strength": 28,
+        "variations": 15
+      },
+      {
+        "keyword": "solar power bank",
+        "niche": "outdoor",
+        "signal_strength": 28,
+        "variations": 12
+      },
+      {
+        "keyword": "ergonomic mouse",
+        "niche": "home_office",
+        "signal_strength": 27,
+        "variations": 15
+      },
+      {
+        "keyword": "car phone mount",
+        "niche": "tech_accessories",
+        "signal_strength": 26,
+        "variations": 15
+      },
+      {
+        "keyword": "desk organizer",
+        "niche": "home_office",
+        "signal_strength": 26,
+        "variations": 14
+      },
+      {
+        "keyword": "car vacuum cleaner",
+        "niche": "car_accessories",
+        "signal_strength": 26,
+        "variations": 11
+      },
+      {
+        "keyword": "wireless charger",
+        "niche": "tech_accessories",
+        "signal_strength": 25,
+        "variations": 15
+      },
+      {
+        "keyword": "portable blender",
+        "niche": "home_gadgets",
+        "signal_strength": 24,
+        "variations": 14
+      },
+      {
+        "keyword": "resistance bands",
+        "niche": "fitness",
+        "signal_strength": 23,
+        "variations": 13
+      },
+      {
+        "keyword": "insulated water bottle",
+        "niche": "outdoor",
+        "signal_strength": 22,
+        "variations": 13
+      },
+      {
+        "keyword": "solar garden lights",
+        "niche": "eco_friendly",
+        "signal_strength": 22,
+        "variations": 11
+      },
+      {
+        "keyword": "cat water fountain",
+        "niche": "pet_products",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "camping hammock",
+        "niche": "outdoor",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "led strip lights",
+        "niche": "home_gadgets",
+        "signal_strength": 20,
+        "variations": 13
+      },
+      {
+        "keyword": "hair growth serum",
+        "niche": "beauty_health",
+        "signal_strength": 20,
+        "variations": 13
+      },
+      {
+        "keyword": "bamboo toothbrush",
+        "niche": "eco_friendly",
+        "signal_strength": 19,
+        "variations": 11
+      },
+      {
+        "keyword": "teeth whitening kit",
+        "niche": "beauty_health",
+        "signal_strength": 17,
+        "variations": 12
+      },
+      {
+        "keyword": "vegetable chopper",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 17,
+        "variations": 12
+      },
+      {
+        "keyword": "jade roller",
+        "niche": "beauty_health",
+        "signal_strength": 16,
+        "variations": 11
+      },
+      {
+        "keyword": "seat gap filler",
+        "niche": "car_accessories",
+        "signal_strength": 16,
+        "variations": 10
+      },
+      {
+        "keyword": "spice rack organizer",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 16,
+        "variations": 10
+      },
+      {
+        "keyword": "posture corrector",
+        "niche": "fitness",
+        "signal_strength": 15,
+        "variations": 10
+      },
+      {
+        "keyword": "air fryer accessories",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 13,
+        "variations": 8
+      }
+    ]
+  },
+  "amazon_sponsored": [
+    {
+      "title": "RGB LED Strip Light, AC 110-120V Flexible/Waterproof/Multi Colors/Multi-Modes Function/Dimmable SMD5050 LED Rope Light w",
+      "asin": "B077TTF522",
+      "price_usd": 86.28,
+      "rating": 3.9,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B077TTF522"
+    },
+    {
+      "title": "13ft/4M Led Vanity Mirror Lights Kit Bendable NO Need to Cut Vanity Make-up Mirror Cloakroom Adjustable Flexible Strip L",
+      "asin": "B08XTGQ4ZX",
+      "price_usd": 14.99,
+      "rating": 4.6,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B08XTGQ4ZX"
+    },
+    {
+      "title": "Smart IC RGB Strip Lights, 100FT LED Lights Multiple Colors on One Line, App+Remote Control, Timing, Multimodal, Music S",
+      "asin": "B0GCC7L8CM",
+      "price_usd": 42.99,
+      "rating": 4.6,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0GCC7L8CM"
+    },
+    {
+      "title": "Neon Rope Lights, 50FT RGB LED Strip Lights, Waterproof IP67 LED Lights for Bedroom, DIY Design, Music Sync, 44 Key Remo",
+      "asin": "B0D79426VM",
+      "price_usd": 38.99,
+      "rating": 4.4,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D79426VM"
+    },
+    {
+      "title": "120V COB LED Rope Lights 16.4FT Outdoor LED Strip Lights Waterproof Daylight White 6000K Super Bright Flexible LED Tape ",
+      "asin": "B0D2XQ8KW5",
+      "price_usd": 24.69,
+      "rating": 4.1,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D2XQ8KW5"
+    },
+    {
+      "title": "Warm White 12\" LED Strip Light Kit 311310",
+      "asin": "B0D6S3G3J7",
+      "price_usd": 29.99,
+      "rating": 4.5,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D6S3G3J7"
+    },
+    {
+      "title": "V4light Top-Emitting Silicone Linear LED Strip Light, 16.4ft, 2700K\u20136500K, CRI90+, Dot-Free & Dimmable, 12V Low Voltage,",
+      "asin": "B0G6KW8WPC",
+      "price_usd": 82.99,
+      "rating": 4.8,
+      "search_keyword": "led strip lights",
+      "niche": "home_gadgets",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0G6KW8WPC"
+    },
+    {
+      "title": "ODSD Cat Water Fountain, App Monitoring Wastewater Separation & No Filter Cotton, Pet Water Fountain with 101oz/3L Large",
+      "asin": "B0GPVR3RBB",
+      "price_usd": 69.99,
+      "rating": 5.0,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0GPVR3RBB"
+    },
+    {
+      "title": "iPettie Tritone Ceramic Cat Water Fountain, Heavy-Duty Waterer for Pets, 2.1 Liters / 2.2 Quart Filtered Water Purifier ",
+      "asin": "B0727WXT7M",
+      "price_usd": 57.99,
+      "rating": 4.4,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0727WXT7M"
+    },
+    {
+      "title": "Brook Glass Pet Fountain (90oz/2.7L) \u2013 Cat & Dog Water Fountain \u2013 Glass Cat Fountain & Automatic Water Dispenser for Dri",
+      "asin": "B0D5DP2V53",
+      "price_usd": 89.95,
+      "rating": 4.7,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D5DP2V53"
+    },
+    {
+      "title": "Cat Water Fountain Stainless Steel: 108oz/3.2L Cat Fountain for Drinking- Pet Water Fountain Inside - Automatic Dog Wate",
+      "asin": "B0C9JPHRD5",
+      "price_usd": 28.49,
+      "rating": 4.5,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0C9JPHRD5"
+    },
+    {
+      "title": "ORSDA Cat Water Fountain Stainless Steel, 2L Pet Fountain for Cats Inside, Dog Water Dispenser, Automatic Cat Drinking F",
+      "asin": "B08D8JKPLL",
+      "price_usd": 18.99,
+      "rating": 4.2,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B08D8JKPLL"
+    },
+    {
+      "title": "Stainless Steel Cat Water Fountain Wireless for Cats Indoor, 3.6L/123oz Automatic Metal Dog Water Dispenser,Cordless Bat",
+      "asin": "B0DGLJQJYY",
+      "price_usd": 37.98,
+      "rating": 4.4,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0DGLJQJYY"
+    },
+    {
+      "title": "PETLIBRO Stainless Steel Cat Water Fountain, 101oz/3L Pet Water Fountain for Cats Inside, Food-Grade Dog Water Fountain,",
+      "asin": "B0D12NQBC8",
+      "price_usd": 27.98,
+      "rating": 4.0,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D12NQBC8"
+    },
+    {
+      "title": "Wireless Cat Water Fountain with Stainless Steel Tray, 84oz/2.5L Pet Water Fountain for Cats Inside, Cat Fountain for Dr",
+      "asin": "B0G4VYH8S6",
+      "price_usd": 25.99,
+      "rating": 4.9,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0G4VYH8S6"
+    },
+    {
+      "title": "Cat Water Fountain, 4L/135OZ Stainless Steel Pet Fountain Dog Water Dispenser Bowl Cat Drinking Fountains Watering Suppl",
+      "asin": "B0DZX9GSTY",
+      "price_usd": 29.99,
+      "rating": 4.3,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0DZX9GSTY"
+    },
+    {
+      "title": "Tomxcute Glass Cat Water Fountain - 108oz/3.2L Ultra-Quiet Cat Fountain for Drinking, Elegant Easy to Clean Glass Pet Wa",
+      "asin": "B0FH14LPWG",
+      "price_usd": 69.99,
+      "rating": 4.5,
+      "search_keyword": "cat water fountain",
+      "niche": "pet_products",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FH14LPWG"
+    },
+    {
+      "title": "Hotel Collection Studio Pro Essential Oil Diffuser - 600 sq ft Coverage, Wired & Portable with Remote - Cold-Air Diffusi",
+      "asin": "B0D7WBM79L",
+      "price_usd": 49.99,
+      "rating": 2.9,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0D7WBM79L"
+    },
+    {
+      "title": "Diffuserlove Fireplace Essential Oil Diffuser Flame Aromatherapy Scent Diffuser Oil Machine Cool Mist Humidifier Colorfu",
+      "asin": "B0FZTF5NRP",
+      "price_usd": 35.99,
+      "rating": 4.5,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FZTF5NRP"
+    },
+    {
+      "title": "Essential Oil Diffuser, 7-Color Fireplace Fire Flame Aromatherapy Humidifier, 280ml Ultrasonic Aroma Diffuser Valentine'",
+      "asin": "B0FVX255NP",
+      "price_usd": 26.99,
+      "rating": 4.2,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FVX255NP"
+    },
+    {
+      "title": "Waterless Essential Oil Diffuser 3000 Sq.Ft Coverage for Large Home Hotel Office, 400ml Cold Air Scent Machine for Aroma",
+      "asin": "B0FLCZRFJL",
+      "price_usd": 56.96,
+      "rating": 4.4,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0FLCZRFJL"
+    },
+    {
+      "title": "120ML Essential Oil Diffuser, 3D Glass Aromatherapy Diffuser with Auto Shut-Off and 7 Color LED Lights, Ultrasonic Mist ",
+      "asin": "B0DBVW6JRM",
+      "price_usd": 23.69,
+      "rating": 4.3,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0DBVW6JRM"
+    },
+    {
+      "title": "JCLOUD Plug in Diffuser for Essential Oils, Waterless Scent Diffuser Cover Up to 500 Sq. Ft. for Home, Office, Spa \u2013 Por",
+      "asin": "B0DNCMY9DT",
+      "price_usd": 59.48,
+      "rating": 4.6,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0DNCMY9DT"
+    },
+    {
+      "title": "Colorful Flame Air Aroma Diffuser Humidifier, Upgraded 7 Flame Colors Noiseless Essential Oil Diffuser for Home,Office,Y",
+      "asin": "B0B4NN6ZK2",
+      "price_usd": 19.99,
+      "rating": 4.0,
+      "search_keyword": "essential oil diffuser",
+      "niche": "beauty_health",
+      "source": "amazon_sponsored",
+      "url": "https://www.amazon.com/dp/B0B4NN6ZK2"
+    }
+  ],
+  "intelligence": [
+    {
+      "keyword": "led strip lights",
+      "ad_score": 40,
+      "signal_count": 2,
+      "signals": [
+        "google_ads_competitive",
+        "amazon_sponsored"
+      ],
+      "details": {
+        "google_signal": 20,
+        "amazon_sponsored_count": 7,
+        "top_sponsored": [
+          {
+            "title": "RGB LED Strip Light, AC 110-120V Flexible/Waterproof/Multi Colors/Multi-Modes Function/Dimmable SMD5050 LED Rope Light w",
+            "asin": "B077TTF522",
+            "price_usd": 86.28,
+            "rating": 3.9,
+            "search_keyword": "led strip lights",
+            "niche": "home_gadgets",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B077TTF522"
+          },
+          {
+            "title": "13ft/4M Led Vanity Mirror Lights Kit Bendable NO Need to Cut Vanity Make-up Mirror Cloakroom Adjustable Flexible Strip L",
+            "asin": "B08XTGQ4ZX",
+            "price_usd": 14.99,
+            "rating": 4.6,
+            "search_keyword": "led strip lights",
+            "niche": "home_gadgets",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B08XTGQ4ZX"
+          },
+          {
+            "title": "Smart IC RGB Strip Lights, 100FT LED Lights Multiple Colors on One Line, App+Remote Control, Timing, Multimodal, Music S",
+            "asin": "B0GCC7L8CM",
+            "price_usd": 42.99,
+            "rating": 4.6,
+            "search_keyword": "led strip lights",
+            "niche": "home_gadgets",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0GCC7L8CM"
+          }
+        ]
+      },
+      "recommendation": "BUY"
+    },
+    {
+      "keyword": "cat water fountain",
+      "ad_score": 40,
+      "signal_count": 2,
+      "signals": [
+        "google_ads_competitive",
+        "amazon_sponsored"
+      ],
+      "details": {
+        "google_signal": 21,
+        "amazon_sponsored_count": 10,
+        "top_sponsored": [
+          {
+            "title": "ODSD Cat Water Fountain, App Monitoring Wastewater Separation & No Filter Cotton, Pet Water Fountain with 101oz/3L Large",
+            "asin": "B0GPVR3RBB",
+            "price_usd": 69.99,
+            "rating": 5.0,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0GPVR3RBB"
+          },
+          {
+            "title": "iPettie Tritone Ceramic Cat Water Fountain, Heavy-Duty Waterer for Pets, 2.1 Liters / 2.2 Quart Filtered Water Purifier ",
+            "asin": "B0727WXT7M",
+            "price_usd": 57.99,
+            "rating": 4.4,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0727WXT7M"
+          },
+          {
+            "title": "Brook Glass Pet Fountain (90oz/2.7L) \u2013 Cat & Dog Water Fountain \u2013 Glass Cat Fountain & Automatic Water Dispenser for Dri",
+            "asin": "B0D5DP2V53",
+            "price_usd": 89.95,
+            "rating": 4.7,
+            "search_keyword": "cat water fountain",
+            "niche": "pet_products",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0D5DP2V53"
+          }
+        ]
+      },
+      "recommendation": "BUY"
+    },
+    {
+      "keyword": "essential oil diffuser",
+      "ad_score": 25,
+      "signal_count": 1,
+      "signals": [
+        "amazon_sponsored"
+      ],
+      "details": {
+        "amazon_sponsored_count": 7,
+        "top_sponsored": [
+          {
+            "title": "Hotel Collection Studio Pro Essential Oil Diffuser - 600 sq ft Coverage, Wired & Portable with Remote - Cold-Air Diffusi",
+            "asin": "B0D7WBM79L",
+            "price_usd": 49.99,
+            "rating": 2.9,
+            "search_keyword": "essential oil diffuser",
+            "niche": "beauty_health",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0D7WBM79L"
+          },
+          {
+            "title": "Diffuserlove Fireplace Essential Oil Diffuser Flame Aromatherapy Scent Diffuser Oil Machine Cool Mist Humidifier Colorfu",
+            "asin": "B0FZTF5NRP",
+            "price_usd": 35.99,
+            "rating": 4.5,
+            "search_keyword": "essential oil diffuser",
+            "niche": "beauty_health",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0FZTF5NRP"
+          },
+          {
+            "title": "Essential Oil Diffuser, 7-Color Fireplace Fire Flame Aromatherapy Humidifier, 280ml Ultrasonic Aroma Diffuser Valentine'",
+            "asin": "B0FVX255NP",
+            "price_usd": 26.99,
+            "rating": 4.2,
+            "search_keyword": "essential oil diffuser",
+            "niche": "beauty_health",
+            "source": "amazon_sponsored",
+            "url": "https://www.amazon.com/dp/B0FVX255NP"
+          }
+        ]
+      },
+      "recommendation": "WATCH"
+    }
+  ],
+  "stats": {
+    "fb_keywords_checked": 0,
+    "fb_pages_monitored": 0,
+    "fb_trending_products": 0,
+    "google_keywords_analyzed": 30,
+    "google_top_advertised": 28,
+    "amazon_sponsored_found": 24,
+    "intelligence_total": 3,
+    "strong_buys": 0,
+    "buys": 2,
+    "watches": 1
+  }
+}

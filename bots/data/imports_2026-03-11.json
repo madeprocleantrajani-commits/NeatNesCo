@@ -1,0 +1,100 @@
+{
+  "date": "2026-03-11",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14972661006708,
+      "title": "HydroJug Traveler - 32 oz Water Bottle with Handle & Flip Straw",
+      "original_title": "HydroJug Traveler - 32 oz Water Bottle with Handle & Flip Straw - Fits in Cup Ho",
+      "price": "30.99",
+      "compare_at": "39.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 60.3,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-11T11:00:03.895061"
+    },
+    {
+      "shopify_id": 14972661039476,
+      "title": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Cur...",
+      "original_title": "Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner wi",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.9,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-11T11:00:05.614088"
+    },
+    {
+      "shopify_id": 14972661072244,
+      "title": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with Hi...",
+      "original_title": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Hold",
+      "price": "12.99",
+      "compare_at": "15.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.9,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-11T11:00:07.730137"
+    },
+    {
+      "shopify_id": 14972661105012,
+      "title": "INABA Churu Cat Treats",
+      "original_title": "INABA Churu Cat Treats, Grain-Free, Lickable, Squeezable Creamy Pur\u00e9e Cat Treat/",
+      "price": "29.99",
+      "compare_at": "37.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-11T11:00:09.508708"
+    },
+    {
+      "shopify_id": 14972661137780,
+      "title": "Neutrogena Makeup Remover Wipes Micellar Alcohol-Free Face Towelett...",
+      "original_title": "Neutrogena Makeup Remover Wipes Micellar Alcohol-Free Face Towelettes Remove Wat",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.5,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-11T11:00:11.240695"
+    }
+  ],
+  "failed": [],
+  "total_history": 10
+}

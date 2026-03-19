@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-14",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14986847551860,
+      "title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active...",
+      "original_title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancel",
+      "price": "109.99",
+      "compare_at": "139.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 59.6,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "competitor_sells"
+      ],
+      "niche": "electronics",
+      "imported_at": "2026-03-14T11:00:04.065841"
+    },
+    {
+      "shopify_id": 14986847584628,
+      "title": "Zulay Kitchen Powerful Milk Frother Wand With 2 Duracell Batteries ...",
+      "original_title": "Zulay Kitchen Powerful Milk Frother Wand With 2 Duracell Batteries - Ultra Fast ",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 58.2,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-14T11:00:05.910595"
+    },
+    {
+      "shopify_id": 14986847617396,
+      "title": "High Pressure Rain Shower Head: Upgrade Shower Heads with Handheld ...",
+      "original_title": "High Pressure Rain Shower Head: Upgrade Shower Heads with Handheld Spray Combo w",
+      "price": "42.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 57.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-14T11:00:07.570196"
+    },
+    {
+      "shopify_id": 14986847650164,
+      "title": "NOCO GENIUS1: 1A 6V/12V Smart Battery Charger \u2013 Automatic Maintaine...",
+      "original_title": "NOCO GENIUS1: 1A 6V/12V Smart Battery Charger \u2013 Automatic Maintainer, Trickle Ch",
+      "price": "26.99",
+      "compare_at": "33.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 56.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "automotive",
+      "imported_at": "2026-03-14T11:00:09.493781"
+    },
+    {
+      "shopify_id": 14986847682932,
+      "title": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking \u2013 2 in 1 ...",
+      "original_title": "TrendPlain 16oz/470ml Glass Olive Oil Sprayer for Cooking \u2013 2 in 1 Olive Oil Dis",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 54.8,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-14T11:00:11.162393"
+    }
+  ],
+  "failed": [],
+  "total_history": 24
+}

@@ -1,0 +1,392 @@
+
+╔══════════════════════════════════════════════════════════╗
+║               DROPSHIP INTELLIGENCE REPORT               ║
+║                        2026-03-08                        ║
+║                     Signal Pilot v4                      ║
+╚══════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────
+  DATA SOURCES (3/7 active)
+────────────────────────────────────────────────────────────
+
+  ✓ Amazon BSR         259 products, 79 movers              ★ excellent
+  ✗ Amazon Demand      0 suggestions, 0 discoveries         ✗ offline
+  ✗ eBay Sold          0 sold items, 0 keywords             ✗ offline
+  ✓ Google Trends      1 hot, 66 discoveries                ◐ partial
+  ✓ AliExpress         96 products                          ★ excellent
+  ✗ Competitors        0 stores                             ✗ offline
+  ✗ Price Monitor      0 tracked                            ✗ offline
+
+────────────────────────────────────────────────────────────
+  CROSS-SOURCE MATCHES (31 multi-signal products)
+────────────────────────────────────────────────────────────
+
+  #1  [2 signals ●●○○○○]  Owala FreeSip Insulated Stainless Steel… [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #1 sports  $29.97
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #2  [2 signals ●●○○○○]  Drift Car Air Freshener - Wood Air Fres…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #1 automotive  $12.95
+      ⚠ RISK: SATURATED
+
+  #3  [2 signals ●●○○○○]  Owala FreeSip Insulated Stainless Steel… [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #2 home-kitchen  $29.97
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #4  [2 signals ●●○○○○]  MCGOR 10inch Under Cabinet Lighting, 2 …
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #2 tools  $15.99
+      ⚠ RISK: SATURATED
+
+  #5  [2 signals ●●○○○○]  Kaistyle for Magsafe Car Mount【20 Stron…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #2 automotive  $9.99
+      ⚠ RISK: SATURATED
+
+  #6  [2 signals ●●○○○○]  Apple AirPods 4 Wireless Earbuds, Bluet… [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #3 electronics  $119.00
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #7  [2 signals ●●○○○○]  Owala FreeSip Sway Insulated Stainless … [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #4 sports  $44.99
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #8  [2 signals ●●○○○○]  Neutrogena Makeup Remover Wipes Micella… [BRAND]
+      Signals: amazon_bestseller + amazon_mover
+      Amazon #4 beauty  $9.97
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #9  [2 signals ●●○○○○]  Amazon Basics High Density Foam Roller [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #5 sports  $15.15
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #10 [2 signals ●●○○○○]  Fit Simplify Resistance Loop Exercise B…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #6 sports  $9.98
+      ⚠ RISK: SATURATED
+
+  #11 [2 signals ●●○○○○]  Earth Rated Poop Bags for Dogs, Guarant…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #6 pet-supplies  $13.99
+      ⚠ RISK: SATURATED
+
+  #12 [2 signals ●●○○○○]  Apple AirPods Pro 3 Wireless Earbuds, A… [BRAND]
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #7 electronics  $219.00
+      ⚠ RISK: BRAND-GATED, SATURATED
+
+  #13 [2 signals ●●○○○○]  TrendPlain 16oz/470ml Glass Olive Oil S…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #7 kitchen  $8.99
+      ⚠ RISK: SATURATED
+
+  #14 [2 signals ●●○○○○]  HydroJug Traveler - 32 oz Water Bottle …
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #8 kitchen  $34.99
+      ⚠ RISK: SATURATED
+
+  #15 [2 signals ●●○○○○]  YARRAMATE 16oz/470ml Glass Olive Oil Sp…
+      Signals: amazon_bestseller + seed_keyword
+      Amazon #9 kitchen  $8.99
+      ⚠ RISK: SATURATED
+
+────────────────────────────────────────────────────────────
+  AMAZON BEST SELLERS (physical products only)
+────────────────────────────────────────────────────────────
+
+  Price Distribution (258 products, USD):
+    <$10      69  █████░░░░░░░░░░░░░░░  27%
+    $10-25   111  ████████░░░░░░░░░░░░  43%
+    $25-50    54  ████░░░░░░░░░░░░░░░░  21%
+    $50-100   16  █░░░░░░░░░░░░░░░░░░░  6%
+    >$100      8  ░░░░░░░░░░░░░░░░░░░░  3%
+    Avg: $26.80  |  Median: $16.98
+
+  ┌─ ELECTRONICS (25 products)
+  │  Avg: $74.51  │  Range: $8.99–$329.00  │  Rating: 4.6/5
+  │
+  │  #2         Apple EarPods Headphones with USB-… [B]    $16.14  ★4.6 (27,413)
+  │  #3         Apple AirPods 4 Wireless Earbuds, … [B]   $119.00  ★4.5 (43,234)
+  │  #4         Apple AirTag (2nd Generation): Tra… [B]    $29.00  ★4.6 (669)
+  │  #6         Amazon Fire TV Stick 4K Plus (newe…    $49.99  ★4.7 (104,834)
+  │  #7         Apple AirPods Pro 3 Wireless Earbu… [B]   $219.00  ★4.4 (6,574)
+  └─
+
+  ┌─ HOME & KITCHEN (30 products)
+  │  Avg: $23.64  │  Range: $2.63–$129.99  │  Rating: 4.6/5
+  │
+  │  #1         Queen Size 4 Piece Sheet Set - Com…    $24.99  ★4.5 (429,326)
+  │  #2         Owala FreeSip Insulated Stainless … [B]    $29.97  ★4.7 (112,151)
+  │  #3         upsimples 11x14 Picture Frame, Dis…     $7.99  ★4.5 (36,684)
+  │  #4         Barossa Design Plastic Shower Line…     $8.95  ★4.5 (93,321)
+  │  #5         Amazon Basics Slim Velvet Non-Slip… [B]    $20.99  ★4.8 (227,119)
+  └─
+
+  ┌─ SPORTS (30 products)
+  │  Avg: $22.43  │  Range: $8.99–$99.99  │  Rating: 4.6/5
+  │
+  │  #1         Owala FreeSip Insulated Stainless … [B]    $29.97  ★4.7 (112,151)
+  │  #2         Amazon Basics Neoprene Dumbbell Ha… [B]     $9.44  ★4.8 (124,156)
+  │  #3         ZELUS Weighted Vest, 6lb/8lb/12lb/…    $28.98  ★4.5 (14,648)
+  │  #4         Owala FreeSip Sway Insulated Stain… [B]    $44.99  ★4.7 (5,277)
+  │  #5         Amazon Basics High Density Foam Ro… [B]    $15.15  ★4.6 (112,779)
+  └─
+
+  ┌─ BEAUTY (30 products)
+  │  Avg: $16.61  │  Range: $2.91–$88.00  │  Rating: 4.6/5
+  │
+  │  #1         eos Shea Better Body Lotion Vanill… [B]     $9.97  ★4.7 (65,206)
+  │  #2         medicube Toner Pads Zero Pore Pad … [B]    $18.90  ★4.6 (19,229)
+  │  #3         Amazon Basics Double-Tipped Cotton… [B]     $2.91  ★4.7 (71,424)
+  │  #4   ↑1    Neutrogena Makeup Remover Wipes Mi… [B]     $9.97  ★4.8 (117,457)
+  │  #5   ↓1    Mighty Patch Original Patch from H…    $12.99  ★4.6 (182,027)
+  └─
+
+  ┌─ PET & SUPPLIES (30 products)
+  │  Avg: $19.12  │  Range: $4.98–$67.98  │  Rating: 4.7/5
+  │
+  │  #1         Amazon Basics Leak-Proof Dog and P… [B]    $17.20  ★4.4 (222,037)
+  │  #2         Dr. Elsey's Ultra UnScented Clumpi…    $22.99  ★4.3 (93,782)
+  │  #3         ARM & HAMMER Clump & Seal SLIDE Pl… [B]    $20.03  ★4.6 (94,374)
+  │  #4         Fresh Step Clumping Cat Litter, Mu…     $9.54  ★4.6 (92,970)
+  │  #5         Greenies Pill Pockets for Dogs Lar…    $17.69  ★4.8 (33,205)
+  └─
+
+  ┌─ TOOLS (28 products)
+  │  Avg: $30.16  │  Range: $6.49–$99.99  │  Rating: 4.6/5
+  │
+  │  #2         MCGOR 10inch Under Cabinet Lightin…    $15.99  ★4.5 (51,473)
+  │  #3         Ring Battery Doorbell (newest mode…    $99.99  ★4.6 (44,344)
+  │  #4         Filterbuy 20x20x1 Air Filter MERV …    $29.96  ★4.7 (155,717)
+  │  #5         GE XWFE Refrigerator Water Filter,…    $49.79  ★4.5 (39,548)
+  │  #6         everydrop by Whirlpool Ice and Wat… [B]    $57.00  ★4.7 (107,101)
+  └─
+
+  ┌─ KITCHEN (27 products)
+  │  Avg: $15.83  │  Range: $3.99–$35.00  │  Rating: 4.6/5
+  │
+  │  #4   ↑26   bella 2 Slice Slim Toaster, Fits-a…    $24.98  ★4.3 (12,378)
+  │  #5   NEW   Owala SmoothSip Slider Insulated S… [B]    $24.99  ★4.6 (10,684)
+  │  #6   ↑20   0.5 Sec Instant Read Meat Thermome…     $9.98  ★4.8 (4,777)
+  │  #7   NEW   TrendPlain 16oz/470ml Glass Olive …     $8.99  ★4.5 (33,900)
+  │  #8   NEW   HydroJug Traveler - 32 oz Water Bo…    $34.99  ★4.5 (18,194)
+  └─
+
+  ┌─ GARDEN (0 products)
+  │  Avg: $0.00  │  Range:   N/A  –  N/A    │  Rating: 0.0/5
+  │
+  └─
+
+  ┌─ BABY (30 products)
+  │  Avg: $25.70  │  Range: $4.69–$59.77  │  Rating: 4.7/5
+  │
+  │  #1   NEW   Pampers Swaddlers Diapers, Size 5 … [B]    $59.77  ★4.8 (129,912)
+  │  #2   NEW   Huggies Natural Care Sensitive Bab… [B]    $21.99  ★4.8 (121,211)
+  │  #3   NEW   Huggies Size Newborn Diapers, Litt… [B]     $9.94  ★4.8 (87,998)
+  │  #4   NEW   Pampers Sensitive Baby Wipes, Wate… [B]    $29.94  ★4.8 (238,205)
+  │  #5   NEW   The Honest Company Hypoallergenic …    $44.99  ★4.8 (55,338)
+  └─
+
+  ┌─ AUTOMOTIVE (29 products)
+  │  Avg: $19.97  │  Range: $5.01–$99.95  │  Rating: 4.5/5
+  │
+  │  #1   NEW   Drift Car Air Freshener - Wood Air…    $12.95  ★3.8 (17,233)
+  │  #2   NEW   Kaistyle for Magsafe Car Mount【20 …     $9.99  ★4.5 (25,697)
+  │  #3   NEW   USANOOKS Microfiber Cleaning Cloth…     $6.98  ★4.6 (19,187)
+  │  #4   NEW   Valvoline Advanced Full Synthetic …    $26.97  ★4.8 (9,738)
+  │  #5   NEW   Rain-X 810363 Repellency Water Rep…    $35.80  ★4.3 (286)
+  └─
+
+  BSR RISING (8 products climbing in rank):
+    ↑  5 ranks  #26→#21  Blink Video Doorbell (newest model) –…  $59.99
+    ↑  4 ranks  #17→#13  BISSELL Little Green Multi-Purpose Po…  $129.99
+    ↑  3 ranks  #18→#15  STANLEY Quencher H2.0 Tumbler with Ha…    N/A  
+    ↑  4 ranks  #17→#13  Dragon Shield | Standard Size Card Ma…  $12.15
+    ↑  3 ranks  #23→#20  Amazon Basics Rubber Hex Dumbbell Han…  $19.99
+    ↑  3 ranks  #26→#23  Good ‘n’ Fun Triple Flavor Kabobs Che…  $15.69
+    ↑ 26 ranks  #30→#4  bella 2 Slice Slim Toaster, Fits-anyw…  $24.98
+    ↑ 20 ranks  #26→#6  0.5 Sec Instant Read Meat Thermometer…  $9.98
+
+  MOVERS & SHAKERS (79 trending):
+    ↑ [electronics ]  SANSUI Computer Monitor 24 inch Eye Car…    N/A  
+    ↑ [electronics ]  SANSUI 24 Inch Curved 160Hz Gaming Moni…    N/A  
+    ↑ [electronics ]  SANSUI 22 Inch 120Hz Monitor, FHD Compu…    N/A  
+    ↑ [electronics ]  Air Tracker Tags-2 Pack, Bluetooth Trac… [B]    N/A  
+    ↑ [electronics ]  E-YEEGER Dash Cam Front and Rear, 2.5K …    N/A  
+    ↑ [electronics ]  Portable Bluetooth Speaker Beach Vacati…    N/A  
+    ↑ [electronics ]  Wireless Earbuds, Bluetooth 5.4 Headpho…    N/A  
+    ↑ [electronics ]  Bose QuietComfort Ultra Bluetooth Headp… [B]    N/A  
+    ↑ [electronics ]  Midland® - ER10VP Weather Radio with Fl…    N/A  
+    ↑ [electronics ]  True Wireless Earbuds Bluetooth Headpho…    N/A  
+    ↑ [electronics ]  Power Strip Surge Protector with USB C …    N/A  
+    ↑ [electronics ]  Amazon Echo Pop (newest model), Our sma…    N/A  
+    ↑ [electronics ]  sajawass Wireless Earbuds Headphones Bl…    N/A  
+    ↑ [electronics ]  JcBlaon Outlet Extender Surge Protector…    N/A  
+    ↑ [electronics ]  Pipishell TV Wall Mount for 26-74 inch …    N/A  
+
+  DROPSHIP CANDIDATES (87 found  │  $15-$80 + ★4.0+ + non-brand)
+
+    SCORE      #  PRODUCT                           PRICE     ★  REVIEWS  RISK
+    ────────────────────────────────────────────────────────────────────────────────
+    █░░░░ 30  #9   400 Card Sleeves Hard Plastic…   $25.99   4.6    6,246  highly saturated market
+    █░░░░ 30  #8   HydroJug Traveler - 32 oz Wat…   $34.99   4.5   18,194  highly saturated market
+          └ 2 confirming sources
+    █░░░░ 29  #4   Valvoline Advanced Full Synth…   $26.97   4.8    9,738  highly saturated market
+    █░░░░ 29  #5   Rain-X 810363 Repellency Wate…   $35.80   4.3      286  —
+    █░░░░ 28  #4   bella 2 Slice Slim Toaster, F…   $24.98   4.3   12,378  highly saturated market
+    █░░░░ 27  #3   ZELUS Weighted Vest, 6lb/8lb/…   $28.98   4.5   14,648  highly saturated market
+    █░░░░ 27  #4   Filterbuy 20x20x1 Air Filter …   $29.96   4.7  155,717  highly saturated market
+    █░░░░ 27  #5   GE XWFE Refrigerator Water Fi…   $49.79   4.5   39,548  highly saturated market
+    █░░░░ 27  #19  High Pressure Rain Shower Hea…   $47.46   4.5    7,313  highly saturated market
+    █░░░░ 27  #5   The Honest Company Hypoallerg…   $44.99   4.8   55,338  highly saturated market
+    █░░░░ 27  #6   Mobil 1 Advanced Full Synthet…   $27.97   4.8    6,816  highly saturated market
+    █░░░░ 25  #6   Amazon Fire TV Stick 4K Plus …   $49.99   4.7  104,834  highly saturated market
+    █░░░░ 25  #8   BEDLORE Waterproof Mattress P…   $25.49   4.6   15,806  highly saturated market
+    █░░░░ 25  #7   INABA Churu Cat Treats, Grain…   $32.99   4.9   12,607  highly saturated market
+    █░░░░ 25  #11  Filtrete 16x25x1 AC Furnace A…   $39.99   4.7  184,084  highly saturated market
+    █░░░░ 25  #20  Brita Filter Replacements for…   $29.78   4.6   53,942  highly saturated market
+    █░░░░ 25  #6   WaterWipes Sensitive+ Newborn…   $44.97   4.7   84,152  highly saturated market
+    █░░░░ 24  #14  BNX TruFilter 20x25x1 Air Fil…   $39.09   4.8    5,259  highly saturated market
+    █░░░░ 24  #14  Aquatabs Water Purification T…   $34.99   4.7    5,795  highly saturated market
+    █░░░░ 24  #2   MCGOR 10inch Under Cabinet Li…   $15.99   4.5   51,473  highly saturated market, low margin risk
+          └ 2 confirming sources
+
+────────────────────────────────────────────────────────────
+  EBAY SOLD LISTINGS (real transaction validation)
+────────────────────────────────────────────────────────────
+
+  Total sold items found: 0  │  Keywords with sales: 0/0
+
+────────────────────────────────────────────────────────────
+  AMAZON DEMAND — No data (run amazon_demand.py)
+
+────────────────────────────────────────────────────────────
+  GOOGLE TRENDS
+────────────────────────────────────────────────────────────
+
+  HOT (1 rising):
+    ████░░░░  hair growth serum  (59/100)  ?
+
+  BREAKOUT QUERIES (66):
+    ▲ "zhenmi portable blender" +39450%  from: portable blender
+    ▲ "best portable power stations" +900%  from: portable blender
+    ▲ "can you cut led strip lights anywhere" +6700%  from: led strip lights
+    ▲ "how to fix led strip lights when cut" +250%  from: led strip lights
+    ▲ "health tips" +8500%  from: smart plug
+    ▲ "what is a smart plug" +500%  from: smart plug
+    ▲ "what is smart plug" +350%  from: smart plug
+    ▲ "rolfstone air purifier" +12550%  from: air purifier
+    ▲ "fukkuda electric lighter" +43550%  from: electric lighter
+    ▲ "true fit posture corrector" +70050%  from: posture corrector
+    ▲ "true fit" +63300%  from: posture corrector
+    ▲ "true fit posture corrector reviews" +27250%  from: posture corrector
+    ▲ "vicorrect posture corrector" +13850%  from: posture corrector
+    ▲ "forme power bra" +11600%  from: posture corrector
+    ▲ "truefit posture corrector reviews" +8550%  from: posture corrector
+    ▲ "truefit" +350%  from: posture corrector
+    ▲ "eicgo posture corrector belt" +300%  from: posture corrector
+    ▲ "pelvic posture corrector" +300%  from: posture corrector
+    ▲ "eicgo posture corrector" +250%  from: posture corrector
+    ▲ "apherma massage gun" +350%  from: massage gun
+    ▲ "massage gun nearby" +250%  from: massage gun
+    ▲ "rubberbanditz resistance bands" +7900%  from: resistance bands
+    ▲ "can u build muscle with resistance bands" +4500%  from: resistance bands
+    ▲ "blogilates resistance bands" +400%  from: resistance bands
+    ▲ "cloth resistance bands" +350%  from: resistance bands
+    ▲ "moonkissed collective orchid yoga mat" +7000%  from: yoga mat
+    ▲ "how to clean a yoga mat" +850%  from: yoga mat
+    ▲ "how to clean yoga mat" +550%  from: yoga mat
+    ▲ "dog breeds for apartments" +27750%  from: dog camera
+    ▲ "best treats for furbo dog camera" +7750%  from: dog camera
+    ▲ "oneisall automatic cat feeder" +94500%  from: automatic pet feeder
+    ▲ "truck 3d design wireless charger" +23400%  from: wireless charger
+    ▲ "how to check laptop battery health" +16450%  from: laptop stand
+    ▲ "how to clean laptop fan" +15600%  from: laptop stand
+    ▲ "how to fix slow laptop" +15500%  from: laptop stand
+    ▲ "how to connect external monitor to laptop" +10350%  from: laptop stand
+    ▲ "how to clean laptop screen" +400%  from: laptop stand
+    ▲ "laptop buying guide" +350%  from: laptop stand
+    ▲ "how to replace a light switch" +700%  from: ring light
+    ▲ "benefits of jade roller on face" +550%  from: jade roller
+    ▲ "best teeth whitening kit 2021" +61650%  from: teeth whitening kit
+    ▲ "best cheap teeth whitening kit" +33800%  from: teeth whitening kit
+    ▲ "snow diamond teeth whitening kit reviews" +31000%  from: teeth whitening kit
+    ▲ "my smile teeth whitening strips" +23750%  from: teeth whitening kit
+    ▲ "what's the best teeth whitening kit" +18450%  from: teeth whitening kit
+    ▲ "pdoo teeth whitening kit" +13650%  from: teeth whitening kit
+    ▲ "safest teeth whitening kit" +5300%  from: teeth whitening kit
+    ▲ "best rated teeth whitening kit" +250%  from: teeth whitening kit
+    ▲ "cura peptide hair growth serum reviews" +40100%  from: hair growth serum
+    ▲ "bodywise hair growth serum roll on side effects" +6300%  from: hair growth serum
+    ▲ "cura hair growth serum" +1700%  from: hair growth serum
+    ▲ "cura peptide hair growth serum" +900%  from: hair growth serum
+    ▲ "plix hair growth serum" +650%  from: hair growth serum
+    ▲ "viral blackhead remover" +48100%  from: blackhead remover
+    ▲ "clinique blackhead remover" +20350%  from: blackhead remover
+    ▲ "best drugstore blackhead remover" +17700%  from: blackhead remover
+    ▲ "homemade blackhead remover mask" +2800%  from: blackhead remover
+    ▲ "how to use blackhead remover tools" +1150%  from: blackhead remover
+    ▲ "vibrating blackhead remover" +950%  from: blackhead remover
+    ▲ "lay flat camping hammock" +61950%  from: camping hammock
+    ▲ "solar eclipse dates" +17400%  from: solar power bank
+    ▲ "fenix tk16 v2.0 tactical flashlight" +2200%  from: tactical flashlight
+    ▲ "bushnell tactical flashlight" +1100%  from: tactical flashlight
+    ▲ "shadowhawk x800 tactical flashlight" +850%  from: tactical flashlight
+    ▲ "portable buddy power fan" +350%  from: portable fan
+    ▲ "portable fan near me" +250%  from: portable fan
+
+────────────────────────────────────────────────────────────
+  ALIEXPRESS SOURCING
+────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────
+  COMPETITORS — None discovered yet
+  Configure COMPETITOR_STORES in config.py
+
+────────────────────────────────────────────────────────────
+  NICHE ANALYSIS MATRIX
+────────────────────────────────────────────────────────────
+
+  NICHE                TREND  DEMAND  SOURCE   VALID   TOTAL  GR
+  ────────────────────────────────────────────────────────
+  outdoor              █░░░░   ████░   ░░░░░   ░░░░░    32/100  D
+  fitness              █░░░░   ███░░   ░░░░░   ░░░░░    25/100  D
+  beauty health        ████░   ░░░░░   █░░░░   ░░░░░    25/100  D
+  tech accessories     █░░░░   ██░░░   ░░░░░   ░░░░░    22/100  D
+  home gadgets         █░░░░   ███░░   ░░░░░   ░░░░░    21/100  D
+  car accessories      ░░░░░   ███░░   ░░░░░   ░░░░░    17/100  F
+  kitchen gadgets      ░░░░░   ███░░   ░░░░░   ░░░░░    16/100  F
+  pet products         █░░░░   █░░░░   ░░░░░   ░░░░░    15/100  F
+  home office          ░░░░░   ██░░░   ░░░░░   ░░░░░    11/100  F
+  eco friendly         ░░░░░   ░░░░░   ░░░░░   ░░░░░     0/100  F
+
+  Grades: A(75+)=Strong opportunity  B(60+)=Good  C(40+)=Moderate  D(20+)=Weak  F=Poor
+
+────────────────────────────────────────────────────────────
+  ACTION ITEMS
+────────────────────────────────────────────────────────────
+
+  🔴 HIGH PRIORITY:
+    1. Research top candidate: "400 Card Sleeves Hard Plastic, Arj…" (Score: 30/100, $25.99)
+    2. Review all 87 candidates above
+    3. Deep-dive 31 multi-signal products
+
+  🟡 MONITOR:
+    • Track 79 Amazon movers
+    • Watch 8 products climbing BSR
+
+  ⚠ FIX:
+    ⚠ Amazon Demand inactive — Run: python amazon_demand.py
+    ⚠ eBay Sold inactive — Run: python ebay_scanner.py
+    ⚠ Competitors inactive — Add stores to COMPETITOR_STORES
+
+────────────────────────────────────────────────────────────
+  Generated: 2026-03-08 22:28:37
+  Signal Pilot — Dropship Intelligence Engine v4
+  Cost model: source + shipping + platform 15% + ads 30%

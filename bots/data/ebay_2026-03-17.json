@@ -1,0 +1,14 @@
+{
+  "scan_date": "2026-03-17T07:45:19.589737",
+  "status": "blocked",
+  "message": "eBay blocked this IP. Add residential proxy via PROXY_URL in .env",
+  "keywords_scanned": 0,
+  "results": {},
+  "top_sellers": [],
+  "price_insights": [],
+  "stats": {
+    "total_sold_found": 0,
+    "keywords_with_sales": 0,
+    "avg_sold_price_all": 0
+  }
+}

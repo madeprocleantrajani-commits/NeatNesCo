@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-19",
+  "store": "Neatnestco",
+  "imported_count": 3,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14990699692404,
+      "title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes ...",
+      "original_title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes for Sensitive",
+      "price": "18.99",
+      "compare_at": "23.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 36.1,
+      "signals": [],
+      "niche": "health",
+      "imported_at": "2026-03-19T07:07:26.125122"
+    },
+    {
+      "shopify_id": 14990699725172,
+      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheet...",
+      "original_title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel",
+      "price": "21.99",
+      "compare_at": "28.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 31.2,
+      "signals": [],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-19T07:07:27.858252"
+    },
+    {
+      "shopify_id": 14990699757940,
+      "title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pi...",
+      "original_title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pillow Top Matt",
+      "price": "40.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "BUY",
+      "import_score": 31.0,
+      "signals": [],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-19T07:07:29.570389"
+    }
+  ],
+  "failed": [],
+  "total_history": 37
+}

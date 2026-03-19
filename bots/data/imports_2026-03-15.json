@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-15",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14987376886132,
+      "title": "Gaiatop Mini Portable Stroller Fan, Battery Operated Small Clip on,...",
+      "original_title": "Gaiatop Mini Portable Stroller Fan, Battery Operated Small Clip on, Detachable 3",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 54.8,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "google_trending"
+      ],
+      "niche": "baby",
+      "imported_at": "2026-03-15T11:00:02.873184"
+    },
+    {
+      "shopify_id": 14987376984436,
+      "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sen...",
+      "original_title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Ind",
+      "price": "13.99",
+      "compare_at": "17.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-15T11:00:04.574523"
+    },
+    {
+      "shopify_id": 14987377017204,
+      "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshie...",
+      "original_title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pa",
+      "price": "37.99",
+      "compare_at": "47.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 51.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "automotive",
+      "imported_at": "2026-03-15T11:00:06.185101"
+    },
+    {
+      "shopify_id": 14987377049972,
+      "title": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Fr...",
+      "original_title": "Fancy Feast Poultry and Beef Feast Classic Pate Collection Grain Free Wet Cat Fo",
+      "price": "24.99",
+      "compare_at": "31.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 50.5,
+      "signals": [],
+      "niche": "pet-supplies",
+      "imported_at": "2026-03-15T11:00:07.846271"
+    },
+    {
+      "shopify_id": 14987377082740,
+      "title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin...",
+      "original_title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightw",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 50.3,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-15T11:00:09.700407"
+    }
+  ],
+  "failed": [],
+  "total_history": 29
+}

@@ -1,0 +1,62 @@
+{
+  "YARRAMATE Oil Sprayer": {
+    "asin": "B0CP4XY9QC",
+    "images": [
+      "https://m.media-amazon.com/images/I/71ZjnwrH7iL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GHqN1KJyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nDx-aMrKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81t9dyToNML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rK0bXfUUL._AC_SL1500_.jpg"
+    ],
+    "price": "?",
+    "image_count": 5
+  },
+  "HydroJug Traveler": {
+    "asin": "B0D6C6GS58",
+    "images": [
+      "https://m.media-amazon.com/images/I/31tbwj3Mi9L._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41OUtgqQ5RL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51GKGuCdI2L._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41edz0NotPL._AC_SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61QxQ4w20VL._AC_SL1000_.jpg"
+    ],
+    "price": "?",
+    "image_count": 5
+  },
+  "Sheba Cat Food": {
+    "asin": "B072DTFZHL",
+    "images": [
+      "https://m.media-amazon.com/images/I/81wMxPo0TlL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wyIZadnYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71k0tCIbdbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ObY2IMWmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/611OoqMq6cL._AC_SL1500_.jpg"
+    ],
+    "price": "?",
+    "image_count": 5
+  },
+  "Vegetable Chopper": {
+    "asin": "B0FLXY2CBC",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Qj8BrJQtL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R0PK5he8L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B1d4PaGTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nYJXbl9YL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71PjNUi4HRL._AC_SL1500_.jpg"
+    ],
+    "price": "?",
+    "image_count": 5
+  },
+  "La Roche-Posay": {
+    "asin": "B01N9SPQHQ",
+    "images": [
+      "https://m.media-amazon.com/images/I/51x78epntaL._SL1060_.jpg",
+      "https://m.media-amazon.com/images/I/9116IeFE79L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91kSK0n-FnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716zIMHh+hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fdOzEZ2SL._SL1500_.jpg"
+    ],
+    "price": "?",
+    "image_count": 5
+  }
+}

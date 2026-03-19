@@ -1,0 +1,747 @@
+{
+  "scan_date": "2026-03-15T08:30:02.473007",
+  "facebook": {
+    "keyword_ads": {},
+    "page_activity": {},
+    "trending_ad_products": []
+  },
+  "google": {
+    "keyword_competition": {
+      "portable blender": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "cheap portable blender",
+          "buy portable blender",
+          "price portable blender juicer",
+          "what is the best portable blender on the market",
+          "best portable blender for protein shakes",
+          "what is a portable blender",
+          "best portable blender for travel",
+          "best portable blender reddit",
+          "best portable blender for smoothies",
+          "cheapest hand blender",
+          "best portable blender",
+          "cheap hand blender",
+          "price portable blender",
+          "what is best portable blender"
+        ],
+        "ad_signal_strength": 24
+      },
+      "led strip lights": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "best led strip lights reddit",
+          "price led strip light adapter",
+          "best led strip lights",
+          "buy led strip lights near me",
+          "price for led strip lights",
+          "price led strip lights 50 meters",
+          "cheap led strip lights",
+          "best led strip lights for room",
+          "price led strip lights",
+          "shop led strip lights near me",
+          "best led strip lights for bedroom",
+          "buy led strip lights",
+          "best led strip lights for ceiling"
+        ],
+        "ad_signal_strength": 20
+      },
+      "smart plug": {
+        "niche": "home_gadgets",
+        "search_variations": [
+          "best smart plugs",
+          "cheap smart plugs reddit",
+          "cheap smart plugs that work with alexa",
+          "best smart plugs for alexa",
+          "buy smart plug",
+          "buy smart plug online",
+          "buy smart plug near me",
+          "buy smart plug nz",
+          "best smart plug for apple homekit",
+          "cheap smart plugs",
+          "cheap smart plug home assistant",
+          "best smart plugs for google home",
+          "buy wifi plug",
+          "best smart plugs for home assistant",
+          "cheapest smart plug"
+        ],
+        "ad_signal_strength": 30
+      },
+      "posture corrector": {
+        "niche": "fitness",
+        "search_variations": [
+          "best posture corrector for men",
+          "buy posture corrector",
+          "best posture corrector",
+          "cheap posture corrector",
+          "what is a good posture corrector",
+          "buy posture corrector belt",
+          "best posture corrector for women",
+          "what is the most effective posture corrector",
+          "buy posture corrector near me",
+          "best posture corrector for women reddit",
+          "where can i buy posture corrector",
+          "best posture corrector for men 2025",
+          "how much is a posture corrector"
+        ],
+        "ad_signal_strength": 18
+      },
+      "massage gun": {
+        "niche": "fitness",
+        "search_variations": [
+          "cheap massage gun reddit",
+          "buy massage gun",
+          "cheap massage gun",
+          "cheap massage gun in store",
+          "best massage guns 2025",
+          "buy massage gun near me",
+          "best massage gun on amazon",
+          "buy massage gun online",
+          "best massage gun wirecutter",
+          "best massage gun for athletes",
+          "cheap massage gun nearby",
+          "buy massage gun nz",
+          "best massage gun",
+          "buy massage gun australia",
+          "cheap massage gun near me"
+        ],
+        "ad_signal_strength": 30
+      },
+      "resistance bands": {
+        "niche": "fitness",
+        "search_variations": [
+          "best resistance bands",
+          "buy resistance bands nz",
+          "best resistance bands for seniors",
+          "cheapest resistance band",
+          "best resistance bands wirecutter",
+          "buy resistance bands uk",
+          "buy resistance bands",
+          "buy resistance bands for fitness",
+          "buy resistance bands near me",
+          "best resistance bands for men",
+          "best resistance bands for women",
+          "cheap resistance bands",
+          "are cheap resistance bands good"
+        ],
+        "ad_signal_strength": 23
+      },
+      "dog camera": {
+        "niche": "pet_products",
+        "search_variations": [
+          "cheapest dog camera",
+          "free dog camera",
+          "cheap pet camera",
+          "buy dog camera",
+          "cheap dog camera",
+          "buy pet camera",
+          "best dog camera for home",
+          "buy pet camera near me",
+          "buy furbo dog camera",
+          "best buy dog camera",
+          "free dog camera app",
+          "best dog camera for home without subscription",
+          "best dog camera reddit",
+          "best dog camera",
+          "best dog camera no subscription"
+        ],
+        "ad_signal_strength": 28
+      },
+      "cat water fountain": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best cat water fountain 2026",
+          "buy cat water fountain",
+          "best buy cat water fountain",
+          "what is best cat water fountain",
+          "cheap cat water fountain",
+          "best cat water fountain 2025",
+          "do water fountains work for cats",
+          "do cats need a water fountain",
+          "best cat water fountain reddit",
+          "how much is a cat water fountain",
+          "what is a good cat water fountain",
+          "best cat water fountain",
+          "best cat water fountain stainless steel"
+        ],
+        "ad_signal_strength": 21
+      },
+      "pet grooming glove": {
+        "niche": "pet_products",
+        "search_variations": [
+          "best pet grooming gloves for cats",
+          "best pet grooming gloves",
+          "best pet grooming gloves for dogs",
+          "how to clean pet grooming gloves"
+        ],
+        "ad_signal_strength": 4
+      },
+      "car phone mount": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "cheapest car phone mount",
+          "best car phone mount charger",
+          "cheap car phone holder",
+          "best car phone mount for thick cases",
+          "cheap car phone stand",
+          "buy car phone holder near me",
+          "buy car phone holder",
+          "best car phone mount",
+          "cheap car phone mount",
+          "cheap car phone mount near me",
+          "car mounts for cell phones",
+          "best car phone mounts 2025",
+          "buy car phone mount",
+          "best car phone mount reddit",
+          "best buy car phone mount"
+        ],
+        "ad_signal_strength": 26
+      },
+      "wireless charger": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "best wireless charger for samsung",
+          "cheap wireless charger",
+          "buy wireless charger for iphone",
+          "best wireless charger for iphone",
+          "buy wireless charger near me",
+          "cheapest wireless charging phone",
+          "buy wireless charger",
+          "cheapest wireless charger",
+          "buy wireless charger samsung",
+          "best wireless charger for android",
+          "cheapest wireless charging samsung phone",
+          "buy wireless charger for car",
+          "cheap wireless charger for iphone",
+          "best wireless charger",
+          "best wireless charger for s25 ultra"
+        ],
+        "ad_signal_strength": 25
+      },
+      "laptop stand": {
+        "niche": "tech_accessories",
+        "search_variations": [
+          "best laptop stand for bed",
+          "buy laptop stand with fan",
+          "buy laptop stand",
+          "buy laptop stand for bed",
+          "best laptop stand for desk",
+          "buy laptop stand online",
+          "cheap laptop stand for desk",
+          "cheap laptop stand reddit",
+          "cheap laptop stand near me",
+          "cheap laptop stand amazon",
+          "best laptop stand",
+          "buy laptop stand near me",
+          "cheap laptop stand",
+          "best laptop stand reddit",
+          "best laptop stand for macbook pro"
+        ],
+        "ad_signal_strength": 30
+      },
+      "jade roller": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "does jade roller do anything",
+          "where can i buy jade roller",
+          "best jade roller for face",
+          "best jade roller uk",
+          "cheap jade roller",
+          "buy jade roller",
+          "wholesale jade roller",
+          "best jade roller",
+          "can jade roller be used everyday",
+          "best jade roller and gua sha set",
+          "best jade roller and gua sha"
+        ],
+        "ad_signal_strength": 16
+      },
+      "teeth whitening kit": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "buy home teeth whitening kit",
+          "buy auraglow teeth whitening kit",
+          "best affordable teeth whitening kit",
+          "best teeth whitening kit amazon",
+          "buy teeth whitening kit",
+          "best teeth whitening kit at home",
+          "best teeth whitening kit",
+          "best store bought teeth whitening kit",
+          "best teeth whitening kit reddit",
+          "what is the best whitening teeth kit",
+          "what is the best home teeth whitening kit uk",
+          "best teeth whitening kit for sensitive teeth"
+        ],
+        "ad_signal_strength": 17
+      },
+      "hair growth serum": {
+        "niche": "beauty_health",
+        "search_variations": [
+          "is hair growth serum good for hair",
+          "cheap hair growth serum",
+          "best hair growth serum for men",
+          "best hair growth serum",
+          "cheap hair growth products",
+          "buy hair growth serum",
+          "affordable hair growth products",
+          "what is best hair growth serum",
+          "best hair growth serum for women",
+          "best hair growth serum reddit",
+          "best hair growth serum for black women",
+          "does hair serum grow hair",
+          "affordable hair growth serum"
+        ],
+        "ad_signal_strength": 21
+      },
+      "camping hammock": {
+        "niche": "outdoor",
+        "search_variations": [
+          "pros and cons of hammock camping",
+          "best camping hammock chair",
+          "cheap camping hammock",
+          "budget camping hammock",
+          "budget hammock camping setup",
+          "best cheap camping hammock",
+          "where to buy camping hammock.near me",
+          "best camping hammock reddit",
+          "best camping hammock system",
+          "buy camping hammock",
+          "best camping hammock",
+          "best camping hammocks 2025",
+          "budget camping hammock reddit"
+        ],
+        "ad_signal_strength": 21
+      },
+      "solar power bank": {
+        "niche": "outdoor",
+        "search_variations": [
+          "cheap solar power bank",
+          "buy solar power bank",
+          "best buy solar power bank",
+          "best solar power bank",
+          "buy solar power bank near me",
+          "best solar power bank for camping",
+          "cheapest solar power bank",
+          "best solar power bank for home",
+          "buy solar battery bank",
+          "best solar power bank for phone",
+          "best solar power bank for survival",
+          "cheap solar battery bank"
+        ],
+        "ad_signal_strength": 29
+      },
+      "insulated water bottle": {
+        "niche": "outdoor",
+        "search_variations": [
+          "insulated water bottle companies",
+          "best insulated water bottle",
+          "best insulated water bottle with straw",
+          "insulated water bottle price",
+          "best insulated water bottle without straw",
+          "cheap insulated water bottles",
+          "buy stainless steel water bottle",
+          "what is best insulated water bottle",
+          "best insulated water bottle for kids",
+          "best insulated water bottle reddit",
+          "cheap stainless steel water bottles",
+          "buy insulated water bottle"
+        ],
+        "ad_signal_strength": 21
+      },
+      "reusable food wrap": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "best reusable food wrap",
+          "how to make reusable food wraps",
+          "best reusable.plastic wrap",
+          "best reusable cling wrap"
+        ],
+        "ad_signal_strength": 4
+      },
+      "bamboo toothbrush": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "are bamboo toothbrushes better",
+          "where can i buy bamboo toothbrush",
+          "are bamboo toothbrush good",
+          "are bamboo toothbrushes worth it",
+          "best bamboo toothbrush uk",
+          "best bamboo toothbrush with natural bristles",
+          "buy bamboo brush",
+          "best bamboo toothbrush reddit",
+          "best bamboo toothbrush brand",
+          "best bamboo toothbrush",
+          "buy bamboo toothbrush"
+        ],
+        "ad_signal_strength": 19
+      },
+      "solar garden lights": {
+        "niche": "eco_friendly",
+        "search_variations": [
+          "cheap solar outdoor lights",
+          "buy solar garden lights",
+          "best solar garden lights uk",
+          "best solar garden lights",
+          "best solar garden lights outdoor",
+          "best solar garden lights reddit",
+          "cheap solar garden lights",
+          "best solar garden lights australia",
+          "are solar garden lights any good",
+          "buy solar outdoor lights",
+          "which are the best solar lights for garden"
+        ],
+        "ad_signal_strength": 23
+      },
+      "desk organizer": {
+        "niche": "home_office",
+        "search_variations": [
+          "cheap desk organizers near me",
+          "best desk organizer wirecutter",
+          "best desk organizer",
+          "best desk organizer 2025",
+          "diy desk organizer step by step",
+          "buy office organizer",
+          "desk organizer price philippines",
+          "cheap desk accessories",
+          "cheap desk storage",
+          "buy desk organizer",
+          "buy desktop organizer",
+          "best desk organizer reddit",
+          "cheap desk organizers",
+          "best desk organizer 3d print"
+        ],
+        "ad_signal_strength": 26
+      },
+      "monitor light bar": {
+        "niche": "home_office",
+        "search_variations": [
+          "buy monitor light bar",
+          "best monitor light bar 2025",
+          "buy mi computer monitor light bar",
+          "cheap monitor light bar reddit",
+          "best monitor light bar reddit",
+          "best buy monitor light bar",
+          "best monitor light bar for curved monitor",
+          "cheap monitor light bar",
+          "buy xiaomi monitor light bar",
+          "monitor light bar buy sri lanka",
+          "budget monitor light bar reddit",
+          "best monitor light bar with webcam",
+          "budget monitor light bar",
+          "best monitor light bar"
+        ],
+        "ad_signal_strength": 30
+      },
+      "ergonomic mouse": {
+        "niche": "home_office",
+        "search_variations": [
+          "best cheap ergonomic mouse",
+          "buy ergonomic mouse near me",
+          "best ergonomic mouse",
+          "cheapest ergonomic mouse",
+          "best buy ergonomic mouse and keyboard",
+          "best ergonomic mouse for work",
+          "best ergonomic mouse for mac",
+          "budget ergonomic mouse",
+          "cheap ergonomic mouse",
+          "best buy ergonomic mouse",
+          "buy ergonomic mouse",
+          "cheap vertical mouse",
+          "buy vertical mouse",
+          "best ergonomic mouse for gaming",
+          "best ergonomic mouse pad"
+        ],
+        "ad_signal_strength": 26
+      },
+      "car vacuum cleaner": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "cheap handheld vacuum cleaner",
+          "best car vacuum cleaner for dog hair",
+          "buy handheld vacuum cleaner",
+          "cheap handheld carpet cleaner",
+          "vacuum cleaner near me for cars",
+          "best car vacuum cleaner reddit",
+          "buy car vacuum cleaner",
+          "best car vacuum cleaner",
+          "cheap car vacuum cleaner",
+          "best car vacuum cleaner cordless",
+          "best car vacuum cleaner portable"
+        ],
+        "ad_signal_strength": 26
+      },
+      "dash cam": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "best dash cam 2026",
+          "best dash cam for car",
+          "cheap dash cam",
+          "best dash cam 2025",
+          "cheap dash cam reddit",
+          "buy dash cam",
+          "cheap dash cam front and rear",
+          "buy dash cam near me",
+          "best dash cam",
+          "buy dash cam nz",
+          "best dash cam front and rear",
+          "buy dash cam for car",
+          "cheap dash cam for car",
+          "cheap dash cam installation near me",
+          "buy dash cam ireland"
+        ],
+        "ad_signal_strength": 30
+      },
+      "seat gap filler": {
+        "niche": "car_accessories",
+        "search_variations": [
+          "best seat gap filler for rav4",
+          "best seat gap filler strip",
+          "best seat gap filler for jeep wrangler",
+          "seat gap filler near me",
+          "buy car seat gap filler",
+          "best seat gap filler",
+          "drop stop seat gap filler reviews",
+          "diy seat gap filler",
+          "best seat gap filler for car",
+          "where to buy seat gap filler",
+          "cheap car seat gap filler",
+          "how to use gap filler"
+        ],
+        "ad_signal_strength": 23
+      },
+      "air fryer accessories": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "do you need accessories for air fryer",
+          "best air fryer accessories uk",
+          "best air fryer accessories argos",
+          "best air fryer accessories kmart",
+          "buy air fryer accessories",
+          "best air fryer accessories",
+          "best air fryer accessories reddit",
+          "buy ninja air fryer accessories"
+        ],
+        "ad_signal_strength": 13
+      },
+      "spice rack organizer": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "are spice racks worth it",
+          "best spice rack organizer reddit",
+          "cheap spice rack organizer",
+          "spice rack price",
+          "what spices come in a spice rack",
+          "best spice rack organizer for cabinet",
+          "best spice rack organizer",
+          "best spice drawer organizer",
+          "spice rack near me",
+          "best spice shelf organizer"
+        ],
+        "ad_signal_strength": 16
+      },
+      "vegetable chopper": {
+        "niche": "kitchen_gadgets",
+        "search_variations": [
+          "best vegetable chopper",
+          "what is the best vegetable chopper to buy",
+          "which brand is best for vegetable chopper",
+          "what is a good vegetable chopper",
+          "buy vegetable chopper",
+          "best vegetable chopper 2025",
+          "where to buy vegetable slicer",
+          "best vegetable chopper amazon",
+          "best vegetable chopper dicer",
+          "cheap vegetable chopper",
+          "top 10 vegetable chopper",
+          "best vegetable chopper electric",
+          "best buy vegetable chopper"
+        ],
+        "ad_signal_strength": 18
+      }
+    },
+    "top_advertised_products": [
+      {
+        "keyword": "smart plug",
+        "niche": "home_gadgets",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "massage gun",
+        "niche": "fitness",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "laptop stand",
+        "niche": "tech_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "monitor light bar",
+        "niche": "home_office",
+        "signal_strength": 30,
+        "variations": 14
+      },
+      {
+        "keyword": "dash cam",
+        "niche": "car_accessories",
+        "signal_strength": 30,
+        "variations": 15
+      },
+      {
+        "keyword": "solar power bank",
+        "niche": "outdoor",
+        "signal_strength": 29,
+        "variations": 12
+      },
+      {
+        "keyword": "dog camera",
+        "niche": "pet_products",
+        "signal_strength": 28,
+        "variations": 15
+      },
+      {
+        "keyword": "car phone mount",
+        "niche": "tech_accessories",
+        "signal_strength": 26,
+        "variations": 15
+      },
+      {
+        "keyword": "desk organizer",
+        "niche": "home_office",
+        "signal_strength": 26,
+        "variations": 14
+      },
+      {
+        "keyword": "ergonomic mouse",
+        "niche": "home_office",
+        "signal_strength": 26,
+        "variations": 15
+      },
+      {
+        "keyword": "car vacuum cleaner",
+        "niche": "car_accessories",
+        "signal_strength": 26,
+        "variations": 11
+      },
+      {
+        "keyword": "wireless charger",
+        "niche": "tech_accessories",
+        "signal_strength": 25,
+        "variations": 15
+      },
+      {
+        "keyword": "portable blender",
+        "niche": "home_gadgets",
+        "signal_strength": 24,
+        "variations": 14
+      },
+      {
+        "keyword": "resistance bands",
+        "niche": "fitness",
+        "signal_strength": 23,
+        "variations": 13
+      },
+      {
+        "keyword": "solar garden lights",
+        "niche": "eco_friendly",
+        "signal_strength": 23,
+        "variations": 11
+      },
+      {
+        "keyword": "seat gap filler",
+        "niche": "car_accessories",
+        "signal_strength": 23,
+        "variations": 12
+      },
+      {
+        "keyword": "cat water fountain",
+        "niche": "pet_products",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "hair growth serum",
+        "niche": "beauty_health",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "camping hammock",
+        "niche": "outdoor",
+        "signal_strength": 21,
+        "variations": 13
+      },
+      {
+        "keyword": "insulated water bottle",
+        "niche": "outdoor",
+        "signal_strength": 21,
+        "variations": 12
+      },
+      {
+        "keyword": "led strip lights",
+        "niche": "home_gadgets",
+        "signal_strength": 20,
+        "variations": 13
+      },
+      {
+        "keyword": "bamboo toothbrush",
+        "niche": "eco_friendly",
+        "signal_strength": 19,
+        "variations": 11
+      },
+      {
+        "keyword": "posture corrector",
+        "niche": "fitness",
+        "signal_strength": 18,
+        "variations": 13
+      },
+      {
+        "keyword": "vegetable chopper",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 18,
+        "variations": 13
+      },
+      {
+        "keyword": "teeth whitening kit",
+        "niche": "beauty_health",
+        "signal_strength": 17,
+        "variations": 12
+      },
+      {
+        "keyword": "jade roller",
+        "niche": "beauty_health",
+        "signal_strength": 16,
+        "variations": 11
+      },
+      {
+        "keyword": "spice rack organizer",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 16,
+        "variations": 10
+      },
+      {
+        "keyword": "air fryer accessories",
+        "niche": "kitchen_gadgets",
+        "signal_strength": 13,
+        "variations": 8
+      }
+    ]
+  },
+  "amazon_sponsored": [],
+  "intelligence": [],
+  "stats": {
+    "fb_keywords_checked": 0,
+    "fb_pages_monitored": 0,
+    "fb_trending_products": 0,
+    "google_keywords_analyzed": 30,
+    "google_top_advertised": 28,
+    "amazon_sponsored_found": 0,
+    "intelligence_total": 0,
+    "strong_buys": 0,
+    "buys": 0,
+    "watches": 0
+  }
+}

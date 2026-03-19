@@ -1,0 +1,914 @@
+{
+  "scan_date": "2026-03-19T06:29:29.840669",
+  "status": "ok",
+  "keywords_scanned": 100,
+  "results": {
+    "portable blender": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "led strip lights": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "smart plug": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "air purifier": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "electric lighter": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "aroma diffuser": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "motion sensor light": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "portable projector": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "smart doorbell": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "robot vacuum cleaner": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "posture corrector": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "massage gun": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "resistance bands": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "ab roller": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "yoga mat": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "jump rope fitness": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "foam roller": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "grip strength trainer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "pull up bar": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "wrist wraps": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "dog camera": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "cat water fountain": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "pet grooming glove": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "dog car seat cover": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "automatic pet feeder": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "pet nail grinder": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "dog anxiety vest": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "cat tree tower": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "dog poop bag dispenser": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "pet hair remover": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "car phone mount": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "wireless charger": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "laptop stand": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "ring light": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "bluetooth tracker": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "cable organizer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "portable monitor": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "webcam cover": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "usb hub": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "phone tripod": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "jade roller": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "teeth whitening kit": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "hair growth serum": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "blackhead remover": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "essential oil diffuser": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "facial steamer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "derma roller": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "lip plumper": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "eyelash serum": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "scalp massager": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "camping hammock": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "solar power bank": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "insulated water bottle": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "tactical flashlight": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "portable fan": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "hiking backpack": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "camping lantern": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "survival bracelet": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "portable water filter": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "collapsible water bottle": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "reusable food wrap": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "bamboo toothbrush": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "solar garden lights": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "reusable straw set": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "beeswax wrap": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "compost bin": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "bamboo cutlery set": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "reusable produce bags": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "solar phone charger": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "eco cleaning cloths": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "desk organizer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "monitor light bar": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "ergonomic mouse": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "standing desk converter": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "cable management box": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "laptop cooling pad": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "desk pad large": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "blue light glasses": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "noise cancelling earbuds": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "whiteboard planner": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "car vacuum cleaner": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "dash cam": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "seat gap filler": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "trunk organizer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "car air freshener diffuser": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "steering wheel cover": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "car seat cushion": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "phone mount magnetic": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "car trash can": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "back seat organizer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "air fryer accessories": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "spice rack organizer": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "vegetable chopper": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "silicone baking mat": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "egg cooker": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "food scale digital": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "can opener electric": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "herb garden indoor": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "ice cube tray silicone": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    },
+    "oil sprayer bottle": {
+      "sold_count": 0,
+      "listings_scraped": 0,
+      "price_analysis": {},
+      "unique_sellers": 0,
+      "competition_level": "low",
+      "daily_velocity": 0,
+      "top_listings": []
+    }
+  },
+  "top_sellers": [],
+  "price_insights": [],
+  "stats": {
+    "total_sold_found": 0,
+    "keywords_with_sales": 0,
+    "avg_sold_price_all": 0
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "scan_date": "2026-03-19T07:04:51.785131",
+  "model_analysts": "claude-haiku-4-5-20251001",
+  "model_meta": "claude-haiku-4-5-20251001",
+  "evaluations": [
+    {
+      "product": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper",
+      "price": 19.99,
+      "analysts": {
+        "demand": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Product shows mixed signals: strong review count (934) and low competition indicate established demand, but 0% margin and low viability score (29.2) are major red flags. TikTok potential (59) and evergreen category suggest modest growth, but ad score of 0 and lack of profit viability make this unmarketable for a hedge fund focused on ROI."
+        },
+        "virality": {
+          "score": 62,
+          "confidence": "medium",
+          "reasoning": "Strong TikTok potential (59/59) due to satisfying chopping/slicing visuals and quick food prep demos that perform well on the platform. However, 0% margin and low ad score indicate poor monetization, while modest wow factor (0/100) and problem-solving (20/100) limit organic shareability despite low competition and steady upward momentum."
+        },
+        "competition": {
+          "score": 35,
+          "confidence": "medium",
+          "reasoning": "Despite LOW_COMPETITION signal, the 0% margin, low Viability Score (29.2), and poor Ad Score (0) indicate this is a race-to-bottom commodity product where profitability is nearly impossible. The high review count (934) and steady momentum suggest market maturity with established competitors who've achieved economies of scale that new entrants cannot match."
+        },
+        "supply_chain": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Vegetable choppers are lightweight and compact with favorable shipping costs, but this product faces critical supply chain challenges: low profit margins (0%) limit supplier negotiation power, single-source dependency risk from typical Chinese manufacturers, quality consistency issues at scale given the 4.4 rating (not exceptional), and limited US warehouse availability for this price point makes logistics unprofitable. The low viability score (29.2) and shipping score (30) confirm structural supply chain constraints."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is completely unviable as it provides zero buffer for ad spend variability, platform volatility, or operational costs. Even achieving a sub-$6 CPA is mathematically impossible given the $19.99 price point requires ~$3-5 profit after COGS/shipping/fees, leaving insufficient margin to sustain profitable customer acquisition at scale."
+        },
+        "risk": {
+          "score": 32,
+          "confidence": "high",
+          "reasoning": "Critical red flags: 0% margin makes this unprofitable regardless of sales volume, Viability Score of 29.2 indicates fundamental business model issues, and the product's fragile blade assembly creates high return/damage risk during shipping (30/100 shipping score). While saturation is low and evergreen demand exists, the combination of zero profitability, poor viability metrics, and gadget fragility risk makes this unsuitable for hedge fund investment."
+        }
+      },
+      "meta_decision": {
+        "final_score": 38.85,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Strong TikTok virality potential (62/100) with satisfying visual content and established demand signals (934 reviews).",
+        "key_risk": "0% profit margin makes the product mathematically unprofitable regardless of sales volume, combined with a critically low viability score of 29.2 and fragile supply chain constraints.",
+        "verdict": "REJECT this product. The 0% margin is a dealbreaker for any hedge fund focused on ROI\u2014there is no buffer for customer acquisition costs, operational expenses, or market volatility. While virality and demand metrics show modest potential, fundamental profitability is impossible, making this a race-to-bottom commodity product where established competitors have already achieved insurmountable cost advantages. Do not allocate capital."
+      },
+      "weighted_score": 38.6,
+      "final_score": 38.85,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel",
+      "price": 24.99,
+      "analysts": {
+        "demand": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "The product shows strong foundational demand signals with 430k+ reviews and evergreen appeal in a consistently profitable category. However, 0% margins, low ad score (0), zero wow factor, and weak viability metrics (28.3) indicate this is a commoditized, oversaturated market where differentiation and profitability are severely compromised despite low current competition."
+        },
+        "virality": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Sheet sets have moderate UGC potential with before/after comfort demonstrations and cozy bedroom aesthetics that perform on TikTok, but lack the visual 'wow factor' or emotional surprise needed for organic virality. The 0% margin and low ad score indicate this product can't sustain paid viral campaigns, limiting scalability despite low competition."
+        },
+        "competition": {
+          "score": 32,
+          "confidence": "high",
+          "reasoning": "Despite LOW_COMPETITION signal, the 0% margin, failed viability score (28.3), and 0 Ad Score indicate this is a race-to-bottom commodity product with heavy existing competition. The massive review count (430K+) and low BSR (31) suggest market saturation with established sellers offering similar products at unsustainable margins."
+        },
+        "supply_chain": {
+          "score": 52,
+          "confidence": "medium",
+          "reasoning": "Sheet sets present moderate shipping costs due to bulk/weight, but the 65 shipping score and evergreen category suggest manageable logistics. However, 0% margin and low viability score indicate supplier pricing leaves no room for profitable fulfillment after shipping costs, creating fundamental supply chain economics problems despite low competition and steady demand momentum."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is unsustainable for profitability; even achieving a $7.50 CPA (30% of price) leaves no buffer for platform fees (~$3.75), shipping costs ($3-5), and product cost ($8.75), resulting in guaranteed losses. While the product has strong fundamentals (4.5\u2605 rating, low competition, evergreen category, $24.99 impulse-friendly price point), the math is broken\u2014you'd lose $0.40-$1.15 per unit sold before accounting for operational overhead."
+        },
+        "risk": {
+          "score": 18,
+          "confidence": "high",
+          "reasoning": "Multiple critical failures: 0% margin makes profitability impossible, Viability Score of 28.3 indicates poor product-market fit, and sheet sets carry inherently high return rates (sizing/comfort issues). Saturated market with massive competition (430k reviews) despite low BSR suggests race-to-bottom pricing with razor-thin margins that cannot support paid acquisition or hedge fund operations."
+        }
+      },
+      "meta_decision": {
+        "final_score": 34.7,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Strong foundational demand with 430k+ reviews, 4.5\u2605 rating, and evergreen appeal in a consistently profitable category.",
+        "key_risk": "0% margin makes profitability mathematically impossible\u2014you lose $0.40-$1.15 per unit sold before operational overhead, creating guaranteed losses.",
+        "verdict": "REJECT this product. Despite solid demand fundamentals and low competition, the broken unit economics (0% margin) combined with high return rates typical of sheet sets, saturated market conditions, and inability to sustain paid acquisition costs make this a guaranteed loss leader. The product fails on the critical profit metric that underpins hedge fund viability."
+      },
+      "weighted_score": 33.7,
+      "final_score": 34.7,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes for Sensitive",
+      "price": 20.58,
+      "analysts": {
+        "demand": {
+          "score": 35,
+          "confidence": "medium",
+          "reasoning": "While the product has exceptional reviews (233k+) and low competition, declining momentum, zero profit margin, and poor viability scores indicate weakening demand. The $20.58 price point is too high for impulse purchasing in the personal hygiene category, and the 0 Ad Score suggests limited scalability for paid marketing despite moderate TikTok potential."
+        },
+        "virality": {
+          "score": 28,
+          "confidence": "high",
+          "reasoning": "While the product has evergreen appeal and low competition, it scores poorly on viral fundamentals: zero wow factor, no visual satisfaction potential, and minimal emotional triggers beyond functional utility. The declining momentum and 0 Ad Score suggest this is a mature, commoditized category where organic virality is unlikely despite the strong Amazon metrics."
+        },
+        "competition": {
+          "score": 28,
+          "confidence": "medium",
+          "reasoning": "Despite LOW_COMPETITION saturation signal, the 0% margin, declining momentum, low viability score (27.9), and poor profitability indicators suggest this is a commodity product with razor-thin margins that established brands dominate. The high review count (233k) indicates saturated market presence by major players like DUDE, making differentiation and profitability extremely difficult for new entrants."
+        },
+        "supply_chain": {
+          "score": 62,
+          "confidence": "medium",
+          "reasoning": "Shipping is favorable (lightweight, compact wipes) with established suppliers like Kimberly-Clark backing the category, but the 0% margin, declining momentum, and low viability score indicate significant profitability challenges despite low competition. Quality consistency is manageable for a commodity wet wipes product, though US warehouse availability would be needed to compete effectively."
+        },
+        "profit": {
+          "score": 12,
+          "confidence": "high",
+          "reasoning": "With 0% margin after all costs, this product is fundamentally unprofitable for dropshipping regardless of CPA optimization. While the price point ($20.58) suits impulse purchases and saturation is low, the combination of high shipping costs (~$3-5), platform fees (15%), and required ad spend (30%) leaves no buffer for profitability. The declining momentum and low viability score (27.9) confirm this is not a viable opportunity."
+        },
+        "risk": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "Critical red flags: 0% profit margin makes this unviable regardless of other metrics, declining momentum with low ad/wow/problem-solving scores indicates poor market demand, and established brand (DUDE Wipes) creates significant IP/brand competition risk. The product is fundamentally unprofitable to dropship."
+        }
+      },
+      "meta_decision": {
+        "final_score": 28.9,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Established product with exceptional Amazon reviews (233k+) and low competition saturation signals indicate proven market demand.",
+        "key_risk": "0% profit margin after all costs (shipping, platform fees, ad spend) makes this fundamentally unprofitable regardless of sales volume or optimization efforts.",
+        "verdict": "REJECT - This product is not viable for dropshipping. The combination of zero profit margin, declining momentum, and established brand dominance by DUDE Wipes creates an impossible unit economics scenario. Allocate capital to opportunities with positive margin potential instead."
+      },
+      "weighted_score": 28.6,
+      "final_score": 28.9,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pillow Top Matt",
+      "price": 45.99,
+      "analysts": {
+        "demand": {
+          "score": 32,
+          "confidence": "medium",
+          "reasoning": "While the product has strong social proof (43.6K reviews, 4.4\u2605 rating) and low competition, declining momentum, zero ad score, zero profit margin, and a failing viability score indicate weakening demand and poor monetization potential. The evergreen category and $45.99 price point are positives, but the overall metrics suggest this is a saturated, commoditized product with diminishing returns."
+        },
+        "virality": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Mattress toppers have moderate TikTok potential through satisfying texture/compression videos and before-after sleep quality content, with genuine UGC appeal from comfort testimonials. However, the 0% margin, declining momentum, zero wow factor, and low ad score severely limit viral scalability and profitability despite low competition."
+        },
+        "competition": {
+          "score": 28,
+          "confidence": "high",
+          "reasoning": "Despite LOW_COMPETITION saturation signal, the 0% margin, 27 BSR score, declining momentum, and 0 ad score indicate this is a saturated, race-to-the-bottom category where profitability is impossible. The high review count (43,643) suggests established competitors dominate with economies of scale that new entrants cannot match."
+        },
+        "supply_chain": {
+          "score": 24,
+          "confidence": "high",
+          "reasoning": "Queen mattress toppers are bulky/heavy items with high shipping costs that erode thin margins, and the 0% profit margin indicates unsustainable economics. Low supplier reliability expected for specialty bamboo viscose products at this price point, with quality consistency and US warehouse availability highly constrained by volume and cost structure."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is fundamentally unviable for dropshipping - there's no buffer for ad spend variance, platform fluctuations, or returns. Even achieving a $13.80 CPA would require exceptional conversion rates (2-3%) that contradict the 0 Ad Score, making profitable scaling impossible."
+        },
+        "risk": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "Critical viability failure with 0% margin makes this unprofitable regardless of risk profile. High return risk on home textiles (sizing/comfort expectations), combined with declining momentum, low ad score (0), and saturated market despite low competition signal suggests poor product-market fit and unsustainable unit economics for dropshipping."
+        }
+      },
+      "meta_decision": {
+        "final_score": 26.8,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Established product category with strong social proof (43.6K reviews, 4.4\u2605 rating) and evergreen demand for sleep comfort solutions.",
+        "key_risk": "0% profit margin makes this fundamentally unviable for dropshipping\u2014there is no buffer for advertising costs, platform fees, or returns, guaranteeing losses at scale.",
+        "verdict": "REJECT this product immediately. The 0% margin combined with declining momentum, high shipping costs on bulky items, and saturated competition creates a race-to-the-bottom scenario where profitability is mathematically impossible. No amount of traffic volume can overcome unit economics that start at zero profit."
+      },
+      "weighted_score": 27.5,
+      "final_score": 26.8,
+      "decision": "REJECT",
+      "budget": 0
+    }
+  ],
+  "strong_test": [],
+  "test": [],
+  "watch": [],
+  "reject": [
+    {
+      "product": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper",
+      "price": 19.99,
+      "analysts": {
+        "demand": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Product shows mixed signals: strong review count (934) and low competition indicate established demand, but 0% margin and low viability score (29.2) are major red flags. TikTok potential (59) and evergreen category suggest modest growth, but ad score of 0 and lack of profit viability make this unmarketable for a hedge fund focused on ROI."
+        },
+        "virality": {
+          "score": 62,
+          "confidence": "medium",
+          "reasoning": "Strong TikTok potential (59/59) due to satisfying chopping/slicing visuals and quick food prep demos that perform well on the platform. However, 0% margin and low ad score indicate poor monetization, while modest wow factor (0/100) and problem-solving (20/100) limit organic shareability despite low competition and steady upward momentum."
+        },
+        "competition": {
+          "score": 35,
+          "confidence": "medium",
+          "reasoning": "Despite LOW_COMPETITION signal, the 0% margin, low Viability Score (29.2), and poor Ad Score (0) indicate this is a race-to-bottom commodity product where profitability is nearly impossible. The high review count (934) and steady momentum suggest market maturity with established competitors who've achieved economies of scale that new entrants cannot match."
+        },
+        "supply_chain": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Vegetable choppers are lightweight and compact with favorable shipping costs, but this product faces critical supply chain challenges: low profit margins (0%) limit supplier negotiation power, single-source dependency risk from typical Chinese manufacturers, quality consistency issues at scale given the 4.4 rating (not exceptional), and limited US warehouse availability for this price point makes logistics unprofitable. The low viability score (29.2) and shipping score (30) confirm structural supply chain constraints."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is completely unviable as it provides zero buffer for ad spend variability, platform volatility, or operational costs. Even achieving a sub-$6 CPA is mathematically impossible given the $19.99 price point requires ~$3-5 profit after COGS/shipping/fees, leaving insufficient margin to sustain profitable customer acquisition at scale."
+        },
+        "risk": {
+          "score": 32,
+          "confidence": "high",
+          "reasoning": "Critical red flags: 0% margin makes this unprofitable regardless of sales volume, Viability Score of 29.2 indicates fundamental business model issues, and the product's fragile blade assembly creates high return/damage risk during shipping (30/100 shipping score). While saturation is low and evergreen demand exists, the combination of zero profitability, poor viability metrics, and gadget fragility risk makes this unsuitable for hedge fund investment."
+        }
+      },
+      "meta_decision": {
+        "final_score": 38.85,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Strong TikTok virality potential (62/100) with satisfying visual content and established demand signals (934 reviews).",
+        "key_risk": "0% profit margin makes the product mathematically unprofitable regardless of sales volume, combined with a critically low viability score of 29.2 and fragile supply chain constraints.",
+        "verdict": "REJECT this product. The 0% margin is a dealbreaker for any hedge fund focused on ROI\u2014there is no buffer for customer acquisition costs, operational expenses, or market volatility. While virality and demand metrics show modest potential, fundamental profitability is impossible, making this a race-to-bottom commodity product where established competitors have already achieved insurmountable cost advantages. Do not allocate capital."
+      },
+      "weighted_score": 38.6,
+      "final_score": 38.85,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel",
+      "price": 24.99,
+      "analysts": {
+        "demand": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "The product shows strong foundational demand signals with 430k+ reviews and evergreen appeal in a consistently profitable category. However, 0% margins, low ad score (0), zero wow factor, and weak viability metrics (28.3) indicate this is a commoditized, oversaturated market where differentiation and profitability are severely compromised despite low current competition."
+        },
+        "virality": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Sheet sets have moderate UGC potential with before/after comfort demonstrations and cozy bedroom aesthetics that perform on TikTok, but lack the visual 'wow factor' or emotional surprise needed for organic virality. The 0% margin and low ad score indicate this product can't sustain paid viral campaigns, limiting scalability despite low competition."
+        },
+        "competition": {
+          "score": 32,
+          "confidence": "high",
+          "reasoning": "Despite LOW_COMPETITION signal, the 0% margin, failed viability score (28.3), and 0 Ad Score indicate this is a race-to-bottom commodity product with heavy existing competition. The massive review count (430K+) and low BSR (31) suggest market saturation with established sellers offering similar products at unsustainable margins."
+        },
+        "supply_chain": {
+          "score": 52,
+          "confidence": "medium",
+          "reasoning": "Sheet sets present moderate shipping costs due to bulk/weight, but the 65 shipping score and evergreen category suggest manageable logistics. However, 0% margin and low viability score indicate supplier pricing leaves no room for profitable fulfillment after shipping costs, creating fundamental supply chain economics problems despite low competition and steady demand momentum."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is unsustainable for profitability; even achieving a $7.50 CPA (30% of price) leaves no buffer for platform fees (~$3.75), shipping costs ($3-5), and product cost ($8.75), resulting in guaranteed losses. While the product has strong fundamentals (4.5\u2605 rating, low competition, evergreen category, $24.99 impulse-friendly price point), the math is broken\u2014you'd lose $0.40-$1.15 per unit sold before accounting for operational overhead."
+        },
+        "risk": {
+          "score": 18,
+          "confidence": "high",
+          "reasoning": "Multiple critical failures: 0% margin makes profitability impossible, Viability Score of 28.3 indicates poor product-market fit, and sheet sets carry inherently high return rates (sizing/comfort issues). Saturated market with massive competition (430k reviews) despite low BSR suggests race-to-bottom pricing with razor-thin margins that cannot support paid acquisition or hedge fund operations."
+        }
+      },
+      "meta_decision": {
+        "final_score": 34.7,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Strong foundational demand with 430k+ reviews, 4.5\u2605 rating, and evergreen appeal in a consistently profitable category.",
+        "key_risk": "0% margin makes profitability mathematically impossible\u2014you lose $0.40-$1.15 per unit sold before operational overhead, creating guaranteed losses.",
+        "verdict": "REJECT this product. Despite solid demand fundamentals and low competition, the broken unit economics (0% margin) combined with high return rates typical of sheet sets, saturated market conditions, and inability to sustain paid acquisition costs make this a guaranteed loss leader. The product fails on the critical profit metric that underpins hedge fund viability."
+      },
+      "weighted_score": 33.7,
+      "final_score": 34.7,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet Wipes for Sensitive",
+      "price": 20.58,
+      "analysts": {
+        "demand": {
+          "score": 35,
+          "confidence": "medium",
+          "reasoning": "While the product has exceptional reviews (233k+) and low competition, declining momentum, zero profit margin, and poor viability scores indicate weakening demand. The $20.58 price point is too high for impulse purchasing in the personal hygiene category, and the 0 Ad Score suggests limited scalability for paid marketing despite moderate TikTok potential."
+        },
+        "virality": {
+          "score": 28,
+          "confidence": "high",
+          "reasoning": "While the product has evergreen appeal and low competition, it scores poorly on viral fundamentals: zero wow factor, no visual satisfaction potential, and minimal emotional triggers beyond functional utility. The declining momentum and 0 Ad Score suggest this is a mature, commoditized category where organic virality is unlikely despite the strong Amazon metrics."
+        },
+        "competition": {
+          "score": 28,
+          "confidence": "medium",
+          "reasoning": "Despite LOW_COMPETITION saturation signal, the 0% margin, declining momentum, low viability score (27.9), and poor profitability indicators suggest this is a commodity product with razor-thin margins that established brands dominate. The high review count (233k) indicates saturated market presence by major players like DUDE, making differentiation and profitability extremely difficult for new entrants."
+        },
+        "supply_chain": {
+          "score": 62,
+          "confidence": "medium",
+          "reasoning": "Shipping is favorable (lightweight, compact wipes) with established suppliers like Kimberly-Clark backing the category, but the 0% margin, declining momentum, and low viability score indicate significant profitability challenges despite low competition. Quality consistency is manageable for a commodity wet wipes product, though US warehouse availability would be needed to compete effectively."
+        },
+        "profit": {
+          "score": 12,
+          "confidence": "high",
+          "reasoning": "With 0% margin after all costs, this product is fundamentally unprofitable for dropshipping regardless of CPA optimization. While the price point ($20.58) suits impulse purchases and saturation is low, the combination of high shipping costs (~$3-5), platform fees (15%), and required ad spend (30%) leaves no buffer for profitability. The declining momentum and low viability score (27.9) confirm this is not a viable opportunity."
+        },
+        "risk": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "Critical red flags: 0% profit margin makes this unviable regardless of other metrics, declining momentum with low ad/wow/problem-solving scores indicates poor market demand, and established brand (DUDE Wipes) creates significant IP/brand competition risk. The product is fundamentally unprofitable to dropship."
+        }
+      },
+      "meta_decision": {
+        "final_score": 28.9,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Established product with exceptional Amazon reviews (233k+) and low competition saturation signals indicate proven market demand.",
+        "key_risk": "0% profit margin after all costs (shipping, platform fees, ad spend) makes this fundamentally unprofitable regardless of sales volume or optimization efforts.",
+        "verdict": "REJECT - This product is not viable for dropshipping. The combination of zero profit margin, declining momentum, and established brand dominance by DUDE Wipes creates an impossible unit economics scenario. Allocate capital to opportunities with positive margin potential instead."
+      },
+      "weighted_score": 28.6,
+      "final_score": 28.9,
+      "decision": "REJECT",
+      "budget": 0
+    },
+    {
+      "product": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Bamboo Pillow Top Matt",
+      "price": 45.99,
+      "analysts": {
+        "demand": {
+          "score": 32,
+          "confidence": "medium",
+          "reasoning": "While the product has strong social proof (43.6K reviews, 4.4\u2605 rating) and low competition, declining momentum, zero ad score, zero profit margin, and a failing viability score indicate weakening demand and poor monetization potential. The evergreen category and $45.99 price point are positives, but the overall metrics suggest this is a saturated, commoditized product with diminishing returns."
+        },
+        "virality": {
+          "score": 42,
+          "confidence": "medium",
+          "reasoning": "Mattress toppers have moderate TikTok potential through satisfying texture/compression videos and before-after sleep quality content, with genuine UGC appeal from comfort testimonials. However, the 0% margin, declining momentum, zero wow factor, and low ad score severely limit viral scalability and profitability despite low competition."
+        },
+        "competition": {
+          "score": 28,
+          "confidence": "high",
+          "reasoning": "Despite LOW_COMPETITION saturation signal, the 0% margin, 27 BSR score, declining momentum, and 0 ad score indicate this is a saturated, race-to-the-bottom category where profitability is impossible. The high review count (43,643) suggests established competitors dominate with economies of scale that new entrants cannot match."
+        },
+        "supply_chain": {
+          "score": 24,
+          "confidence": "high",
+          "reasoning": "Queen mattress toppers are bulky/heavy items with high shipping costs that erode thin margins, and the 0% profit margin indicates unsustainable economics. Low supplier reliability expected for specialty bamboo viscose products at this price point, with quality consistency and US warehouse availability highly constrained by volume and cost structure."
+        },
+        "profit": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "0% margin is fundamentally unviable for dropshipping - there's no buffer for ad spend variance, platform fluctuations, or returns. Even achieving a $13.80 CPA would require exceptional conversion rates (2-3%) that contradict the 0 Ad Score, making profitable scaling impossible."
+        },
+        "risk": {
+          "score": 15,
+          "confidence": "high",
+          "reasoning": "Critical viability failure with 0% margin makes this unprofitable regardless of risk profile. High return risk on home textiles (sizing/comfort expectations), combined with declining momentum, low ad score (0), and saturated market despite low competition signal suggests poor product-market fit and unsustainable unit economics for dropshipping."
+        }
+      },
+      "meta_decision": {
+        "final_score": 26.8,
+        "decision": "REJECT",
+        "budget_recommendation": 0,
+        "key_strength": "Established product category with strong social proof (43.6K reviews, 4.4\u2605 rating) and evergreen demand for sleep comfort solutions.",
+        "key_risk": "0% profit margin makes this fundamentally unviable for dropshipping\u2014there is no buffer for advertising costs, platform fees, or returns, guaranteeing losses at scale.",
+        "verdict": "REJECT this product immediately. The 0% margin combined with declining momentum, high shipping costs on bulky items, and saturated competition creates a race-to-the-bottom scenario where profitability is mathematically impossible. No amount of traffic volume can overcome unit economics that start at zero profit."
+      },
+      "weighted_score": 27.5,
+      "final_score": 26.8,
+      "decision": "REJECT",
+      "budget": 0
+    }
+  ],
+  "stats": {
+    "total_evaluated": 4,
+    "strong_test": 0,
+    "test": 0,
+    "watch": 0,
+    "reject": 4,
+    "total_recommended_budget": 0,
+    "avg_score": 32.3
+  }
+}

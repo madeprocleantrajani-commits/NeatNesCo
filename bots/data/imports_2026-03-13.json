@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-13",
+  "store": "Neatnestco",
+  "imported_count": 4,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14977660223860,
+      "title": "LEVOIT Air Purifiers for Bedroom Home Dorm, AHAM Verified, 3-in-1 F...",
+      "original_title": "LEVOIT Air Purifiers for Bedroom Home Dorm, AHAM Verified, 3-in-1 Filter Cleaner",
+      "price": "44.99",
+      "compare_at": "54.95",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 66.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "home-kitchen",
+      "imported_at": "2026-03-13T11:00:04.004213"
+    },
+    {
+      "shopify_id": 14977660289396,
+      "title": "0.5 Sec Instant Read Meat Thermometer Digital with \u00b10.5\u2109 Precision,...",
+      "original_title": "0.5 Sec Instant Read Meat Thermometer Digital with \u00b10.5\u2109 Precision, Food Thermom",
+      "price": "11.99",
+      "compare_at": "14.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 56.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-13T11:00:05.782824"
+    },
+    {
+      "shopify_id": 14977660322164,
+      "title": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy ...",
+      "original_title": "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to Use, Razor",
+      "price": "12.99",
+      "compare_at": "16.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 55.4,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-13T11:00:07.616483"
+    },
+    {
+      "shopify_id": 14977660387700,
+      "title": "Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Ac...",
+      "original_title": "Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Acid - Formulat",
+      "price": "12.99",
+      "compare_at": "15.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 53.6,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-13T11:00:09.331326"
+    }
+  ],
+  "failed": [],
+  "total_history": 19
+}

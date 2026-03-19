@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-10",
+  "store": "Neatnestco",
+  "imported_count": 5,
+  "failed_count": 0,
+  "products": [
+    {
+      "shopify_id": 14972032483700,
+      "title": "YARRAMATE 16oz/470ml Glass Olive Oil Sprayer for Cooking with Stick...",
+      "original_title": "YARRAMATE 16oz/470ml Glass Olive Oil Sprayer for Cooking with Stickers, 2 in 1 O",
+      "price": "7.99",
+      "compare_at": "9.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 67.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-10T11:00:03.270087"
+    },
+    {
+      "shopify_id": 14972032516468,
+      "title": "DAYBETTER LED Strip Lights 130ft Lights Strip for Bedroom, Desk, In...",
+      "original_title": "DAYBETTER LED Strip Lights 130ft Lights Strip for Bedroom, Desk, Indoor Room Bed",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 65.4,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-10T11:00:04.855112"
+    },
+    {
+      "shopify_id": 14972032549236,
+      "title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container,...",
+      "original_title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper",
+      "price": "14.99",
+      "compare_at": "19.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 63.2,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "kitchen",
+      "imported_at": "2026-03-10T11:00:06.728806"
+    },
+    {
+      "shopify_id": 14972032582004,
+      "title": "KSIPZE 100ft Led Strip Lights RGB Music Sync Color Changing Led Lig...",
+      "original_title": "KSIPZE 100ft Led Strip Lights RGB Music Sync Color Changing Led Lights with Smar",
+      "price": "8.99",
+      "compare_at": "10.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 63.1,
+      "signals": [
+        "amazon_bestseller",
+        "seed_keyword",
+        "search_demand",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "tools",
+      "imported_at": "2026-03-10T11:00:08.541402"
+    },
+    {
+      "shopify_id": 14972032614772,
+      "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Mois...",
+      "original_title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer Face ",
+      "price": "21.99",
+      "compare_at": "28.99",
+      "cost": null,
+      "margin_pct": null,
+      "classification": "STRONG_BUY",
+      "import_score": 59.3,
+      "signals": [
+        "amazon_bestseller",
+        "tiktok_viral",
+        "competitor_sells"
+      ],
+      "niche": "beauty",
+      "imported_at": "2026-03-10T11:00:10.323716"
+    }
+  ],
+  "failed": [],
+  "total_history": 5
+}

@@ -1,0 +1,194 @@
+{
+  "daily": {
+    "2026-03-18": {
+      "timestamp": "2026-03-18T14:45:57.397445",
+      "pipeline": {
+        "trends": {
+          "ok": true,
+          "hot_products": 3,
+          "discoveries": 166
+        },
+        "tiktok": {
+          "ok": true,
+          "top_picks": 25
+        },
+        "amazon": {
+          "ok": true,
+          "products": 289,
+          "movers": 77
+        },
+        "demand": {
+          "ok": true,
+          "suggestions": 11841
+        },
+        "ebay": {
+          "ok": true,
+          "sold": 1600
+        },
+        "aliexpress": {
+          "ok": true,
+          "products": 72,
+          "deals": 0
+        },
+        "adspy": {
+          "ok": false,
+          "intelligence": 0
+        },
+        "competitors": {
+          "ok": true,
+          "stores": 60
+        }
+      },
+      "active_sources": 7,
+      "winner_stats": {
+        "total_analyzed": 65,
+        "strong_buy": 0,
+        "buy": 5,
+        "watch": 33,
+        "avg_viability": 16.3,
+        "tiktok_validated": 19,
+        "ad_proven": 0,
+        "trend_matches": 0,
+        "evergreen": 65
+      },
+      "analysis_stats": {
+        "active_sources": 7,
+        "candidates": 68,
+        "cross_refs": 43
+      },
+      "top_products": [
+        {
+          "title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Con",
+          "price": 19.99,
+          "viability": 29.5,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet",
+          "price": 20.58,
+          "viability": 27.9,
+          "type": "REPEAT + BUNDLE + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Be",
+          "price": 24.99,
+          "viability": 27.8,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Ba",
+          "price": 45.99,
+          "viability": 26.9,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "High Pressure Rain Shower Head: Upgrade Shower Heads with Ha",
+          "price": 52.99,
+          "viability": 25.2,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        }
+      ]
+    },
+    "2026-03-19": {
+      "timestamp": "2026-03-19T07:07:22.449804",
+      "pipeline": {
+        "trends": {
+          "ok": true,
+          "hot_products": 3,
+          "discoveries": 136
+        },
+        "tiktok": {
+          "ok": true,
+          "top_picks": 25
+        },
+        "amazon": {
+          "ok": true,
+          "products": 287,
+          "movers": 79
+        },
+        "demand": {
+          "ok": true,
+          "suggestions": 11841
+        },
+        "ebay": {
+          "ok": false,
+          "sold": 0
+        },
+        "aliexpress": {
+          "ok": true,
+          "products": 72,
+          "deals": 0
+        },
+        "adspy": {
+          "ok": false,
+          "intelligence": 0
+        },
+        "competitors": {
+          "ok": true,
+          "stores": 60
+        }
+      },
+      "active_sources": 6,
+      "winner_stats": {
+        "total_analyzed": 65,
+        "strong_buy": 0,
+        "buy": 4,
+        "watch": 30,
+        "avg_viability": 15.6,
+        "tiktok_validated": 18,
+        "ad_proven": 0,
+        "trend_matches": 0,
+        "evergreen": 65
+      },
+      "analysis_stats": {
+        "active_sources": 6,
+        "candidates": 68,
+        "cross_refs": 43
+      },
+      "top_products": [
+        {
+          "title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Con",
+          "price": 19.99,
+          "viability": 29.2,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Be",
+          "price": 24.99,
+          "viability": 28.3,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "DUDE Wipes Unscented Flushable Wipes - Extra-Large Adult Wet",
+          "price": 20.58,
+          "viability": 27.9,
+          "type": "REPEAT + BUNDLE + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        },
+        {
+          "title": "Ultra Soft Queen Size Mattress Topper - Viscose Made from Ba",
+          "price": 45.99,
+          "viability": 27.4,
+          "type": "REPEAT + BUNDLE + UGC + TIKTOK",
+          "signal_count": 1,
+          "recommendation": "BUY"
+        }
+      ]
+    }
+  }
+}

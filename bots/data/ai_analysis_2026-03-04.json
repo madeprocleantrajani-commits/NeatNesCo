@@ -1,0 +1,98 @@
+{
+  "analysis_date": "2026-03-04",
+  "total_analyzed": 15,
+  "winners": [],
+  "watch": [],
+  "all_results": [
+    {
+      "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel Luxury Bedding for Women, Men, Kids, Teens, Boys & Girls - Deep Pockets, Soft and Wrinkle Free - Oeko-Tex - Dark Grey",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawkD7sizA7chNuGfXV'}"
+    },
+    {
+      "title": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Black Cherry",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawnq841d3po724Hu2X'}"
+    },
+    {
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid | Ideal for All, Korean Skin Care, 70 Pads (1 Pack)",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawqCW77wHfGb7nMky5'}"
+    },
+    {
+      "title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawsWAFDsWcV8V14dHe'}"
+    },
+    {
+      "title": "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter 40 lb. Bag",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawuoa2mCPX6okKWcth'}"
+    },
+    {
+      "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Indoor, 5 Levels Dimmable Magnetic Closet Lights, Wireless Under Counter Lights for Kitchen, Stairs",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawx8UTZ4sLFXGH4fEB'}"
+    },
+    {
+      "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for Travel, School, and Sports, 30oz, BPA Free, Leak Proof, Off Road",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiawzVr7C8941656Jtxm'}"
+    },
+    {
+      "title": "ARM & HAMMER Clump & Seal SLIDE Platinum Multi-Cat Clumping Cat Litter, 14-Day Odor Control, EZ Clean Technology, 18 lbs – No Scrubbing, Powerful Odor Eliminator",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiax2vhYs4Ao3LNj32Mh'}"
+    },
+    {
+      "title": "Filterbuy 20x20x1 Air Filter MERV 8 Essential Dust & Allergy Defense (4-Pack), Electrostatic Pleated HVAC AC Furnace Filters Replacement, Made in USA (Actual Size: 19.50 x 19.50 x 0.75)",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiax5DN1nZ9DRZQ1j7Nc'}"
+    },
+    {
+      "title": "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training, Running, Fitness, Muscle Building, Weight Loss, Weightlifting",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiax7hSVdR8qh6S1wV3K'}"
+    },
+    {
+      "title": "Mighty Patch Original Patch from Hero Cosmetics - #1 Hydrocolloid Acne Pimple Patches for Face, Shrinking Zits & Whiteheads in 1 Use, Nighttime Spot Pimple Stickers for Face, 36 Count",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiaxApDD1SDbfAoL82Y8'}"
+    },
+    {
+      "title": "Greenies Pill Pockets for Dogs Large Size, Dog Treat Pouch for Capsule Medication, Peanut Butter Flavor, 15.8 oz. Pouch",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiaxDHYWc1AvaYfPeqXZ'}"
+    },
+    {
+      "title": "Zeerun Weighted Vest for Women & Men with Reflective Stripe and Adjustable Buckle, Comfortable & Durable Rucking Vest for Walking, Running & Strength Training",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiaxFi9ReYsYvMxmVi6p'}"
+    },
+    {
+      "title": "Earth Rated Poop Bags for Dogs, Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls, Lavender Scented, 270 Bags",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiaxJ1JjNqPFb1szRbu2'}"
+    },
+    {
+      "title": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.8 million movies and shows, free & live TV",
+      "dropship_score": 0,
+      "verdict": "SKIP",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CYiaxLQvFWXrHrP1Vit2L'}"
+    }
+  ]
+}
