@@ -220,7 +220,10 @@ export default function CartDrawer({ isOpen, onClose, cart, onUpdateQty, onRemov
               </div>
             </div>
 
-            <button onClick={() => alert('Secure checkout launching soon! We\'re finalizing our Stripe integration. Join the newsletter to be first to know!')} style={{
+            <button onClick={() => {
+              const lineItems = items.map(i => `${i.product.variantId}:${i.qty}`).join(',')
+              window.open(`https://8hendy-8i.myshopify.com/cart/${lineItems}`, '_blank')
+            }} style={{
               width: '100%', padding: '0.85rem', borderRadius: '12px',
               background: '#1d1d1f', color: '#fff',
               border: 'none', fontSize: '0.95rem', fontWeight: 500,
@@ -233,7 +236,7 @@ export default function CartDrawer({ isOpen, onClose, cart, onUpdateQty, onRemov
               textAlign: 'center', fontSize: '0.65rem', color: '#aeaeb2',
               marginTop: '0.4rem', fontStyle: 'italic',
             }}>
-              Secure checkout launching soon
+              Secure checkout via Shopify
             </p>
 
             <div style={{
