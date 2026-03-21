@@ -30,8 +30,8 @@ export const PRODUCTS = [
     shopifyId: 14972407742836,
     variantId: 54067895763316,
     name: 'ArcLite Electric Lighter',
-    price: 14.99,
-    originalPrice: 29.99,
+    price: 28.99,
+    originalPrice: 54.99,
     category: 'Home & Cleaning',
     badge: 'Trending',
     description: 'USB rechargeable windproof plasma lighter. No fuel, no flame, works in any weather.',
@@ -102,8 +102,8 @@ export const PRODUCTS = [
     shopifyId: 14972407480692,
     variantId: 54067895107956,
     name: 'FrothMaster Milk Frother',
-    price: 14.99,
-    originalPrice: 29.99,
+    price: 26.99,
+    originalPrice: 49.99,
     category: 'Kitchen',
     badge: 'Flash Sale',
     description: 'Handheld electric foam maker for lattes, cappuccinos, and matcha. Barista-quality froth in 15 seconds.',
@@ -246,8 +246,8 @@ export const PRODUCTS = [
     shopifyId: 14975463817588,
     variantId: 54074133610868,
     name: 'Ultra-Bright LED Headlamp',
-    price: 13.99,
-    originalPrice: 29.99,
+    price: 27.99,
+    originalPrice: 49.99,
     category: 'Home & Cleaning',
     badge: 'Popular',
     description: 'Rechargeable LED headlamp with 5 modes. Super bright, lightweight, and waterproof for camping, running, and work.',
@@ -287,7 +287,7 @@ export const REVIEWS = [
 // ─── Features ────────────────────────────────────────────────────────────────
 
 export const FEATURES = [
-  { title: 'Lightning Shipping', desc: 'Most orders delivered in 5-12 business days worldwide. Real-time tracking on every order.', stat: '5-12 days' },
+  { title: 'Tracked Shipping', desc: 'Orders ship within 24-48 hours. Estimated delivery 12-20 business days. Real-time tracking on every order.', stat: '12-20 days' },
   { title: 'Fort Knox Checkout', desc: 'Military-grade SSL encryption. Apple Pay, Google Pay, and all major cards accepted.', stat: '256-bit' },
   { title: '30-Day Returns', desc: "Changed your mind? Full refund, zero questions. We even cover return shipping.", stat: '100% free' },
   { title: 'Curated Quality', desc: 'Every single product is hand-tested by our team before it makes the cut.', stat: '< 3% pass' },
@@ -298,10 +298,10 @@ export const FEATURES = [
 // ─── FAQ ─────────────────────────────────────────────────────────────────────
 
 export const FAQ_ITEMS = [
-  { q: 'How long does shipping take?', a: 'Most orders ship within 24-48 hours and arrive in 5-12 business days depending on your location. All orders include free tracking so you can follow your package every step of the way.' },
+  { q: 'How long does shipping take?', a: 'Orders are processed within 24-48 hours. Estimated delivery is 12-20 business days depending on your location. All orders include free tracking so you can follow your package every step of the way.' },
   { q: 'What is your return policy?', a: "We offer a hassle-free 30-day return policy on all products. If you're not completely satisfied, just reach out to our support team and we'll arrange a full refund. We even cover return shipping costs." },
   { q: 'Are your products authentic?', a: "Absolutely. Every product in our catalog is sourced directly from verified manufacturers and undergoes our rigorous quality check. We test every product ourselves before listing it." },
-  { q: 'Do you ship internationally?', a: 'Yes! We ship to 30+ countries worldwide including US, Canada, UK, Australia, and most of Europe. International shipping typically takes 7-15 business days.' },
+  { q: 'Do you ship internationally?', a: 'Yes! We ship to 30+ countries worldwide including US, Canada, UK, Australia, and most of Europe. International shipping typically takes 15-25 business days.' },
   { q: 'How do I track my order?', a: "Once your order ships, you'll receive an email with a tracking number and link. You can also track your order anytime by visiting our website and entering your order number." },
   { q: 'Can I cancel or modify my order?', a: 'You can cancel or modify your order within 2 hours of placing it. After that, orders enter our fulfillment pipeline. Contact our 24/7 support team and we\'ll do our best to accommodate changes.' },
   { q: 'What payment methods do you accept?', a: 'We accept all major credit/debit cards (Visa, Mastercard, Amex), Apple Pay, Google Pay, PayPal, and Shop Pay. All transactions are secured with 256-bit SSL encryption.' },

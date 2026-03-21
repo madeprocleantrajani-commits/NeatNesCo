@@ -16,7 +16,7 @@ function getBotResponse(input) {
 
   // Shipping
   if (q.includes('ship') || q.includes('deliver') || q.includes('how long')) {
-    return 'Most orders ship within 24-48 hours and arrive in 5-12 business days worldwide. All orders include free tracking. Orders over $50 get free shipping!'
+    return 'Orders ship within 24-48 hours. Estimated delivery is 12-20 business days. All orders include free tracking. Orders over $25 get free shipping!'
   }
 
   // Returns
@@ -62,7 +62,7 @@ function getBotResponse(input) {
 
   // International
   if (q.includes('international') || q.includes('country') || q.includes('worldwide') || q.includes('global')) {
-    return 'We ship to 45+ countries worldwide! International shipping typically takes 7-15 business days. Customs fees, if applicable, are the responsibility of the customer.'
+    return 'We ship to 30+ countries worldwide! International shipping typically takes 15-25 business days. Customs fees, if applicable, are the responsibility of the customer.'
   }
 
   // Quality / authentic

@@ -10,7 +10,7 @@ export default function CartDrawer({ isOpen, onClose, cart, onUpdateQty, onRemov
 
   const subtotal = items.reduce((sum, i) => sum + i.product.price * i.qty, 0)
   const savings = items.reduce((sum, i) => sum + (i.product.originalPrice - i.product.price) * i.qty, 0)
-  const shipping = subtotal > 50 ? 0 : 4.99
+  const shipping = subtotal > 25 ? 0 : 4.99
 
   return (
     <>
@@ -63,8 +63,8 @@ export default function CartDrawer({ isOpen, onClose, cart, onUpdateQty, onRemov
               fontSize: '0.75rem', color: '#86868b', marginBottom: '0.4rem',
               display: 'flex', justifyContent: 'space-between',
             }}>
-              <span>Add ${(50 - subtotal).toFixed(2)} more for free shipping</span>
-              <span style={{ fontWeight: 600 }}>${subtotal.toFixed(2)} / $50</span>
+              <span>Add ${(25 - subtotal).toFixed(2)} more for free shipping</span>
+              <span style={{ fontWeight: 600 }}>${subtotal.toFixed(2)} / $25</span>
             </div>
             <div style={{
               height: '3px', borderRadius: '2px', background: 'rgba(0,0,0,0.06)', overflow: 'hidden',
